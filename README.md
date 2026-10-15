@@ -1,4 +1,4 @@
-# Speech-Packs
+# Speech-Packs [![License Badge](https://img.shields.io/badge/BY--NC--SA%204.0%20License-grey?style=flat&logo=creativecommons&logoColor=white)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 This repository contains station audio announcement Speech Packs for use with the [Matrix Departures Board](https://github.com/gadec-uk/matrix-departures-board) and mini [Departures Board +](https://github.com/gadec-uk/departures-board-plus) open-source software.
 
