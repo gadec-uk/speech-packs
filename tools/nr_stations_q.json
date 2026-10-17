@@ -1,0 +1,33 @@
+{
+    "path": "SN/Q",
+    "phrases": [
+        {
+            "phrase": "Queenborough",
+            "code": "QBR"
+        },
+        {
+            "phrase": "Queens Park",
+            "code": "QPK"
+        },
+        {
+            "phrase": "Queens Park",
+            "code": "QPW"
+        },
+        {
+            "phrase": "Queenstown Road",
+            "code": "QRB"
+        },
+        {
+            "phrase": "Queens Road",
+            "code": "QRP"
+        },
+        {
+            "phrase": "Quintrell Downs",
+            "code": "QUI"
+        },
+        {
+            "phrase": "Quakers Yard",
+            "code": "QYD"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "path": "SN/O",
+    "phrases": [
+        {
+            "phrase": "Oban",
+            "code": "OBN"
+        },
+        {
+            "phrase": "Ockendon",
+            "code": "OCK"
+        },
+        {
+            "phrase": "Old Hill",
+            "code": "OHL"
+        },
+        {
+            "phrase": "Okehampton",
+            "code": "OKE"
+        },
+        {
+            "phrase": "Oakleigh Park",
+            "code": "OKL"
+        },
+        {
+            "phrase": "Oakham",
+            "code": "OKM"
+        },
+        {
+            "phrase": "Oakengates",
+            "code": "OKN"
+        },
+        {
+            "phrase": "Old Street",
+            "code": "OLD"
+        },
+        {
+            "phrase": "Oldfield Park",
+            "code": "OLF"
+        },
+        {
+            "phrase": "Olton",
+            "code": "OLT"
+        },
+        {
+            "phrase": "Ockley",
+            "code": "OLY"
+        },
+        {
+            "phrase": "Ormskirk",
+            "code": "OMS"
+        },
+        {
+            "phrase": "Orrell Park",
+            "code": "OPK"
+        },
+        {
+            "phrase": "Ore",
+            "code": "ORE"
+        },
+        {
+            "phrase": "Old Roan",
+            "code": "ORN"
+        },
+        {
+            "phrase": "Orpington",
+            "code": "ORP"
+        },
+        {
+            "phrase": "Orrell",
+            "code": "ORR"
+        },
+        {
+            "phrase": "Otford",
+            "code": "OTF"
+        },
+        {
+            "phrase": "Oulton Broad North",
+            "code": "OUN"
+        },
+        {
+            "phrase": "Oulton Broad South",
+            "code": "OUS"
+        },
+        {
+            "phrase": "Outwood",
+            "code": "OUT"
+        },
+        {
+            "phrase": "Overpool",
+            "code": "OVE"
+        },
+        {
+            "phrase": "Overton",
+            "code": "OVR"
+        },
+        {
+            "phrase": "Oxford",
+            "code": "OXF"
+        },
+        {
+            "phrase": "Oxenholme Lake District",
+            "code": "OXN"
+        },
+        {
+            "phrase": "Oxford Parkway",
+            "code": "OXP"
+        },
+        {
+            "phrase": "Oxshott",
+            "code": "OXS"
+        },
+        {
+            "phrase": "Oxted",
+            "code": "OXT"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "path": "SN/V",
+    "phrases": [
+        {
+            "phrase": "Valley",
+            "code": "VAL"
+        },
+        {
+            "phrase": "London Victoria",
+            "code": "VIC"
+        },
+        {
+            "phrase": "Virginia Water",
+            "code": "VIR"
+        },
+        {
+            "phrase": "Vauxhall",
+            "code": "VXH"
+        }
+    ]
+}

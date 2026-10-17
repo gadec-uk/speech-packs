@@ -1,0 +1,237 @@
+{
+    "path": "OP",
+    "phrases": [
+        {
+            "name": "Avanti West Coast",
+            "opco": "VT"
+        },
+        {
+            "name": "C2C",
+            "opco": "CC"
+        },
+        {
+            "name": "Chiltern Railways",
+            "opco": "CH"
+        },
+        {
+            "name": "Cross Country",
+            "opco": "XC"
+        },
+        {
+            "name": "East Midlands Railway",
+            "opco": "EM"
+        },
+        {
+            "name": "Elizabeth Line",
+            "opco": "XR"
+        },
+        {
+            "name": "Eurostar",
+            "opco": "ES"
+        },
+        {
+            "name": "London Overground",
+            "opco": "LO"
+        },
+        {
+            "name": "Grand Central",
+            "opco": "GC"
+        },
+        {
+            "name": "Great Western Railway",
+            "opco": "GW"
+        },
+        {
+            "name": "Greater Anglia",
+            "opco": "LE"
+        },
+        {
+            "name": "Great Northern",
+            "opco": "GN"
+        },
+        {
+            "name": "Thameslink",
+            "opco": "TL"
+        },
+        {
+            "name": "Gatwick Express",
+            "opco": "GX"
+        },
+        {
+            "name": "Southern",
+            "opco": "SN"
+        },
+        {
+            "name": "Heathrow Express",
+            "opco": "HX"
+        },
+        {
+            "name": "Hull Trains",
+            "opco": "HT"
+        },
+        {
+            "name": "London North Eastern Railway",
+            "opco": "GR"
+        },
+        {
+            "name": "Merseyrail",
+            "opco": "ME"
+        },
+        {
+            "name": "Northern Trains",
+            "opco": "NT"
+        },
+        {
+            "name": "Scot Rail",
+            "opco": "SR"
+        },
+        {
+            "name": "Southeastern",
+            "opco": "SE"
+        },
+        {
+            "name": "South Western Railway",
+            "opco": "SW"
+        },
+        {
+            "name": "Island Line",
+            "opco": "IL"
+        },
+        {
+            "name": "TransPennine Express",
+            "opco": "TP"
+        },
+        {
+            "name": "Transport for Wales",
+            "opco": "AW"
+        },
+        {
+            "name": "West Midlands Railway",
+            "opco": "LM"
+        },
+        {
+            "name": "Lumo",
+            "opco": "LD"
+        },
+        {
+            "name": "Caledonian Sleeper",
+            "opco": "CS"
+        },
+        {
+            "name": "Avanti West Coast service to",
+            "opco": "VT$"
+        },
+        {
+            "name": "C2C service to",
+            "opco": "CC$"
+        },
+        {
+            "name": "Chiltern Railways service to",
+            "opco": "CH$"
+        },
+        {
+            "name": "Cross Country service to",
+            "opco": "XC$"
+        },
+        {
+            "name": "East Midlands Railway service to",
+            "opco": "EM$"
+        },
+        {
+            "name": "Elizabeth Line service to",
+            "opco": "XR$"
+        },
+        {
+            "name": "Eurostar service to",
+            "opco": "ES$"
+        },
+        {
+            "name": "London Overground service to",
+            "opco": "LO$"
+        },
+        {
+            "name": "Grand Central service to",
+            "opco": "GC$"
+        },
+        {
+            "name": "Great Western Railway service to",
+            "opco": "GW$"
+        },
+        {
+            "name": "Greater Anglia service to",
+            "opco": "LE$"
+        },
+        {
+            "name": "Great Northern service to",
+            "opco": "GN$"
+        },
+        {
+            "name": "Thameslink service to",
+            "opco": "TL$"
+        },
+        {
+            "name": "Gatwick Express service to",
+            "opco": "GX$"
+        },
+        {
+            "name": "Southern service to",
+            "opco": "SN$"
+        },
+        {
+            "name": "Heathrow Express service to",
+            "opco": "HX$"
+        },
+        {
+            "name": "Hull Trains service to",
+            "opco": "HT$"
+        },
+        {
+            "name": "London North Eastern Railway service to",
+            "opco": "GR$"
+        },
+        {
+            "name": "Merseyrail service to",
+            "opco": "ME$"
+        },
+        {
+            "name": "Northern Trains service to",
+            "opco": "NT$"
+        },
+        {
+            "name": "Scot Rail service to",
+            "opco": "SR$"
+        },
+        {
+            "name": "Southeastern service to",
+            "opco": "SE$"
+        },
+        {
+            "name": "South Western Railway service to",
+            "opco": "SW$"
+        },
+        {
+            "name": "Island Line service to",
+            "opco": "IL$"
+        },
+        {
+            "name": "TransPennine Express service to",
+            "opco": "TP$"
+        },
+        {
+            "name": "Transport for Wales service to",
+            "opco": "AW$"
+        },
+        {
+            "name": "West Midlands Railway service to",
+            "opco": "LM$"
+        },
+        {
+            "name": "Lumo service to",
+            "opco": "LD$"
+        },
+        {
+            "name": "Caledonian Sleeper service to",
+            "opco": "CS$"
+        }
+    ]
+}

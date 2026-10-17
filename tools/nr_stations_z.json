@@ -1,0 +1,17 @@
+{
+    "path": "SN/Z",
+    "phrases": [
+        {
+            "phrase": "Canada Water",
+            "code": "ZCW"
+        },
+        {
+            "phrase": "Farringdon",
+            "code": "ZFD"
+        },
+        {
+            "phrase": "Whitechapel",
+            "code": "ZLW"
+        }
+    ]
+}

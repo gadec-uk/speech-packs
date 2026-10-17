@@ -1,0 +1,413 @@
+{
+    "path": "SN/G",
+    "phrases": [
+        {
+            "phrase": "Galashiels",
+            "code": "GAL"
+        },
+        {
+            "phrase": "Garrowhill",
+            "code": "GAR"
+        },
+        {
+            "phrase": "Gilberdyke",
+            "code": "GBD"
+        },
+        {
+            "phrase": "Gorebridge",
+            "code": "GBG"
+        },
+        {
+            "phrase": "Greenbank",
+            "code": "GBK"
+        },
+        {
+            "phrase": "Gainsborough Lea Road",
+            "code": "GBL"
+        },
+        {
+            "phrase": "Goring-By-Sea",
+            "code": "GBS"
+        },
+        {
+            "phrase": "Garelochhead",
+            "code": "GCH"
+        },
+        {
+            "phrase": "Gloucester",
+            "code": "GCR"
+        },
+        {
+            "phrase": "Great Coates",
+            "code": "GCT"
+        },
+        {
+            "phrase": "Glan Conwy",
+            "code": "GCW"
+        },
+        {
+            "phrase": "Gordon Hill",
+            "code": "GDH"
+        },
+        {
+            "phrase": "Godley",
+            "code": "GDL"
+        },
+        {
+            "phrase": "Godstone",
+            "code": "GDN"
+        },
+        {
+            "phrase": "Gidea Park",
+            "code": "GDP"
+        },
+        {
+            "phrase": "Gretna Green",
+            "code": "GEA"
+        },
+        {
+            "phrase": "Gerrards Cross",
+            "code": "GER"
+        },
+        {
+            "phrase": "Greenford",
+            "code": "GFD"
+        },
+        {
+            "phrase": "Gilfach Fargoed",
+            "code": "GFF"
+        },
+        {
+            "phrase": "Giffnock",
+            "code": "GFN"
+        },
+        {
+            "phrase": "Georgemas Junction",
+            "code": "GGJ"
+        },
+        {
+            "phrase": "Gargrave",
+            "code": "GGV"
+        },
+        {
+            "phrase": "Giggleswick",
+            "code": "GIG"
+        },
+        {
+            "phrase": "Gillingham",
+            "code": "GIL"
+        },
+        {
+            "phrase": "Gipsy Hill",
+            "code": "GIP"
+        },
+        {
+            "phrase": "Girvan",
+            "code": "GIR"
+        },
+        {
+            "phrase": "Greenock Central",
+            "code": "GKC"
+        },
+        {
+            "phrase": "Greenock West",
+            "code": "GKW"
+        },
+        {
+            "phrase": "Glasgow Central",
+            "code": "GLC"
+        },
+        {
+            "phrase": "Guildford",
+            "code": "GLD"
+        },
+        {
+            "phrase": "Gleneagles",
+            "code": "GLE"
+        },
+        {
+            "phrase": "Glenfinnan",
+            "code": "GLF"
+        },
+        {
+            "phrase": "Glengarnock",
+            "code": "GLG"
+        },
+        {
+            "phrase": "Glasshoughton",
+            "code": "GLH"
+        },
+        {
+            "phrase": "Gillingham",
+            "code": "GLM"
+        },
+        {
+            "phrase": "Glossop",
+            "code": "GLO"
+        },
+        {
+            "phrase": "Glasgow Queen Street",
+            "code": "GLQ"
+        },
+        {
+            "phrase": "Glaisdale",
+            "code": "GLS"
+        },
+        {
+            "phrase": "Glenrothes with Thornton",
+            "code": "GLT"
+        },
+        {
+            "phrase": "Glynde",
+            "code": "GLY"
+        },
+        {
+            "phrase": "Glazebrook",
+            "code": "GLZ"
+        },
+        {
+            "phrase": "Grimsby Town",
+            "code": "GMB"
+        },
+        {
+            "phrase": "Grimsby Docks",
+            "code": "GMD"
+        },
+        {
+            "phrase": "Garth",
+            "code": "GMG"
+        },
+        {
+            "phrase": "Great Missenden",
+            "code": "GMN"
+        },
+        {
+            "phrase": "Grosmont",
+            "code": "GMT"
+        },
+        {
+            "phrase": "Great Malvern",
+            "code": "GMV"
+        },
+        {
+            "phrase": "Goodmayes",
+            "code": "GMY"
+        },
+        {
+            "phrase": "Gainsborough Central",
+            "code": "GNB"
+        },
+        {
+            "phrase": "Greenfield",
+            "code": "GNF"
+        },
+        {
+            "phrase": "Greenhithe for Bluewater",
+            "code": "GNH"
+        },
+        {
+            "phrase": "Green Lane",
+            "code": "GNL"
+        },
+        {
+            "phrase": "Green Road",
+            "code": "GNR"
+        },
+        {
+            "phrase": "Gunton",
+            "code": "GNT"
+        },
+        {
+            "phrase": "Greenwich",
+            "code": "GNW"
+        },
+        {
+            "phrase": "Gobowen",
+            "code": "GOB"
+        },
+        {
+            "phrase": "Godalming",
+            "code": "GOD"
+        },
+        {
+            "phrase": "Goldthorpe",
+            "code": "GOE"
+        },
+        {
+            "phrase": "Golf Street",
+            "code": "GOF"
+        },
+        {
+            "phrase": "Golspie",
+            "code": "GOL"
+        },
+        {
+            "phrase": "Gomshall",
+            "code": "GOM"
+        },
+        {
+            "phrase": "Goole",
+            "code": "GOO"
+        },
+        {
+            "phrase": "Goring & Streatley",
+            "code": "GOR"
+        },
+        {
+            "phrase": "Grange-Over-Sands",
+            "code": "GOS"
+        },
+        {
+            "phrase": "Goxhill",
+            "code": "GOX"
+        },
+        {
+            "phrase": "Grange Park",
+            "code": "GPK"
+        },
+        {
+            "phrase": "Gospel Oak",
+            "code": "GPO"
+        },
+        {
+            "phrase": "Grantham",
+            "code": "GRA"
+        },
+        {
+            "phrase": "Great Bentley",
+            "code": "GRB"
+        },
+        {
+            "phrase": "Great Chesterford",
+            "code": "GRC"
+        },
+        {
+            "phrase": "Garforth",
+            "code": "GRF"
+        },
+        {
+            "phrase": "Gartcosh",
+            "code": "GRH"
+        },
+        {
+            "phrase": "Gourock",
+            "code": "GRK"
+        },
+        {
+            "phrase": "Greenfaulds",
+            "code": "GRL"
+        },
+        {
+            "phrase": "Grindleford",
+            "code": "GRN"
+        },
+        {
+            "phrase": "Grove Park",
+            "code": "GRP"
+        },
+        {
+            "phrase": "Garscadden",
+            "code": "GRS"
+        },
+        {
+            "phrase": "Grateley",
+            "code": "GRT"
+        },
+        {
+            "phrase": "Gravesend",
+            "code": "GRV"
+        },
+        {
+            "phrase": "Grays",
+            "code": "GRY"
+        },
+        {
+            "phrase": "Gilshochill",
+            "code": "GSC"
+        },
+        {
+            "phrase": "Garsdale",
+            "code": "GSD"
+        },
+        {
+            "phrase": "Gunnislake",
+            "code": "GSL"
+        },
+        {
+            "phrase": "Garston",
+            "code": "GSN"
+        },
+        {
+            "phrase": "Gathurst",
+            "code": "GST"
+        },
+        {
+            "phrase": "Garswood",
+            "code": "GSW"
+        },
+        {
+            "phrase": "Guiseley",
+            "code": "GSY"
+        },
+        {
+            "phrase": "Great Ayton",
+            "code": "GTA"
+        },
+        {
+            "phrase": "Garth",
+            "code": "GTH"
+        },
+        {
+            "phrase": "Grangetown",
+            "code": "GTN"
+        },
+        {
+            "phrase": "Gorton",
+            "code": "GTO"
+        },
+        {
+            "phrase": "Goostrey",
+            "code": "GTR"
+        },
+        {
+            "phrase": "Gatwick Airport",
+            "code": "GTW"
+        },
+        {
+            "phrase": "Gatley",
+            "code": "GTY"
+        },
+        {
+            "phrase": "Guide Bridge",
+            "code": "GUI"
+        },
+        {
+            "phrase": "Gunnersbury",
+            "code": "GUN"
+        },
+        {
+            "phrase": "Garve",
+            "code": "GVE"
+        },
+        {
+            "phrase": "Gravelly Hill",
+            "code": "GVH"
+        },
+        {
+            "phrase": "Gwersyllt",
+            "code": "GWE"
+        },
+        {
+            "phrase": "Gowerton",
+            "code": "GWN"
+        },
+        {
+            "phrase": "Great Yarmouth",
+            "code": "GYM"
+        },
+        {
+            "phrase": "Gypsy Lane",
+            "code": "GYP"
+        }
+    ]
+}

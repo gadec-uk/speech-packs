@@ -1,0 +1,337 @@
+{
+    "path": "SN/K",
+    "phrases": [
+        {
+            "phrase": "Kinbrace",
+            "code": "KBC"
+        },
+        {
+            "phrase": "Kirkby-In-Furness",
+            "code": "KBF"
+        },
+        {
+            "phrase": "Kents Bank",
+            "code": "KBK"
+        },
+        {
+            "phrase": "Kilburn High Road",
+            "code": "KBN"
+        },
+        {
+            "phrase": "Knebworth",
+            "code": "KBW"
+        },
+        {
+            "phrase": "Kirby Cross",
+            "code": "KBX"
+        },
+        {
+            "phrase": "Knockholt",
+            "code": "KCK"
+        },
+        {
+            "phrase": "Kidbrooke",
+            "code": "KDB"
+        },
+        {
+            "phrase": "Kidsgrove",
+            "code": "KDG"
+        },
+        {
+            "phrase": "Kirkcaldy",
+            "code": "KDY"
+        },
+        {
+            "phrase": "Keith",
+            "code": "KEH"
+        },
+        {
+            "phrase": "Keighley",
+            "code": "KEI"
+        },
+        {
+            "phrase": "Kelvedon",
+            "code": "KEL"
+        },
+        {
+            "phrase": "Kemble",
+            "code": "KEM"
+        },
+        {
+            "phrase": "Kendal",
+            "code": "KEN"
+        },
+        {
+            "phrase": "Kettering",
+            "code": "KET"
+        },
+        {
+            "phrase": "Keyham",
+            "code": "KEY"
+        },
+        {
+            "phrase": "Kingsknowe",
+            "code": "KGE"
+        },
+        {
+            "phrase": "Kinghorn",
+            "code": "KGH"
+        },
+        {
+            "phrase": "Kings Langley",
+            "code": "KGL"
+        },
+        {
+            "phrase": "Kingham",
+            "code": "KGM"
+        },
+        {
+            "phrase": "Kings Nympton",
+            "code": "KGN"
+        },
+        {
+            "phrase": "Kings Park",
+            "code": "KGP"
+        },
+        {
+            "phrase": "Kings Sutton",
+            "code": "KGS"
+        },
+        {
+            "phrase": "Kilgetty",
+            "code": "KGT"
+        },
+        {
+            "phrase": "London Kings Cross",
+            "code": "KGX"
+        },
+        {
+            "phrase": "Kidderminster",
+            "code": "KID"
+        },
+        {
+            "phrase": "Kings Heath",
+            "code": "KIH"
+        },
+        {
+            "phrase": "Kildonan",
+            "code": "KIL"
+        },
+        {
+            "phrase": "Kingussie",
+            "code": "KIN"
+        },
+        {
+            "phrase": "Kirkby",
+            "code": "KIR"
+        },
+        {
+            "phrase": "Kintbury",
+            "code": "KIT"
+        },
+        {
+            "phrase": "Kiveton Bridge",
+            "code": "KIV"
+        },
+        {
+            "phrase": "Kirkby in Ashfield",
+            "code": "KKB"
+        },
+        {
+            "phrase": "Kirkdale",
+            "code": "KKD"
+        },
+        {
+            "phrase": "Kirkhill",
+            "code": "KKH"
+        },
+        {
+            "phrase": "Kirkham & Wesham",
+            "code": "KKM"
+        },
+        {
+            "phrase": "Kirknewton",
+            "code": "KKN"
+        },
+        {
+            "phrase": "Kirk Sandall",
+            "code": "KKS"
+        },
+        {
+            "phrase": "Kildale",
+            "code": "KLD"
+        },
+        {
+            "phrase": "Kirkstall Forge",
+            "code": "KLF"
+        },
+        {
+            "phrase": "Kilmaurs",
+            "code": "KLM"
+        },
+        {
+            "phrase": "Kings Lynn",
+            "code": "KLN"
+        },
+        {
+            "phrase": "Kenley",
+            "code": "KLY"
+        },
+        {
+            "phrase": "Kempston Hardwick",
+            "code": "KMH"
+        },
+        {
+            "phrase": "Kilmarnock",
+            "code": "KMK"
+        },
+        {
+            "phrase": "Kemsley",
+            "code": "KML"
+        },
+        {
+            "phrase": "Kempton Park",
+            "code": "KMP"
+        },
+        {
+            "phrase": "Kemsing",
+            "code": "KMS"
+        },
+        {
+            "phrase": "Knaresborough",
+            "code": "KNA"
+        },
+        {
+            "phrase": "Kingswood",
+            "code": "KND"
+        },
+        {
+            "phrase": "Kennett",
+            "code": "KNE"
+        },
+        {
+            "phrase": "Knutsford",
+            "code": "KNF"
+        },
+        {
+            "phrase": "Kingston",
+            "code": "KNG"
+        },
+        {
+            "phrase": "Knighton",
+            "code": "KNI"
+        },
+        {
+            "phrase": "Kensal Green",
+            "code": "KNL"
+        },
+        {
+            "phrase": "Kings Norton",
+            "code": "KNN"
+        },
+        {
+            "phrase": "Knottingley",
+            "code": "KNO"
+        },
+        {
+            "phrase": "Kensal Rise",
+            "code": "KNR"
+        },
+        {
+            "phrase": "Kennishead",
+            "code": "KNS"
+        },
+        {
+            "phrase": "Kenton",
+            "code": "KNT"
+        },
+        {
+            "phrase": "Knucklas",
+            "code": "KNU"
+        },
+        {
+            "phrase": "Kenilworth",
+            "code": "KNW"
+        },
+        {
+            "phrase": "Kensington Olympia",
+            "code": "KPA"
+        },
+        {
+            "phrase": "Kilpatrick",
+            "code": "KPT"
+        },
+        {
+            "phrase": "Kirkconnel",
+            "code": "KRK"
+        },
+        {
+            "phrase": "Kearsley",
+            "code": "KSL"
+        },
+        {
+            "phrase": "Kearsney",
+            "code": "KSN"
+        },
+        {
+            "phrase": "Kirkby Stephen",
+            "code": "KSW"
+        },
+        {
+            "phrase": "Kent House",
+            "code": "KTH"
+        },
+        {
+            "phrase": "Kirton Lindsey",
+            "code": "KTL"
+        },
+        {
+            "phrase": "Kentish Town",
+            "code": "KTN"
+        },
+        {
+            "phrase": "Kintore",
+            "code": "KTR"
+        },
+        {
+            "phrase": "Kentish Town West",
+            "code": "KTW"
+        },
+        {
+            "phrase": "Kelvindale",
+            "code": "KVD"
+        },
+        {
+            "phrase": "Kiveton Park",
+            "code": "KVP"
+        },
+        {
+            "phrase": "Kew Bridge",
+            "code": "KWB"
+        },
+        {
+            "phrase": "Kirkwood",
+            "code": "KWD"
+        },
+        {
+            "phrase": "Kew Gardens",
+            "code": "KWG"
+        },
+        {
+            "phrase": "Kidwelly",
+            "code": "KWL"
+        },
+        {
+            "phrase": "Kilwinning",
+            "code": "KWN"
+        },
+        {
+            "phrase": "Kyle of Lochalsh",
+            "code": "KYL"
+        },
+        {
+            "phrase": "Keynsham",
+            "code": "KYN"
+        }
+    ]
+}

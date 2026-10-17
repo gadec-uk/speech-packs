@@ -1,0 +1,157 @@
+{
+    "path": "RE",
+    "phrases": [
+        {
+            "phrase": "This is due to an operational incident.",
+            "code": "C00"
+        },
+        {
+            "phrase": "This is due to an obstruction on the track.",
+            "code": "C01"
+        },
+        {
+            "phrase": "This is due to a shortage of train drivers.",
+            "code": "C02"
+        },
+        {
+            "phrase": "This is due to a shortage of train crew.",
+            "code": "C03"
+        },
+        {
+            "phrase": "This is due to a fault on the train.",
+            "code": "C04"
+        },
+        {
+            "phrase": "This is due to a problem with the signalling system.",
+            "code": "C05"
+        },
+        {
+            "phrase": "This is due to a fire next to the track.",
+            "code": "C06"
+        },
+        {
+            "phrase": "This is due to a train hitting an obstruction on the line.",
+            "code": "C07"
+        },
+        {
+            "phrase": "This is due to trespassers on the railway.",
+            "code": "C08"
+        },
+        {
+            "phrase": "This is due to a late running train in front of this one.",
+            "code": "C09"
+        },
+        {
+            "phrase": "This is due to train crew being delayed.",
+            "code": "C10"
+        },
+        {
+            "phrase": "This is due to engineering works.",
+            "code": "C11"
+        },
+        {
+            "phrase": "This is due to a fault on this train.",
+            "code": "C12"
+        },
+        {
+            "phrase": "This is due to a tree blocking the line.",
+            "code": "C13"
+        },
+        {
+            "phrase": "This is due to a fault with barriers at a level crossing.",
+            "code": "C14"
+        },
+        {
+            "phrase": "This is due to overcrowding.",
+            "code": "C15"
+        },
+        {
+            "phrase": "This is due to congestion.",
+            "code": "C16"
+        },
+        {
+            "phrase": "This is due to police dealing with an incident.",
+            "code": "C17"
+        },
+        {
+            "phrase": "This is due to a speed restriction.",
+            "code": "C18"
+        },
+        {
+            "phrase": "This is due to a member of the train crew being unavailable.",
+            "code": "C19"
+        },
+        {
+            "phrase": "This is due to urgent repairs to the railway.",
+            "code": "C20"
+        },
+        {
+            "phrase": "This is due to a safety inspection of the track.",
+            "code": "C21"
+        },
+        {
+            "phrase": "This is due to a shortage of train managers.",
+            "code": "C22"
+        },
+        {
+            "phrase": "This is due to severe weather.",
+            "code": "C23"
+        },
+        {
+            "phrase": "This is due to a broken down train.",
+            "code": "C24"
+        },
+        {
+            "phrase": "This is due to a passenger being taken ill on a train.",
+            "code": "C25"
+        },
+        {
+            "phrase": "This is due to the train driver being taken ill.",
+            "code": "C26"
+        },
+        {
+            "phrase": "This is due to a fault on a train in front of this one.",
+            "code": "C27"
+        },
+        {
+            "phrase": "This is due to animals on the railway.",
+            "code": "C28"
+        },
+        {
+            "phrase": "This is due to a problem currently under investigation.",
+            "code": "C29"
+        },
+        {
+            "phrase": "This is due to a points failure",
+            "code": "C30"
+        },
+        {
+            "phrase": "This is due to damage to the overhead electric wires.",
+            "code": "C31"
+        },
+        {
+            "phrase": "This is due to the communication alarm being activated on the train.",
+            "code": "C32"
+        },
+        {
+            "phrase": "This is due to the emergency services dealing with an incident.",
+            "code": "C33"
+        },
+        {
+            "phrase": "This is due to a short notice change to the timetable.",
+            "code": "C34"
+        },
+        {
+            "phrase": "This is due to more trains than usual needing repairs at the same time.",
+            "code": "C35"
+        },
+        {
+            "phrase": "This is due to a road vehicle colliding with a bridge.",
+            "code": "C36"
+        },
+        {
+            "phrase": "This is due to a fire at a station earlier today.",
+            "code": "C37"
+        }
+    ]
+}

@@ -1,0 +1,461 @@
+{
+    "path": "SN/D",
+    "phrases": [
+        {
+            "phrase": "Dalgety Bay",
+            "code": "DAG"
+        },
+        {
+            "phrase": "Dalmarnock",
+            "code": "DAK"
+        },
+        {
+            "phrase": "Dalmally",
+            "code": "DAL"
+        },
+        {
+            "phrase": "Dalmeny",
+            "code": "DAM"
+        },
+        {
+            "phrase": "Darnall",
+            "code": "DAN"
+        },
+        {
+            "phrase": "Darlington",
+            "code": "DAR"
+        },
+        {
+            "phrase": "Darlaston",
+            "code": "DAS"
+        },
+        {
+            "phrase": "Datchet",
+            "code": "DAT"
+        },
+        {
+            "phrase": "Dumbarton Central",
+            "code": "DBC"
+        },
+        {
+            "phrase": "Denby Dale",
+            "code": "DBD"
+        },
+        {
+            "phrase": "Dumbarton East",
+            "code": "DBE"
+        },
+        {
+            "phrase": "Mottisfont & Dunbridge",
+            "code": "DBG"
+        },
+        {
+            "phrase": "Dunblane",
+            "code": "DBL"
+        },
+        {
+            "phrase": "Derby Road",
+            "code": "DBR"
+        },
+        {
+            "phrase": "Derby",
+            "code": "DBY"
+        },
+        {
+            "phrase": "Duncraig",
+            "code": "DCG"
+        },
+        {
+            "phrase": "Dorchester South",
+            "code": "DCH"
+        },
+        {
+            "phrase": "Danescourt",
+            "code": "DCT"
+        },
+        {
+            "phrase": "Dorchester West",
+            "code": "DCW"
+        },
+        {
+            "phrase": "Dorridge",
+            "code": "DDG"
+        },
+        {
+            "phrase": "Dagenham Dock",
+            "code": "DDK"
+        },
+        {
+            "phrase": "Dudley Port",
+            "code": "DDP"
+        },
+        {
+            "phrase": "Deal",
+            "code": "DEA"
+        },
+        {
+            "phrase": "Dundee",
+            "code": "DEE"
+        },
+        {
+            "phrase": "Dean",
+            "code": "DEN"
+        },
+        {
+            "phrase": "Deptford",
+            "code": "DEP"
+        },
+        {
+            "phrase": "Dewsbury",
+            "code": "DEW"
+        },
+        {
+            "phrase": "Dartford",
+            "code": "DFD"
+        },
+        {
+            "phrase": "Dunfermline City",
+            "code": "DFE"
+        },
+        {
+            "phrase": "Duffield",
+            "code": "DFI"
+        },
+        {
+            "phrase": "Dunfermline Queen Margaret",
+            "code": "DFL"
+        },
+        {
+            "phrase": "Drumfrochar",
+            "code": "DFR"
+        },
+        {
+            "phrase": "Denham Golf Club",
+            "code": "DGC"
+        },
+        {
+            "phrase": "Dingle Road",
+            "code": "DGL"
+        },
+        {
+            "phrase": "Deansgate",
+            "code": "DGT"
+        },
+        {
+            "phrase": "Deganwy",
+            "code": "DGY"
+        },
+        {
+            "phrase": "Durham",
+            "code": "DHM"
+        },
+        {
+            "phrase": "Deighton",
+            "code": "DHN"
+        },
+        {
+            "phrase": "Didcot Parkway",
+            "code": "DID"
+        },
+        {
+            "phrase": "Digby & Sowton",
+            "code": "DIG"
+        },
+        {
+            "phrase": "Dingwall",
+            "code": "DIN"
+        },
+        {
+            "phrase": "Diss",
+            "code": "DIS"
+        },
+        {
+            "phrase": "Dunkeld & Birnam",
+            "code": "DKD"
+        },
+        {
+            "phrase": "Dorking",
+            "code": "DKG"
+        },
+        {
+            "phrase": "Dorking West",
+            "code": "DKT"
+        },
+        {
+            "phrase": "Dolgarrog",
+            "code": "DLG"
+        },
+        {
+            "phrase": "Doleham",
+            "code": "DLH"
+        },
+        {
+            "phrase": "Dalston Junction",
+            "code": "DLJ"
+        },
+        {
+            "phrase": "Dalston Kingsland",
+            "code": "DLK"
+        },
+        {
+            "phrase": "Delamere",
+            "code": "DLM"
+        },
+        {
+            "phrase": "Dalreoch",
+            "code": "DLR"
+        },
+        {
+            "phrase": "Dalston",
+            "code": "DLS"
+        },
+        {
+            "phrase": "Dalton",
+            "code": "DLT"
+        },
+        {
+            "phrase": "Dalwhinnie",
+            "code": "DLW"
+        },
+        {
+            "phrase": "Dalry",
+            "code": "DLY"
+        },
+        {
+            "phrase": "Drumchapel",
+            "code": "DMC"
+        },
+        {
+            "phrase": "Dumfries",
+            "code": "DMF"
+        },
+        {
+            "phrase": "Dinas Rhondda",
+            "code": "DMG"
+        },
+        {
+            "phrase": "Dilton Marsh",
+            "code": "DMH"
+        },
+        {
+            "phrase": "Denmark Hill",
+            "code": "DMK"
+        },
+        {
+            "phrase": "Dumpton Park",
+            "code": "DMP"
+        },
+        {
+            "phrase": "Dalmuir",
+            "code": "DMR"
+        },
+        {
+            "phrase": "Dormans",
+            "code": "DMS"
+        },
+        {
+            "phrase": "Drumry",
+            "code": "DMY"
+        },
+        {
+            "phrase": "Dinsdale",
+            "code": "DND"
+        },
+        {
+            "phrase": "Dunton Green",
+            "code": "DNG"
+        },
+        {
+            "phrase": "Dunlop",
+            "code": "DNL"
+        },
+        {
+            "phrase": "Denham",
+            "code": "DNM"
+        },
+        {
+            "phrase": "Dunrobin Castle",
+            "code": "DNO"
+        },
+        {
+            "phrase": "Dinas Powys",
+            "code": "DNS"
+        },
+        {
+            "phrase": "Dent",
+            "code": "DNT"
+        },
+        {
+            "phrase": "Danby",
+            "code": "DNY"
+        },
+        {
+            "phrase": "Dockyard",
+            "code": "DOC"
+        },
+        {
+            "phrase": "Dodworth",
+            "code": "DOD"
+        },
+        {
+            "phrase": "Dolau",
+            "code": "DOL"
+        },
+        {
+            "phrase": "Doncaster",
+            "code": "DON"
+        },
+        {
+            "phrase": "Dore & Totley",
+            "code": "DOR"
+        },
+        {
+            "phrase": "Dunston",
+            "code": "DOT"
+        },
+        {
+            "phrase": "Downham Market",
+            "code": "DOW"
+        },
+        {
+            "phrase": "Dorking Deepdene",
+            "code": "DPD"
+        },
+        {
+            "phrase": "Devonport",
+            "code": "DPT"
+        },
+        {
+            "phrase": "Driffield",
+            "code": "DRF"
+        },
+        {
+            "phrase": "Drayton Green",
+            "code": "DRG"
+        },
+        {
+            "phrase": "Drigg",
+            "code": "DRI"
+        },
+        {
+            "phrase": "Drem",
+            "code": "DRM"
+        },
+        {
+            "phrase": "Duirinish",
+            "code": "DRN"
+        },
+        {
+            "phrase": "Dronfield",
+            "code": "DRO"
+        },
+        {
+            "phrase": "Darton",
+            "code": "DRT"
+        },
+        {
+            "phrase": "Drumgelloch",
+            "code": "DRU"
+        },
+        {
+            "phrase": "Disley",
+            "code": "DSL"
+        },
+        {
+            "phrase": "Darsham",
+            "code": "DSM"
+        },
+        {
+            "phrase": "Duke Street",
+            "code": "DST"
+        },
+        {
+            "phrase": "Daisy Hill",
+            "code": "DSY"
+        },
+        {
+            "phrase": "Dinting",
+            "code": "DTG"
+        },
+        {
+            "phrase": "Denton",
+            "code": "DTN"
+        },
+        {
+            "phrase": "Droitwich Spa",
+            "code": "DTW"
+        },
+        {
+            "phrase": "Duddeston",
+            "code": "DUD"
+        },
+        {
+            "phrase": "Dullingham",
+            "code": "DUL"
+        },
+        {
+            "phrase": "Dumbreck",
+            "code": "DUM"
+        },
+        {
+            "phrase": "Dunbar",
+            "code": "DUN"
+        },
+        {
+            "phrase": "Durrington-On-Sea",
+            "code": "DUR"
+        },
+        {
+            "phrase": "Dovercourt",
+            "code": "DVC"
+        },
+        {
+            "phrase": "Dove Holes",
+            "code": "DVH"
+        },
+        {
+            "phrase": "Davenport",
+            "code": "DVN"
+        },
+        {
+            "phrase": "Dover Priory",
+            "code": "DVP"
+        },
+        {
+            "phrase": "Dovey Junction",
+            "code": "DVY"
+        },
+        {
+            "phrase": "Dolwyddelan",
+            "code": "DWD"
+        },
+        {
+            "phrase": "Dawlish",
+            "code": "DWL"
+        },
+        {
+            "phrase": "Darwen",
+            "code": "DWN"
+        },
+        {
+            "phrase": "Dawlish Warren",
+            "code": "DWW"
+        },
+        {
+            "phrase": "Dyce",
+            "code": "DYC"
+        },
+        {
+            "phrase": "Dyffryn Ardudwy",
+            "code": "DYF"
+        },
+        {
+            "phrase": "Drayton Park",
+            "code": "DYP"
+        },
+        {
+            "phrase": "Danzey",
+            "code": "DZY"
+        }
+    ]
+}

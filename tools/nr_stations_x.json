@@ -1,0 +1,37 @@
+{
+    "path": "SN/X",
+    "phrases": [
+        {
+            "phrase": "Birmingham Airport",
+            "code": "XFG"
+        },
+        {
+            "phrase": "East Midlands Airport",
+            "code": "XFI"
+        },
+        {
+            "phrase": "Gatwick Airport",
+            "code": "XGT"
+        },
+        {
+            "phrase": "Leeds Bradford Airport",
+            "code": "XLB"
+        },
+        {
+            "phrase": "Bristol International Airport",
+            "code": "XPB"
+        },
+        {
+            "phrase": "East Midlands Airport",
+            "code": "XQB"
+        },
+        {
+            "phrase": "Stansted Airport",
+            "code": "XTH"
+        },
+        {
+            "phrase": "Exeter Airport",
+            "code": "XXT"
+        }
+    ]
+}

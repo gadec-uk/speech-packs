@@ -1,0 +1,637 @@
+{
+    "path": "SN/L",
+    "phrases": [
+        {
+            "phrase": "Lancing",
+            "code": "LAC"
+        },
+        {
+            "phrase": "Ladywell",
+            "code": "LAD"
+        },
+        {
+            "phrase": "Langwith - Whaley Thorns",
+            "code": "LAG"
+        },
+        {
+            "phrase": "Laindon",
+            "code": "LAI"
+        },
+        {
+            "phrase": "Lakenheath",
+            "code": "LAK"
+        },
+        {
+            "phrase": "Lamphey",
+            "code": "LAM"
+        },
+        {
+            "phrase": "Lancaster",
+            "code": "LAN"
+        },
+        {
+            "phrase": "Lapford",
+            "code": "LAP"
+        },
+        {
+            "phrase": "Largs",
+            "code": "LAR"
+        },
+        {
+            "phrase": "Llansamlet",
+            "code": "LAS"
+        },
+        {
+            "phrase": "Laurencekirk",
+            "code": "LAU"
+        },
+        {
+            "phrase": "Landywood",
+            "code": "LAW"
+        },
+        {
+            "phrase": "Layton",
+            "code": "LAY"
+        },
+        {
+            "phrase": "London Bridge",
+            "code": "LBG"
+        },
+        {
+            "phrase": "Long Buckby",
+            "code": "LBK"
+        },
+        {
+            "phrase": "Loughborough",
+            "code": "LBO"
+        },
+        {
+            "phrase": "Llanbedr",
+            "code": "LBR"
+        },
+        {
+            "phrase": "Larbert",
+            "code": "LBT"
+        },
+        {
+            "phrase": "Leighton Buzzard",
+            "code": "LBZ"
+        },
+        {
+            "phrase": "Lochluichart",
+            "code": "LCC"
+        },
+        {
+            "phrase": "Lochgelly",
+            "code": "LCG"
+        },
+        {
+            "phrase": "Lockwood",
+            "code": "LCK"
+        },
+        {
+            "phrase": "Lochailort",
+            "code": "LCL"
+        },
+        {
+            "phrase": "Lincoln Central",
+            "code": "LCN"
+        },
+        {
+            "phrase": "Locheilside",
+            "code": "LCS"
+        },
+        {
+            "phrase": "Llandanwg",
+            "code": "LDN"
+        },
+        {
+            "phrase": "Leeds",
+            "code": "LDS"
+        },
+        {
+            "phrase": "Ladybank",
+            "code": "LDY"
+        },
+        {
+            "phrase": "Leagrave",
+            "code": "LEA"
+        },
+        {
+            "phrase": "Lea Bridge",
+            "code": "LEB"
+        },
+        {
+            "phrase": "Ledbury",
+            "code": "LED"
+        },
+        {
+            "phrase": "Lee",
+            "code": "LEE"
+        },
+        {
+            "phrase": "Lea Green",
+            "code": "LEG"
+        },
+        {
+            "phrase": "Lea Hall",
+            "code": "LEH"
+        },
+        {
+            "phrase": "Leicester",
+            "code": "LEI"
+        },
+        {
+            "phrase": "Lelant",
+            "code": "LEL"
+        },
+        {
+            "phrase": "Leyton Midland Road",
+            "code": "LEM"
+        },
+        {
+            "phrase": "Lenham",
+            "code": "LEN"
+        },
+        {
+            "phrase": "Leominster",
+            "code": "LEO"
+        },
+        {
+            "phrase": "Leytonstone High Road",
+            "code": "LER"
+        },
+        {
+            "phrase": "Leigh-on-Sea",
+            "code": "LES"
+        },
+        {
+            "phrase": "Letchworth Garden City",
+            "code": "LET"
+        },
+        {
+            "phrase": "Leuchars",
+            "code": "LEU"
+        },
+        {
+            "phrase": "Leven",
+            "code": "LEV"
+        },
+        {
+            "phrase": "Lewisham",
+            "code": "LEW"
+        },
+        {
+            "phrase": "Leyland",
+            "code": "LEY"
+        },
+        {
+            "phrase": "Lingfield",
+            "code": "LFD"
+        },
+        {
+            "phrase": "Langbank",
+            "code": "LGB"
+        },
+        {
+            "phrase": "Lingwood",
+            "code": "LGD"
+        },
+        {
+            "phrase": "Long Eaton",
+            "code": "LGE"
+        },
+        {
+            "phrase": "Longfield",
+            "code": "LGF"
+        },
+        {
+            "phrase": "Langley Green",
+            "code": "LGG"
+        },
+        {
+            "phrase": "Loughborough Junction",
+            "code": "LGJ"
+        },
+        {
+            "phrase": "Longbeck",
+            "code": "LGK"
+        },
+        {
+            "phrase": "Langley Mill",
+            "code": "LGM"
+        },
+        {
+            "phrase": "Longton",
+            "code": "LGN"
+        },
+        {
+            "phrase": "Llangynllo",
+            "code": "LGO"
+        },
+        {
+            "phrase": "Langside",
+            "code": "LGS"
+        },
+        {
+            "phrase": "Langwathby",
+            "code": "LGW"
+        },
+        {
+            "phrase": "Loch Awe",
+            "code": "LHA"
+        },
+        {
+            "phrase": "Leatherhead",
+            "code": "LHD"
+        },
+        {
+            "phrase": "Loch Eil",
+            "code": "LHE"
+        },
+        {
+            "phrase": "Lealholm",
+            "code": "LHM"
+        },
+        {
+            "phrase": "Langho",
+            "code": "LHO"
+        },
+        {
+            "phrase": "Limehouse",
+            "code": "LHS"
+        },
+        {
+            "phrase": "Lochwinnoch",
+            "code": "LHW"
+        },
+        {
+            "phrase": "Lichfield City",
+            "code": "LIC"
+        },
+        {
+            "phrase": "Lidlington",
+            "code": "LID"
+        },
+        {
+            "phrase": "Leigh",
+            "code": "LIH"
+        },
+        {
+            "phrase": "Linlithgow",
+            "code": "LIN"
+        },
+        {
+            "phrase": "Liphook",
+            "code": "LIP"
+        },
+        {
+            "phrase": "Liss",
+            "code": "LIS"
+        },
+        {
+            "phrase": "Littlehampton",
+            "code": "LIT"
+        },
+        {
+            "phrase": "Liverpool Lime Street",
+            "code": "LIV"
+        },
+        {
+            "phrase": "Lake",
+            "code": "LKE"
+        },
+        {
+            "phrase": "Llanaber",
+            "code": "LLA"
+        },
+        {
+            "phrase": "Llandecwyn",
+            "code": "LLC"
+        },
+        {
+            "phrase": "Llandudno",
+            "code": "LLD"
+        },
+        {
+            "phrase": "Llanelli",
+            "code": "LLE"
+        },
+        {
+            "phrase": "Llanfairfechan",
+            "code": "LLF"
+        },
+        {
+            "phrase": "Llangadog",
+            "code": "LLG"
+        },
+        {
+            "phrase": "Llangennech",
+            "code": "LLH"
+        },
+        {
+            "phrase": "Llandybie",
+            "code": "LLI"
+        },
+        {
+            "phrase": "Llandudno Junction",
+            "code": "LLJ"
+        },
+        {
+            "phrase": "Llandeilo",
+            "code": "LLL"
+        },
+        {
+            "phrase": "Llangammarch",
+            "code": "LLM"
+        },
+        {
+            "phrase": "Llandaf",
+            "code": "LLN"
+        },
+        {
+            "phrase": "Llandrindod",
+            "code": "LLO"
+        },
+        {
+            "phrase": "Llanharan",
+            "code": "LLR"
+        },
+        {
+            "phrase": "Llanishen",
+            "code": "LLS"
+        },
+        {
+            "phrase": "Llanbister Road",
+            "code": "LLT"
+        },
+        {
+            "phrase": "Llandovery",
+            "code": "LLV"
+        },
+        {
+            "phrase": "Llwyngwril",
+            "code": "LLW"
+        },
+        {
+            "phrase": "Llwynypia",
+            "code": "LLY"
+        },
+        {
+            "phrase": "Low Moor",
+            "code": "LMR"
+        },
+        {
+            "phrase": "Leamington Spa",
+            "code": "LMS"
+        },
+        {
+            "phrase": "Llanbradach",
+            "code": "LNB"
+        },
+        {
+            "phrase": "Longniddry",
+            "code": "LND"
+        },
+        {
+            "phrase": "Longcross",
+            "code": "LNG"
+        },
+        {
+            "phrase": "Lanark",
+            "code": "LNK"
+        },
+        {
+            "phrase": "Llanwrda",
+            "code": "LNR"
+        },
+        {
+            "phrase": "Llanwrtyd",
+            "code": "LNW"
+        },
+        {
+            "phrase": "Langley",
+            "code": "LNY"
+        },
+        {
+            "phrase": "Lenzie",
+            "code": "LNZ"
+        },
+        {
+            "phrase": "Longbridge",
+            "code": "LOB"
+        },
+        {
+            "phrase": "Lockerbie",
+            "code": "LOC"
+        },
+        {
+            "phrase": "London Fields",
+            "code": "LOF"
+        },
+        {
+            "phrase": "Lostock Hall",
+            "code": "LOH"
+        },
+        {
+            "phrase": "Looe",
+            "code": "LOO"
+        },
+        {
+            "phrase": "Lostwithiel",
+            "code": "LOS"
+        },
+        {
+            "phrase": "Lostock",
+            "code": "LOT"
+        },
+        {
+            "phrase": "Lowdham",
+            "code": "LOW"
+        },
+        {
+            "phrase": "Llanfairpwll",
+            "code": "LPG"
+        },
+        {
+            "phrase": "Long Preston",
+            "code": "LPR"
+        },
+        {
+            "phrase": "Longport",
+            "code": "LPT"
+        },
+        {
+            "phrase": "Lapworth",
+            "code": "LPW"
+        },
+        {
+            "phrase": "Liverpool South Parkway",
+            "code": "LPY"
+        },
+        {
+            "phrase": "London Road",
+            "code": "LRB"
+        },
+        {
+            "phrase": "London Road",
+            "code": "LRD"
+        },
+        {
+            "phrase": "Lairg",
+            "code": "LRG"
+        },
+        {
+            "phrase": "Larkhall",
+            "code": "LRH"
+        },
+        {
+            "phrase": "Liskeard",
+            "code": "LSK"
+        },
+        {
+            "phrase": "Livingston North",
+            "code": "LSN"
+        },
+        {
+            "phrase": "London Liverpool Street",
+            "code": "LST"
+        },
+        {
+            "phrase": "Leasowe",
+            "code": "LSW"
+        },
+        {
+            "phrase": "Lower Sydenham",
+            "code": "LSY"
+        },
+        {
+            "phrase": "Lostock Gralam",
+            "code": "LTG"
+        },
+        {
+            "phrase": "Llanhilleth",
+            "code": "LTH"
+        },
+        {
+            "phrase": "Little Kimble",
+            "code": "LTK"
+        },
+        {
+            "phrase": "Littleborough",
+            "code": "LTL"
+        },
+        {
+            "phrase": "Lytham",
+            "code": "LTM"
+        },
+        {
+            "phrase": "Luton Airport Parkway",
+            "code": "LTN"
+        },
+        {
+            "phrase": "Littleport",
+            "code": "LTP"
+        },
+        {
+            "phrase": "Lelant Saltings",
+            "code": "LTS"
+        },
+        {
+            "phrase": "Little Sutton",
+            "code": "LTT"
+        },
+        {
+            "phrase": "Lichfield Trent Valley",
+            "code": "LTV"
+        },
+        {
+            "phrase": "Luton Airport",
+            "code": "LUA"
+        },
+        {
+            "phrase": "Ludlow",
+            "code": "LUD"
+        },
+        {
+            "phrase": "Luton",
+            "code": "LUT"
+        },
+        {
+            "phrase": "Luxulyan",
+            "code": "LUX"
+        },
+        {
+            "phrase": "Liverpool Central",
+            "code": "LVC"
+        },
+        {
+            "phrase": "Livingston South",
+            "code": "LVG"
+        },
+        {
+            "phrase": "James Street",
+            "code": "LVJ"
+        },
+        {
+            "phrase": "Levenshulme",
+            "code": "LVM"
+        },
+        {
+            "phrase": "Littlehaven",
+            "code": "LVN"
+        },
+        {
+            "phrase": "Lisvane & Thornhill",
+            "code": "LVT"
+        },
+        {
+            "phrase": "Lawrence Hill",
+            "code": "LWH"
+        },
+        {
+            "phrase": "Llantwit Major",
+            "code": "LWM"
+        },
+        {
+            "phrase": "Llanrwst",
+            "code": "LWR"
+        },
+        {
+            "phrase": "Lewes",
+            "code": "LWS"
+        },
+        {
+            "phrase": "Lowestoft",
+            "code": "LWT"
+        },
+        {
+            "phrase": "Lympstone Commando",
+            "code": "LYC"
+        },
+        {
+            "phrase": "Lydney",
+            "code": "LYD"
+        },
+        {
+            "phrase": "Lye",
+            "code": "LYE"
+        },
+        {
+            "phrase": "Lympstone Village",
+            "code": "LYM"
+        },
+        {
+            "phrase": "Lymington Pier",
+            "code": "LYP"
+        },
+        {
+            "phrase": "Lymington Town",
+            "code": "LYT"
+        },
+        {
+            "phrase": "Lazonby & Kirkoswald",
+            "code": "LZB"
+        }
+    ]
+}

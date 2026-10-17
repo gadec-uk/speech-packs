@@ -1,0 +1,53 @@
+{
+    "path": "TL",
+    "phrases": [
+    {
+        "phrase": "Bakerloo line.",
+        "code": "bakerloo"
+    },
+    {
+        "phrase": "Central line.",
+        "code": "central"
+    },
+    {
+        "phrase": "Circle line.",
+        "code": "circle"
+    },
+    {
+        "phrase": "District line.",
+        "code": "district"
+    },
+    {
+        "phrase": "Docklands light railway.",
+        "code": "dlr"
+    },
+    {
+        "phrase": "Hammersmith and City line.",
+        "code": "hammersm"
+    },
+    {
+        "phrase": "jubilee line.",
+        "code": "jubilee"
+    },
+    {
+        "phrase": "Metropolitan line.",
+        "code": "metropol"
+    },
+    {
+        "phrase": "Northern line.",
+        "code": "northern"
+    },
+    {
+        "phrase": "Piccadilly line.",
+        "code": "piccadil"
+    },
+    {
+        "phrase": "Victoria line.",
+        "code": "victoria"
+    },
+    {
+        "phrase": "Waterloo and City line.",
+        "code": "waterloo"
+    }
+    ]
+}

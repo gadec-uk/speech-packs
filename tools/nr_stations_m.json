@@ -1,0 +1,541 @@
+{
+    "path": "SN/M",
+    "phrases": [
+        {
+            "phrase": "Macclesfield",
+            "code": "MAC"
+        },
+        {
+            "phrase": "Maghull",
+            "code": "MAG"
+        },
+        {
+            "phrase": "Maidenhead",
+            "code": "MAI"
+        },
+        {
+            "phrase": "Malden Manor",
+            "code": "MAL"
+        },
+        {
+            "phrase": "Manchester Piccadilly",
+            "code": "MAN"
+        },
+        {
+            "phrase": "Martins Heron",
+            "code": "MAO"
+        },
+        {
+            "phrase": "Margate",
+            "code": "MAR"
+        },
+        {
+            "phrase": "Manors",
+            "code": "MAS"
+        },
+        {
+            "phrase": "Matlock",
+            "code": "MAT"
+        },
+        {
+            "phrase": "Mauldeth Road",
+            "code": "MAU"
+        },
+        {
+            "phrase": "Maxwell Park",
+            "code": "MAX"
+        },
+        {
+            "phrase": "Maybole",
+            "code": "MAY"
+        },
+        {
+            "phrase": "Millbrook",
+            "code": "MBK"
+        },
+        {
+            "phrase": "Middlesbrough",
+            "code": "MBR"
+        },
+        {
+            "phrase": "Marsh Barton",
+            "code": "MBT"
+        },
+        {
+            "phrase": "Moulsecoomb",
+            "code": "MCB"
+        },
+        {
+            "phrase": "Metrocentre",
+            "code": "MCE"
+        },
+        {
+            "phrase": "March",
+            "code": "MCH"
+        },
+        {
+            "phrase": "Morecambe",
+            "code": "MCM"
+        },
+        {
+            "phrase": "Machynlleth",
+            "code": "MCN"
+        },
+        {
+            "phrase": "Manchester Oxford Road",
+            "code": "MCO"
+        },
+        {
+            "phrase": "Manchester Victoria",
+            "code": "MCV"
+        },
+        {
+            "phrase": "Maidstone Barracks",
+            "code": "MDB"
+        },
+        {
+            "phrase": "Maidstone East",
+            "code": "MDE"
+        },
+        {
+            "phrase": "Midgham",
+            "code": "MDG"
+        },
+        {
+            "phrase": "Middlewood",
+            "code": "MDL"
+        },
+        {
+            "phrase": "Maiden Newton",
+            "code": "MDN"
+        },
+        {
+            "phrase": "Morden South",
+            "code": "MDS"
+        },
+        {
+            "phrase": "Maidstone West",
+            "code": "MDW"
+        },
+        {
+            "phrase": "Meols Cop",
+            "code": "MEC"
+        },
+        {
+            "phrase": "Meldreth",
+            "code": "MEL"
+        },
+        {
+            "phrase": "Menheniot",
+            "code": "MEN"
+        },
+        {
+            "phrase": "Meols",
+            "code": "MEO"
+        },
+        {
+            "phrase": "Meopham",
+            "code": "MEP"
+        },
+        {
+            "phrase": "Merthyr Tydfil",
+            "code": "MER"
+        },
+        {
+            "phrase": "Melton",
+            "code": "MES"
+        },
+        {
+            "phrase": "Merthyr Vale",
+            "code": "MEV"
+        },
+        {
+            "phrase": "Maesteg",
+            "code": "MEW"
+        },
+        {
+            "phrase": "Mexborough",
+            "code": "MEX"
+        },
+        {
+            "phrase": "Merryton",
+            "code": "MEY"
+        },
+        {
+            "phrase": "Morfa Mawddach",
+            "code": "MFA"
+        },
+        {
+            "phrase": "Minffordd",
+            "code": "MFF"
+        },
+        {
+            "phrase": "Milford Haven",
+            "code": "MFH"
+        },
+        {
+            "phrase": "Mount Florida",
+            "code": "MFL"
+        },
+        {
+            "phrase": "Mansfield",
+            "code": "MFT"
+        },
+        {
+            "phrase": "Metheringham",
+            "code": "MGM"
+        },
+        {
+            "phrase": "Marston Green",
+            "code": "MGN"
+        },
+        {
+            "phrase": "Merstham",
+            "code": "MHM"
+        },
+        {
+            "phrase": "Market Harborough",
+            "code": "MHR"
+        },
+        {
+            "phrase": "Meadowhall",
+            "code": "MHS"
+        },
+        {
+            "phrase": "Manchester Airport",
+            "code": "MIA"
+        },
+        {
+            "phrase": "Micheldever",
+            "code": "MIC"
+        },
+        {
+            "phrase": "Mills Hill",
+            "code": "MIH"
+        },
+        {
+            "phrase": "Mitcham Junction",
+            "code": "MIJ"
+        },
+        {
+            "phrase": "Micklefield",
+            "code": "MIK"
+        },
+        {
+            "phrase": "Mill Hill Broadway",
+            "code": "MIL"
+        },
+        {
+            "phrase": "Moreton-In-Marsh",
+            "code": "MIM"
+        },
+        {
+            "phrase": "Milliken Park",
+            "code": "MIN"
+        },
+        {
+            "phrase": "Mirfield",
+            "code": "MIR"
+        },
+        {
+            "phrase": "Mistley",
+            "code": "MIS"
+        },
+        {
+            "phrase": "Milton Keynes Central",
+            "code": "MKC"
+        },
+        {
+            "phrase": "Melksham",
+            "code": "MKM"
+        },
+        {
+            "phrase": "Market Rasen",
+            "code": "MKR"
+        },
+        {
+            "phrase": "Marks Tey",
+            "code": "MKT"
+        },
+        {
+            "phrase": "Millbrook",
+            "code": "MLB"
+        },
+        {
+            "phrase": "Mouldsworth",
+            "code": "MLD"
+        },
+        {
+            "phrase": "Milford",
+            "code": "MLF"
+        },
+        {
+            "phrase": "Mallaig",
+            "code": "MLG"
+        },
+        {
+            "phrase": "Mill Hill",
+            "code": "MLH"
+        },
+        {
+            "phrase": "Millom",
+            "code": "MLM"
+        },
+        {
+            "phrase": "Milngavie",
+            "code": "MLN"
+        },
+        {
+            "phrase": "Malton",
+            "code": "MLT"
+        },
+        {
+            "phrase": "Marlow",
+            "code": "MLW"
+        },
+        {
+            "phrase": "Morley",
+            "code": "MLY"
+        },
+        {
+            "phrase": "Melton Mowbray",
+            "code": "MMO"
+        },
+        {
+            "phrase": "Markinch",
+            "code": "MNC"
+        },
+        {
+            "phrase": "Manea",
+            "code": "MNE"
+        },
+        {
+            "phrase": "Manningtree",
+            "code": "MNG"
+        },
+        {
+            "phrase": "Menston",
+            "code": "MNN"
+        },
+        {
+            "phrase": "Manor Park",
+            "code": "MNP"
+        },
+        {
+            "phrase": "Manor Road",
+            "code": "MNR"
+        },
+        {
+            "phrase": "Maghull North",
+            "code": "MNS"
+        },
+        {
+            "phrase": "Mobberley",
+            "code": "MOB"
+        },
+        {
+            "phrase": "Moorgate",
+            "code": "MOG"
+        },
+        {
+            "phrase": "Monifieth",
+            "code": "MON"
+        },
+        {
+            "phrase": "Muir of Ord",
+            "code": "MOO"
+        },
+        {
+            "phrase": "Mortimer",
+            "code": "MOR"
+        },
+        {
+            "phrase": "Moss Side",
+            "code": "MOS"
+        },
+        {
+            "phrase": "Motspur Park",
+            "code": "MOT"
+        },
+        {
+            "phrase": "Moseley Village",
+            "code": "MOV"
+        },
+        {
+            "phrase": "Mosspark",
+            "code": "MPK"
+        },
+        {
+            "phrase": "Marple",
+            "code": "MPL"
+        },
+        {
+            "phrase": "Morpeth",
+            "code": "MPT"
+        },
+        {
+            "phrase": "Manorbier",
+            "code": "MRB"
+        },
+        {
+            "phrase": "Morchard Road",
+            "code": "MRD"
+        },
+        {
+            "phrase": "Moorfields",
+            "code": "MRF"
+        },
+        {
+            "phrase": "Marden",
+            "code": "MRN"
+        },
+        {
+            "phrase": "Moorthorpe",
+            "code": "MRP"
+        },
+        {
+            "phrase": "Morar",
+            "code": "MRR"
+        },
+        {
+            "phrase": "Monks Risborough",
+            "code": "MRS"
+        },
+        {
+            "phrase": "Moreton",
+            "code": "MRT"
+        },
+        {
+            "phrase": "Meridian Water",
+            "code": "MRW"
+        },
+        {
+            "phrase": "Maryport",
+            "code": "MRY"
+        },
+        {
+            "phrase": "Moorside",
+            "code": "MSD"
+        },
+        {
+            "phrase": "Mossley Hill",
+            "code": "MSH"
+        },
+        {
+            "phrase": "Marske",
+            "code": "MSK"
+        },
+        {
+            "phrase": "Mossley",
+            "code": "MSL"
+        },
+        {
+            "phrase": "Marsden",
+            "code": "MSN"
+        },
+        {
+            "phrase": "Moston",
+            "code": "MSO"
+        },
+        {
+            "phrase": "Minster",
+            "code": "MSR"
+        },
+        {
+            "phrase": "Moses Gate",
+            "code": "MSS"
+        },
+        {
+            "phrase": "Maesteg",
+            "code": "MST"
+        },
+        {
+            "phrase": "Mansfield Woodhouse",
+            "code": "MSW"
+        },
+        {
+            "phrase": "Mountain Ash",
+            "code": "MTA"
+        },
+        {
+            "phrase": "Matlock Bath",
+            "code": "MTB"
+        },
+        {
+            "phrase": "Mitcham Eastfields",
+            "code": "MTC"
+        },
+        {
+            "phrase": "Mottingham",
+            "code": "MTG"
+        },
+        {
+            "phrase": "Motherwell",
+            "code": "MTH"
+        },
+        {
+            "phrase": "Mortlake",
+            "code": "MTL"
+        },
+        {
+            "phrase": "Martin Mill",
+            "code": "MTM"
+        },
+        {
+            "phrase": "Moreton",
+            "code": "MTN"
+        },
+        {
+            "phrase": "Marton",
+            "code": "MTO"
+        },
+        {
+            "phrase": "Montpelier",
+            "code": "MTP"
+        },
+        {
+            "phrase": "Montrose",
+            "code": "MTS"
+        },
+        {
+            "phrase": "Mount Vernon",
+            "code": "MTV"
+        },
+        {
+            "phrase": "Musselburgh",
+            "code": "MUB"
+        },
+        {
+            "phrase": "Manchester United Football Club",
+            "code": "MUF"
+        },
+        {
+            "phrase": "Muirend",
+            "code": "MUI"
+        },
+        {
+            "phrase": "Malvern Link",
+            "code": "MVL"
+        },
+        {
+            "phrase": "London Marylebone",
+            "code": "MYB"
+        },
+        {
+            "phrase": "Maryhill",
+            "code": "MYH"
+        },
+        {
+            "phrase": "Maryland",
+            "code": "MYL"
+        },
+        {
+            "phrase": "Mytholmroyd",
+            "code": "MYT"
+        },
+        {
+            "phrase": "Maze Hill",
+            "code": "MZH"
+        }
+    ]
+}

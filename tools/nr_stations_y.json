@@ -1,0 +1,65 @@
+{
+    "path": "SN/Y",
+    "phrases": [
+        {
+            "phrase": "Yate",
+            "code": "YAE"
+        },
+        {
+            "phrase": "Yalding",
+            "code": "YAL"
+        },
+        {
+            "phrase": "Yatton",
+            "code": "YAT"
+        },
+        {
+            "phrase": "Yeoford",
+            "code": "YEO"
+        },
+        {
+            "phrase": "Yetminster",
+            "code": "YET"
+        },
+        {
+            "phrase": "Ynyswen",
+            "code": "YNW"
+        },
+        {
+            "phrase": "Yoker",
+            "code": "YOK"
+        },
+        {
+            "phrase": "Yardley Wood",
+            "code": "YRD"
+        },
+        {
+            "phrase": "York",
+            "code": "YRK"
+        },
+        {
+            "phrase": "Yarm",
+            "code": "YRM"
+        },
+        {
+            "phrase": "Yorton",
+            "code": "YRT"
+        },
+        {
+            "phrase": "Ystrad Mynach",
+            "code": "YSM"
+        },
+        {
+            "phrase": "Ystrad Rhondda",
+            "code": "YSR"
+        },
+        {
+            "phrase": "Yeovil Junction",
+            "code": "YVJ"
+        },
+        {
+            "phrase": "Yeovil Pen Mill",
+            "code": "YVP"
+        }
+    ]
+}

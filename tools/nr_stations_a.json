@@ -1,0 +1,521 @@
+{
+    "path": "SN/A",
+    "phrases": [
+        {
+            "phrase": "Alexandra Palace",
+            "code": "AAP"
+        },
+        {
+            "phrase": "Achanalt",
+            "code": "AAT"
+        },
+        {
+            "phrase": "Aberdare",
+            "code": "ABA"
+        },
+        {
+            "phrase": "Altnabreac",
+            "code": "ABC"
+        },
+        {
+            "phrase": "Aberdeen",
+            "code": "ABD"
+        },
+        {
+            "phrase": "Aber",
+            "code": "ABE"
+        },
+        {
+            "phrase": "Abererch",
+            "code": "ABH"
+        },
+        {
+            "phrase": "Abbey Wood",
+            "code": "ABW"
+        },
+        {
+            "phrase": "Ashburys",
+            "code": "ABY"
+        },
+        {
+            "phrase": "Acton Bridge",
+            "code": "ACB"
+        },
+        {
+            "phrase": "Acton Central",
+            "code": "ACC"
+        },
+        {
+            "phrase": "Acocks Green",
+            "code": "ACG"
+        },
+        {
+            "phrase": "Achnashellach",
+            "code": "ACH"
+        },
+        {
+            "phrase": "Acklington",
+            "code": "ACK"
+        },
+        {
+            "phrase": "Acle",
+            "code": "ACL"
+        },
+        {
+            "phrase": "Achnasheen",
+            "code": "ACN"
+        },
+        {
+            "phrase": "Accrington",
+            "code": "ACR"
+        },
+        {
+            "phrase": "Ascot",
+            "code": "ACT"
+        },
+        {
+            "phrase": "Abercynon",
+            "code": "ACY"
+        },
+        {
+            "phrase": "Adlington",
+            "code": "ADC"
+        },
+        {
+            "phrase": "Adderley Park",
+            "code": "ADD"
+        },
+        {
+            "phrase": "Ardwick",
+            "code": "ADK"
+        },
+        {
+            "phrase": "Adlington",
+            "code": "ADL"
+        },
+        {
+            "phrase": "Adisham",
+            "code": "ADM"
+        },
+        {
+            "phrase": "Ardrossan Town",
+            "code": "ADN"
+        },
+        {
+            "phrase": "Airdrie",
+            "code": "ADR"
+        },
+        {
+            "phrase": "Ardrossan Harbour",
+            "code": "ADS"
+        },
+        {
+            "phrase": "Andover",
+            "code": "ADV"
+        },
+        {
+            "phrase": "Addiewell",
+            "code": "ADW"
+        },
+        {
+            "phrase": "Ashford International",
+            "code": "AFK"
+        },
+        {
+            "phrase": "Ashford Surrey",
+            "code": "AFS"
+        },
+        {
+            "phrase": "Ansdell & Fairhaven",
+            "code": "AFV"
+        },
+        {
+            "phrase": "Abergele & Pensarn",
+            "code": "AGL"
+        },
+        {
+            "phrase": "Argyle Street",
+            "code": "AGS"
+        },
+        {
+            "phrase": "Aldrington",
+            "code": "AGT"
+        },
+        {
+            "phrase": "Abergavenny",
+            "code": "AGV"
+        },
+        {
+            "phrase": "Ashtead",
+            "code": "AHD"
+        },
+        {
+            "phrase": "Ashton-Under-Lyne",
+            "code": "AHN"
+        },
+        {
+            "phrase": "Ashurst Kent",
+            "code": "AHS"
+        },
+        {
+            "phrase": "Aldershot",
+            "code": "AHT"
+        },
+        {
+            "phrase": "Ash Vale",
+            "code": "AHV"
+        },
+        {
+            "phrase": "Aigburth",
+            "code": "AIG"
+        },
+        {
+            "phrase": "Aintree",
+            "code": "AIN"
+        },
+        {
+            "phrase": "Airbles",
+            "code": "AIR"
+        },
+        {
+            "phrase": "Albrighton",
+            "code": "ALB"
+        },
+        {
+            "phrase": "Alderley Edge",
+            "code": "ALD"
+        },
+        {
+            "phrase": "Alfreton",
+            "code": "ALF"
+        },
+        {
+            "phrase": "Aslockton",
+            "code": "ALK"
+        },
+        {
+            "phrase": "Alnmouth",
+            "code": "ALM"
+        },
+        {
+            "phrase": "Althorne",
+            "code": "ALN"
+        },
+        {
+            "phrase": "Alloa",
+            "code": "ALO"
+        },
+        {
+            "phrase": "Althorpe",
+            "code": "ALP"
+        },
+        {
+            "phrase": "Alresford",
+            "code": "ALR"
+        },
+        {
+            "phrase": "Altrincham",
+            "code": "ALT"
+        },
+        {
+            "phrase": "Alvechurch",
+            "code": "ALV"
+        },
+        {
+            "phrase": "Allens West",
+            "code": "ALW"
+        },
+        {
+            "phrase": "Alexandria",
+            "code": "ALX"
+        },
+        {
+            "phrase": "Ambergate",
+            "code": "AMB"
+        },
+        {
+            "phrase": "Ammanford",
+            "code": "AMF"
+        },
+        {
+            "phrase": "Acton Main Line",
+            "code": "AML"
+        },
+        {
+            "phrase": "Amersham",
+            "code": "AMR"
+        },
+        {
+            "phrase": "Amsterdam Centraal",
+            "code": "AMS"
+        },
+        {
+            "phrase": "Aldermaston",
+            "code": "AMT"
+        },
+        {
+            "phrase": "Amberley",
+            "code": "AMY"
+        },
+        {
+            "phrase": "Ancaster",
+            "code": "ANC"
+        },
+        {
+            "phrase": "Anderston",
+            "code": "AND"
+        },
+        {
+            "phrase": "Ashurst New Forest",
+            "code": "ANF"
+        },
+        {
+            "phrase": "Angmering",
+            "code": "ANG"
+        },
+        {
+            "phrase": "Anniesland",
+            "code": "ANL"
+        },
+        {
+            "phrase": "Annan",
+            "code": "ANN"
+        },
+        {
+            "phrase": "Ainsdale",
+            "code": "ANS"
+        },
+        {
+            "phrase": "Anerley",
+            "code": "ANZ"
+        },
+        {
+            "phrase": "Alton",
+            "code": "AON"
+        },
+        {
+            "phrase": "Appley Bridge",
+            "code": "APB"
+        },
+        {
+            "phrase": "Appledore",
+            "code": "APD"
+        },
+        {
+            "phrase": "Appleford",
+            "code": "APF"
+        },
+        {
+            "phrase": "Aspley Guise",
+            "code": "APG"
+        },
+        {
+            "phrase": "Appleby",
+            "code": "APP"
+        },
+        {
+            "phrase": "Apsley",
+            "code": "APS"
+        },
+        {
+            "phrase": "Apperley Bridge",
+            "code": "APY"
+        },
+        {
+            "phrase": "Arbroath",
+            "code": "ARB"
+        },
+        {
+            "phrase": "Ardgay",
+            "code": "ARD"
+        },
+        {
+            "phrase": "Arisaig",
+            "code": "ARG"
+        },
+        {
+            "phrase": "Arlesey",
+            "code": "ARL"
+        },
+        {
+            "phrase": "Armadale",
+            "code": "ARM"
+        },
+        {
+            "phrase": "Arnside",
+            "code": "ARN"
+        },
+        {
+            "phrase": "Arram",
+            "code": "ARR"
+        },
+        {
+            "phrase": "Arrochar & Tarbet",
+            "code": "ART"
+        },
+        {
+            "phrase": "Arundel",
+            "code": "ARU"
+        },
+        {
+            "phrase": "Ardrossan South Beach",
+            "code": "ASB"
+        },
+        {
+            "phrase": "Ashchurch for Tewkesbury",
+            "code": "ASC"
+        },
+        {
+            "phrase": "Ashley Down",
+            "code": "ASD"
+        },
+        {
+            "phrase": "Ashfield",
+            "code": "ASF"
+        },
+        {
+            "phrase": "Alsager",
+            "code": "ASG"
+        },
+        {
+            "phrase": "Ash",
+            "code": "ASH"
+        },
+        {
+            "phrase": "Askam",
+            "code": "ASK"
+        },
+        {
+            "phrase": "Ashington",
+            "code": "ASL"
+        },
+        {
+            "phrase": "Addlestone",
+            "code": "ASN"
+        },
+        {
+            "phrase": "Aspatria",
+            "code": "ASP"
+        },
+        {
+            "phrase": "Alness",
+            "code": "ASS"
+        },
+        {
+            "phrase": "Aston",
+            "code": "AST"
+        },
+        {
+            "phrase": "Ashley",
+            "code": "ASY"
+        },
+        {
+            "phrase": "Attenborough",
+            "code": "ATB"
+        },
+        {
+            "phrase": "Atherstone",
+            "code": "ATH"
+        },
+        {
+            "phrase": "Attleborough",
+            "code": "ATL"
+        },
+        {
+            "phrase": "Atherton",
+            "code": "ATN"
+        },
+        {
+            "phrase": "Attadale",
+            "code": "ATT"
+        },
+        {
+            "phrase": "Audley End",
+            "code": "AUD"
+        },
+        {
+            "phrase": "Aughton Park",
+            "code": "AUG"
+        },
+        {
+            "phrase": "Ardlui",
+            "code": "AUI"
+        },
+        {
+            "phrase": "Auchinleck",
+            "code": "AUK"
+        },
+        {
+            "phrase": "Aberdour",
+            "code": "AUR"
+        },
+        {
+            "phrase": "Ascott-Under-Wychwood",
+            "code": "AUW"
+        },
+        {
+            "phrase": "Avoncliff",
+            "code": "AVF"
+        },
+        {
+            "phrase": "Aviemore",
+            "code": "AVM"
+        },
+        {
+            "phrase": "Avonmouth",
+            "code": "AVN"
+        },
+        {
+            "phrase": "Aylesbury Vale Parkway",
+            "code": "AVP"
+        },
+        {
+            "phrase": "Aberdovey",
+            "code": "AVY"
+        },
+        {
+            "phrase": "Adwick",
+            "code": "AWK"
+        },
+        {
+            "phrase": "Ashwell & Morden",
+            "code": "AWM"
+        },
+        {
+            "phrase": "Armathwaite",
+            "code": "AWT"
+        },
+        {
+            "phrase": "Axminster",
+            "code": "AXM"
+        },
+        {
+            "phrase": "Alexandra Parade",
+            "code": "AXP"
+        },
+        {
+            "phrase": "Aylesham",
+            "code": "AYH"
+        },
+        {
+            "phrase": "Aylesford",
+            "code": "AYL"
+        },
+        {
+            "phrase": "Albany Park",
+            "code": "AYP"
+        },
+        {
+            "phrase": "Ayr",
+            "code": "AYR"
+        },
+        {
+            "phrase": "Aylesbury",
+            "code": "AYS"
+        },
+        {
+            "phrase": "Aberystwyth",
+            "code": "AYW"
+        }
+    ]
+}

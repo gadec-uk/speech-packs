@@ -1,0 +1,353 @@
+{
+    "path": "SN/E",
+    "phrases": [
+        {
+            "phrase": "Earlsfield",
+            "code": "EAD"
+        },
+        {
+            "phrase": "Eaglescliffe",
+            "code": "EAG"
+        },
+        {
+            "phrase": "Ealing Broadway",
+            "code": "EAL"
+        },
+        {
+            "phrase": "Earley",
+            "code": "EAR"
+        },
+        {
+            "phrase": "Euxton Balshaw Lane",
+            "code": "EBA"
+        },
+        {
+            "phrase": "Ebbw Vale Town",
+            "code": "EBB"
+        },
+        {
+            "phrase": "Ebbsfleet International",
+            "code": "EBD"
+        },
+        {
+            "phrase": "Eastbrook",
+            "code": "EBK"
+        },
+        {
+            "phrase": "East Boldon",
+            "code": "EBL"
+        },
+        {
+            "phrase": "Eastbourne",
+            "code": "EBN"
+        },
+        {
+            "phrase": "Edenbridge",
+            "code": "EBR"
+        },
+        {
+            "phrase": "Edenbridge Town",
+            "code": "EBT"
+        },
+        {
+            "phrase": "Ebbw Vale Parkway",
+            "code": "EBV"
+        },
+        {
+            "phrase": "Eccles",
+            "code": "ECC"
+        },
+        {
+            "phrase": "Eccleston Park",
+            "code": "ECL"
+        },
+        {
+            "phrase": "Energlyn & Churchill Park",
+            "code": "ECP"
+        },
+        {
+            "phrase": "East Croydon",
+            "code": "ECR"
+        },
+        {
+            "phrase": "Eccles Road",
+            "code": "ECS"
+        },
+        {
+            "phrase": "Edinburgh",
+            "code": "EDB"
+        },
+        {
+            "phrase": "Edge Hill",
+            "code": "EDG"
+        },
+        {
+            "phrase": "Edale",
+            "code": "EDL"
+        },
+        {
+            "phrase": "Eden Park",
+            "code": "EDN"
+        },
+        {
+            "phrase": "Edinburgh Park",
+            "code": "EDP"
+        },
+        {
+            "phrase": "Edmonton Green",
+            "code": "EDR"
+        },
+        {
+            "phrase": "Edginswell",
+            "code": "EDS"
+        },
+        {
+            "phrase": "East Dulwich",
+            "code": "EDW"
+        },
+        {
+            "phrase": "East Didsbury",
+            "code": "EDY"
+        },
+        {
+            "phrase": "Effingham Junction",
+            "code": "EFF"
+        },
+        {
+            "phrase": "East Farleigh",
+            "code": "EFL"
+        },
+        {
+            "phrase": "East Garforth",
+            "code": "EGF"
+        },
+        {
+            "phrase": "Eggesford",
+            "code": "EGG"
+        },
+        {
+            "phrase": "Egham",
+            "code": "EGH"
+        },
+        {
+            "phrase": "Eastrington",
+            "code": "EGN"
+        },
+        {
+            "phrase": "East Grinstead",
+            "code": "EGR"
+        },
+        {
+            "phrase": "Egton",
+            "code": "EGT"
+        },
+        {
+            "phrase": "Edinburgh Gateway",
+            "code": "EGY"
+        },
+        {
+            "phrase": "Eskbank",
+            "code": "EKB"
+        },
+        {
+            "phrase": "East Kilbride",
+            "code": "EKL"
+        },
+        {
+            "phrase": "Earlswood",
+            "code": "ELD"
+        },
+        {
+            "phrase": "Elmers End",
+            "code": "ELE"
+        },
+        {
+            "phrase": "Elgin",
+            "code": "ELG"
+        },
+        {
+            "phrase": "Elton & Orston",
+            "code": "ELO"
+        },
+        {
+            "phrase": "Ellesmere Port",
+            "code": "ELP"
+        },
+        {
+            "phrase": "Elsecar",
+            "code": "ELR"
+        },
+        {
+            "phrase": "Elstree & Borehamwood",
+            "code": "ELS"
+        },
+        {
+            "phrase": "East Linton",
+            "code": "ELT"
+        },
+        {
+            "phrase": "Eltham",
+            "code": "ELW"
+        },
+        {
+            "phrase": "Ely",
+            "code": "ELY"
+        },
+        {
+            "phrase": "East Midlands Airport",
+            "code": "EMA"
+        },
+        {
+            "phrase": "East Midlands Parkway",
+            "code": "EMD"
+        },
+        {
+            "phrase": "East Malling",
+            "code": "EML"
+        },
+        {
+            "phrase": "Emerson Park",
+            "code": "EMP"
+        },
+        {
+            "phrase": "Emsworth",
+            "code": "EMS"
+        },
+        {
+            "phrase": "Enfield Chase",
+            "code": "ENC"
+        },
+        {
+            "phrase": "Enfield Town",
+            "code": "ENF"
+        },
+        {
+            "phrase": "Enfield Lock",
+            "code": "ENL"
+        },
+        {
+            "phrase": "Entwistle",
+            "code": "ENT"
+        },
+        {
+            "phrase": "Epsom Downs",
+            "code": "EPD"
+        },
+        {
+            "phrase": "Elephant & Castle",
+            "code": "EPH"
+        },
+        {
+            "phrase": "Epsom",
+            "code": "EPS"
+        },
+        {
+            "phrase": "Eastham Rake",
+            "code": "ERA"
+        },
+        {
+            "phrase": "Erdington",
+            "code": "ERD"
+        },
+        {
+            "phrase": "Erith",
+            "code": "ERH"
+        },
+        {
+            "phrase": "Eridge",
+            "code": "ERI"
+        },
+        {
+            "phrase": "Earlestown",
+            "code": "ERL"
+        },
+        {
+            "phrase": "Elmstead Woods",
+            "code": "ESD"
+        },
+        {
+            "phrase": "Esher",
+            "code": "ESH"
+        },
+        {
+            "phrase": "Eastleigh",
+            "code": "ESL"
+        },
+        {
+            "phrase": "Elsenham",
+            "code": "ESM"
+        },
+        {
+            "phrase": "Easterhouse",
+            "code": "EST"
+        },
+        {
+            "phrase": "Elmswell",
+            "code": "ESW"
+        },
+        {
+            "phrase": "Etchingham",
+            "code": "ETC"
+        },
+        {
+            "phrase": "East Tilbury",
+            "code": "ETL"
+        },
+        {
+            "phrase": "London Euston",
+            "code": "EUS"
+        },
+        {
+            "phrase": "Evesham",
+            "code": "EVE"
+        },
+        {
+            "phrase": "Earlswood",
+            "code": "EWD"
+        },
+        {
+            "phrase": "Ewell East",
+            "code": "EWE"
+        },
+        {
+            "phrase": "East Worthing",
+            "code": "EWR"
+        },
+        {
+            "phrase": "Ewell West",
+            "code": "EWW"
+        },
+        {
+            "phrase": "Exeter Central",
+            "code": "EXC"
+        },
+        {
+            "phrase": "Exeter St Davids",
+            "code": "EXD"
+        },
+        {
+            "phrase": "Exhibition Centre",
+            "code": "EXG"
+        },
+        {
+            "phrase": "Exmouth",
+            "code": "EXM"
+        },
+        {
+            "phrase": "Exton",
+            "code": "EXN"
+        },
+        {
+            "phrase": "Essex Road",
+            "code": "EXR"
+        },
+        {
+            "phrase": "Exeter St Thomas",
+            "code": "EXT"
+        },
+        {
+            "phrase": "Eynsford",
+            "code": "EYN"
+        }
+    ]
+}

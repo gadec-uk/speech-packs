@@ -1,0 +1,381 @@
+{
+    "path": "SN/R",
+    "phrases": [
+        {
+            "phrase": "Radley",
+            "code": "RAD"
+        },
+        {
+            "phrase": "Rainham",
+            "code": "RAI"
+        },
+        {
+            "phrase": "Ramsgate",
+            "code": "RAM"
+        },
+        {
+            "phrase": "Rannoch",
+            "code": "RAN"
+        },
+        {
+            "phrase": "Rauceby",
+            "code": "RAU"
+        },
+        {
+            "phrase": "Ravenglass for Eskdale",
+            "code": "RAV"
+        },
+        {
+            "phrase": "Raynes Park",
+            "code": "RAY"
+        },
+        {
+            "phrase": "Robertsbridge",
+            "code": "RBR"
+        },
+        {
+            "phrase": "Risca & Pontymister",
+            "code": "RCA"
+        },
+        {
+            "phrase": "Redcar Central",
+            "code": "RCC"
+        },
+        {
+            "phrase": "Rochdale",
+            "code": "RCD"
+        },
+        {
+            "phrase": "Redcar East",
+            "code": "RCE"
+        },
+        {
+            "phrase": "Redland",
+            "code": "RDA"
+        },
+        {
+            "phrase": "Redbridge",
+            "code": "RDB"
+        },
+        {
+            "phrase": "Redditch",
+            "code": "RDC"
+        },
+        {
+            "phrase": "Riddlesdown",
+            "code": "RDD"
+        },
+        {
+            "phrase": "Radcliffe",
+            "code": "RDF"
+        },
+        {
+            "phrase": "Reading",
+            "code": "RDG"
+        },
+        {
+            "phrase": "Redhill",
+            "code": "RDH"
+        },
+        {
+            "phrase": "Riding Mill",
+            "code": "RDM"
+        },
+        {
+            "phrase": "Reddish North",
+            "code": "RDN"
+        },
+        {
+            "phrase": "Radyr",
+            "code": "RDR"
+        },
+        {
+            "phrase": "Reddish South",
+            "code": "RDS"
+        },
+        {
+            "phrase": "Radlett",
+            "code": "RDT"
+        },
+        {
+            "phrase": "Reading West",
+            "code": "RDW"
+        },
+        {
+            "phrase": "Rectory Road",
+            "code": "REC"
+        },
+        {
+            "phrase": "Redruth",
+            "code": "RED"
+        },
+        {
+            "phrase": "Reedham",
+            "code": "REE"
+        },
+        {
+            "phrase": "Reigate",
+            "code": "REI"
+        },
+        {
+            "phrase": "Retford",
+            "code": "RET"
+        },
+        {
+            "phrase": "Rochford",
+            "code": "RFD"
+        },
+        {
+            "phrase": "Rock Ferry",
+            "code": "RFY"
+        },
+        {
+            "phrase": "Rugeley Trent Valley",
+            "code": "RGL"
+        },
+        {
+            "phrase": "Reading Green Park",
+            "code": "RGP"
+        },
+        {
+            "phrase": "Rugeley Town",
+            "code": "RGT"
+        },
+        {
+            "phrase": "Ramsgreave & Wilpshire",
+            "code": "RGW"
+        },
+        {
+            "phrase": "Ribblehead",
+            "code": "RHD"
+        },
+        {
+            "phrase": "Rhiwbina",
+            "code": "RHI"
+        },
+        {
+            "phrase": "Rhyl",
+            "code": "RHL"
+        },
+        {
+            "phrase": "Reedham",
+            "code": "RHM"
+        },
+        {
+            "phrase": "Rhosneigr",
+            "code": "RHO"
+        },
+        {
+            "phrase": "Rhymney",
+            "code": "RHY"
+        },
+        {
+            "phrase": "Rhoose Cardiff Airport",
+            "code": "RIA"
+        },
+        {
+            "phrase": "Rickmansworth",
+            "code": "RIC"
+        },
+        {
+            "phrase": "Ridgmont",
+            "code": "RID"
+        },
+        {
+            "phrase": "Rice Lane",
+            "code": "RIL"
+        },
+        {
+            "phrase": "Rishton",
+            "code": "RIS"
+        },
+        {
+            "phrase": "Ruskington",
+            "code": "RKT"
+        },
+        {
+            "phrase": "Rayleigh",
+            "code": "RLG"
+        },
+        {
+            "phrase": "Rowlands Castle",
+            "code": "RLN"
+        },
+        {
+            "phrase": "Roman Bridge",
+            "code": "RMB"
+        },
+        {
+            "phrase": "Rotherham Central",
+            "code": "RMC"
+        },
+        {
+            "phrase": "Richmond",
+            "code": "RMD"
+        },
+        {
+            "phrase": "Romford",
+            "code": "RMF"
+        },
+        {
+            "phrase": "Romiley",
+            "code": "RML"
+        },
+        {
+            "phrase": "Rainford",
+            "code": "RNF"
+        },
+        {
+            "phrase": "Rainhill",
+            "code": "RNH"
+        },
+        {
+            "phrase": "Rainham",
+            "code": "RNM"
+        },
+        {
+            "phrase": "Roughton Road",
+            "code": "RNR"
+        },
+        {
+            "phrase": "Roby",
+            "code": "ROB"
+        },
+        {
+            "phrase": "Roche",
+            "code": "ROC"
+        },
+        {
+            "phrase": "Rotherhithe",
+            "code": "ROE"
+        },
+        {
+            "phrase": "Rogart",
+            "code": "ROG"
+        },
+        {
+            "phrase": "Rolleston",
+            "code": "ROL"
+        },
+        {
+            "phrase": "Romsey",
+            "code": "ROM"
+        },
+        {
+            "phrase": "Roose",
+            "code": "ROO"
+        },
+        {
+            "phrase": "Rogerstone",
+            "code": "ROR"
+        },
+        {
+            "phrase": "Rosyth",
+            "code": "ROS"
+        },
+        {
+            "phrase": "Rowley Regis",
+            "code": "ROW"
+        },
+        {
+            "phrase": "Ryder Brow",
+            "code": "RRB"
+        },
+        {
+            "phrase": "Robroyston",
+            "code": "RRN"
+        },
+        {
+            "phrase": "Rose Grove",
+            "code": "RSG"
+        },
+        {
+            "phrase": "Rose Hill Marple",
+            "code": "RSH"
+        },
+        {
+            "phrase": "Reston",
+            "code": "RSN"
+        },
+        {
+            "phrase": "Renton",
+            "code": "RTN"
+        },
+        {
+            "phrase": "Rochester",
+            "code": "RTR"
+        },
+        {
+            "phrase": "Ruabon",
+            "code": "RUA"
+        },
+        {
+            "phrase": "Runcorn East",
+            "code": "RUE"
+        },
+        {
+            "phrase": "Rufford",
+            "code": "RUF"
+        },
+        {
+            "phrase": "Rugby",
+            "code": "RUG"
+        },
+        {
+            "phrase": "Runcorn",
+            "code": "RUN"
+        },
+        {
+            "phrase": "Ruswarp",
+            "code": "RUS"
+        },
+        {
+            "phrase": "Rutherglen",
+            "code": "RUT"
+        },
+        {
+            "phrase": "Ravensbourne",
+            "code": "RVB"
+        },
+        {
+            "phrase": "Ravensthorpe",
+            "code": "RVN"
+        },
+        {
+            "phrase": "Rawcliffe",
+            "code": "RWC"
+        },
+        {
+            "phrase": "Roy Bridge",
+            "code": "RYB"
+        },
+        {
+            "phrase": "Ryde Esplanade",
+            "code": "RYD"
+        },
+        {
+            "phrase": "Rye",
+            "code": "RYE"
+        },
+        {
+            "phrase": "Rye House",
+            "code": "RYH"
+        },
+        {
+            "phrase": "Roydon",
+            "code": "RYN"
+        },
+        {
+            "phrase": "Ryde Pier Head",
+            "code": "RYP"
+        },
+        {
+            "phrase": "Ryde St Johns Road",
+            "code": "RYR"
+        },
+        {
+            "phrase": "Royston",
+            "code": "RYS"
+        }
+    ]
+}

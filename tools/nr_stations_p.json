@@ -1,0 +1,529 @@
+{
+    "path": "SN/P",
+    "phrases": [
+        {
+            "phrase": "London Paddington",
+            "code": "PAD"
+        },
+        {
+            "phrase": "Palmers Green",
+            "code": "PAL"
+        },
+        {
+            "phrase": "Pangbourne",
+            "code": "PAN"
+        },
+        {
+            "phrase": "Par",
+            "code": "PAR"
+        },
+        {
+            "phrase": "Patricroft",
+            "code": "PAT"
+        },
+        {
+            "phrase": "Parbold",
+            "code": "PBL"
+        },
+        {
+            "phrase": "Paris Nord",
+            "code": "PBN"
+        },
+        {
+            "phrase": "Peterborough",
+            "code": "PBO"
+        },
+        {
+            "phrase": "Potters Bar",
+            "code": "PBR"
+        },
+        {
+            "phrase": "Pembrey & Burry Port",
+            "code": "PBY"
+        },
+        {
+            "phrase": "Pencoed",
+            "code": "PCD"
+        },
+        {
+            "phrase": "Paisley Canal",
+            "code": "PCN"
+        },
+        {
+            "phrase": "Padgate",
+            "code": "PDG"
+        },
+        {
+            "phrase": "Paddock Wood",
+            "code": "PDW"
+        },
+        {
+            "phrase": "Peartree",
+            "code": "PEA"
+        },
+        {
+            "phrase": "Pevensey Bay",
+            "code": "PEB"
+        },
+        {
+            "phrase": "Pegswood",
+            "code": "PEG"
+        },
+        {
+            "phrase": "Pemberton",
+            "code": "PEM"
+        },
+        {
+            "phrase": "Penarth",
+            "code": "PEN"
+        },
+        {
+            "phrase": "Penrhiwceiber",
+            "code": "PER"
+        },
+        {
+            "phrase": "Pensarn",
+            "code": "PES"
+        },
+        {
+            "phrase": "Petts Wood",
+            "code": "PET"
+        },
+        {
+            "phrase": "Pevensey & Westham",
+            "code": "PEV"
+        },
+        {
+            "phrase": "Pewsey",
+            "code": "PEW"
+        },
+        {
+            "phrase": "Purfleet",
+            "code": "PFL"
+        },
+        {
+            "phrase": "Pontefract Monkhill",
+            "code": "PFM"
+        },
+        {
+            "phrase": "Pontefract Baghill",
+            "code": "PFR"
+        },
+        {
+            "phrase": "Poulton-Le-Fylde",
+            "code": "PFY"
+        },
+        {
+            "phrase": "Pengam",
+            "code": "PGM"
+        },
+        {
+            "phrase": "Paignton",
+            "code": "PGN"
+        },
+        {
+            "phrase": "Penhelig",
+            "code": "PHG"
+        },
+        {
+            "phrase": "Penshurst",
+            "code": "PHR"
+        },
+        {
+            "phrase": "Pilning",
+            "code": "PIL"
+        },
+        {
+            "phrase": "Pinhoe",
+            "code": "PIN"
+        },
+        {
+            "phrase": "Pineapple Road",
+            "code": "PIR"
+        },
+        {
+            "phrase": "Pitlochry",
+            "code": "PIT"
+        },
+        {
+            "phrase": "Penkridge",
+            "code": "PKG"
+        },
+        {
+            "phrase": "Parkstone",
+            "code": "PKS"
+        },
+        {
+            "phrase": "Park Street",
+            "code": "PKT"
+        },
+        {
+            "phrase": "Pluckley",
+            "code": "PLC"
+        },
+        {
+            "phrase": "Portslade",
+            "code": "PLD"
+        },
+        {
+            "phrase": "Pollokshields East",
+            "code": "PLE"
+        },
+        {
+            "phrase": "Polegate",
+            "code": "PLG"
+        },
+        {
+            "phrase": "Plockton",
+            "code": "PLK"
+        },
+        {
+            "phrase": "Plumley",
+            "code": "PLM"
+        },
+        {
+            "phrase": "Portlethen",
+            "code": "PLN"
+        },
+        {
+            "phrase": "Pleasington",
+            "code": "PLS"
+        },
+        {
+            "phrase": "Pontlottyn",
+            "code": "PLT"
+        },
+        {
+            "phrase": "Plumstead",
+            "code": "PLU"
+        },
+        {
+            "phrase": "Pollokshields West",
+            "code": "PLW"
+        },
+        {
+            "phrase": "Plymouth",
+            "code": "PLY"
+        },
+        {
+            "phrase": "Portsmouth Arms",
+            "code": "PMA"
+        },
+        {
+            "phrase": "Pembroke",
+            "code": "PMB"
+        },
+        {
+            "phrase": "Pembroke Dock",
+            "code": "PMD"
+        },
+        {
+            "phrase": "Portsmouth Harbour",
+            "code": "PMH"
+        },
+        {
+            "phrase": "Plumpton",
+            "code": "PMP"
+        },
+        {
+            "phrase": "Peckham Rye",
+            "code": "PMR"
+        },
+        {
+            "phrase": "Portsmouth & Southsea",
+            "code": "PMS"
+        },
+        {
+            "phrase": "Polmont",
+            "code": "PMT"
+        },
+        {
+            "phrase": "Penmaenmawr",
+            "code": "PMW"
+        },
+        {
+            "phrase": "Penally",
+            "code": "PNA"
+        },
+        {
+            "phrase": "Penychain",
+            "code": "PNC"
+        },
+        {
+            "phrase": "Penge East",
+            "code": "PNE"
+        },
+        {
+            "phrase": "Penyffordd",
+            "code": "PNF"
+        },
+        {
+            "phrase": "Pannal",
+            "code": "PNL"
+        },
+        {
+            "phrase": "Penmere",
+            "code": "PNM"
+        },
+        {
+            "phrase": "Penrith",
+            "code": "PNR"
+        },
+        {
+            "phrase": "Penistone",
+            "code": "PNS"
+        },
+        {
+            "phrase": "Penge West",
+            "code": "PNW"
+        },
+        {
+            "phrase": "Pen-Y-Bont",
+            "code": "PNY"
+        },
+        {
+            "phrase": "Penzance",
+            "code": "PNZ"
+        },
+        {
+            "phrase": "Pokesdown",
+            "code": "POK"
+        },
+        {
+            "phrase": "Polsloe Bridge",
+            "code": "POL"
+        },
+        {
+            "phrase": "Ponders End",
+            "code": "PON"
+        },
+        {
+            "phrase": "Poole",
+            "code": "POO"
+        },
+        {
+            "phrase": "Poppleton",
+            "code": "POP"
+        },
+        {
+            "phrase": "Porth",
+            "code": "POR"
+        },
+        {
+            "phrase": "Pontefract Tanshelf",
+            "code": "POT"
+        },
+        {
+            "phrase": "Pontypridd",
+            "code": "PPD"
+        },
+        {
+            "phrase": "Possilpark & Parkhouse",
+            "code": "PPK"
+        },
+        {
+            "phrase": "Pontypool and New Inn",
+            "code": "PPL"
+        },
+        {
+            "phrase": "Prestwick International Airport",
+            "code": "PRA"
+        },
+        {
+            "phrase": "Prestbury",
+            "code": "PRB"
+        },
+        {
+            "phrase": "Preston",
+            "code": "PRE"
+        },
+        {
+            "phrase": "Penrhyndeudraeth",
+            "code": "PRH"
+        },
+        {
+            "phrase": "Portway Park & Ride",
+            "code": "PRI"
+        },
+        {
+            "phrase": "Prittlewell",
+            "code": "PRL"
+        },
+        {
+            "phrase": "Parton",
+            "code": "PRN"
+        },
+        {
+            "phrase": "Preston Park",
+            "code": "PRP"
+        },
+        {
+            "phrase": "Princes Risborough",
+            "code": "PRR"
+        },
+        {
+            "phrase": "Prees",
+            "code": "PRS"
+        },
+        {
+            "phrase": "Prestatyn",
+            "code": "PRT"
+        },
+        {
+            "phrase": "Prudhoe",
+            "code": "PRU"
+        },
+        {
+            "phrase": "Perranwell",
+            "code": "PRW"
+        },
+        {
+            "phrase": "Perry Barr",
+            "code": "PRY"
+        },
+        {
+            "phrase": "Prescot",
+            "code": "PSC"
+        },
+        {
+            "phrase": "Pitsea",
+            "code": "PSE"
+        },
+        {
+            "phrase": "Pershore",
+            "code": "PSH"
+        },
+        {
+            "phrase": "Port Sunlight",
+            "code": "PSL"
+        },
+        {
+            "phrase": "Parson Street",
+            "code": "PSN"
+        },
+        {
+            "phrase": "Prestonpans",
+            "code": "PST"
+        },
+        {
+            "phrase": "Polesworth",
+            "code": "PSW"
+        },
+        {
+            "phrase": "Port Talbot Parkway",
+            "code": "PTA"
+        },
+        {
+            "phrase": "Pentre-Bach",
+            "code": "PTB"
+        },
+        {
+            "phrase": "Portchester",
+            "code": "PTC"
+        },
+        {
+            "phrase": "Pontarddulais",
+            "code": "PTD"
+        },
+        {
+            "phrase": "Pantyffynnon",
+            "code": "PTF"
+        },
+        {
+            "phrase": "Port Glasgow",
+            "code": "PTG"
+        },
+        {
+            "phrase": "Perth",
+            "code": "PTH"
+        },
+        {
+            "phrase": "Partick",
+            "code": "PTK"
+        },
+        {
+            "phrase": "Priesthill & Darnley",
+            "code": "PTL"
+        },
+        {
+            "phrase": "Porthmadog",
+            "code": "PTM"
+        },
+        {
+            "phrase": "Petersfield",
+            "code": "PTR"
+        },
+        {
+            "phrase": "Patterton",
+            "code": "PTT"
+        },
+        {
+            "phrase": "Prestwick Town",
+            "code": "PTW"
+        },
+        {
+            "phrase": "Pulborough",
+            "code": "PUL"
+        },
+        {
+            "phrase": "Purley Oaks",
+            "code": "PUO"
+        },
+        {
+            "phrase": "Purley",
+            "code": "PUR"
+        },
+        {
+            "phrase": "Putney",
+            "code": "PUT"
+        },
+        {
+            "phrase": "Pollokshaws East",
+            "code": "PWE"
+        },
+        {
+            "phrase": "Pwllheli",
+            "code": "PWL"
+        },
+        {
+            "phrase": "Pollokshaws West",
+            "code": "PWW"
+        },
+        {
+            "phrase": "Patchway",
+            "code": "PWY"
+        },
+        {
+            "phrase": "Pontyclun",
+            "code": "PYC"
+        },
+        {
+            "phrase": "Pye Corner",
+            "code": "PYE"
+        },
+        {
+            "phrase": "Paisley Gilmour Street",
+            "code": "PYG"
+        },
+        {
+            "phrase": "Paisley St James",
+            "code": "PYJ"
+        },
+        {
+            "phrase": "Pyle",
+            "code": "PYL"
+        },
+        {
+            "phrase": "Penryn",
+            "code": "PYN"
+        },
+        {
+            "phrase": "Pont-Y-Pant",
+            "code": "PYP"
+        },
+        {
+            "phrase": "Poynton",
+            "code": "PYT"
+        }
+    ]
+}

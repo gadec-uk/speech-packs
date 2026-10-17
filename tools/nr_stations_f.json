@@ -1,0 +1,309 @@
+{
+    "path": "SN/F",
+    "phrases": [
+        {
+            "phrase": "Falmouth Docks",
+            "code": "FAL"
+        },
+        {
+            "phrase": "Faversham",
+            "code": "FAV"
+        },
+        {
+            "phrase": "Fazakerley",
+            "code": "FAZ"
+        },
+        {
+            "phrase": "Formby",
+            "code": "FBY"
+        },
+        {
+            "phrase": "Falconwood",
+            "code": "FCN"
+        },
+        {
+            "phrase": "Featherstone",
+            "code": "FEA"
+        },
+        {
+            "phrase": "Feltham",
+            "code": "FEL"
+        },
+        {
+            "phrase": "Fenny Stratford",
+            "code": "FEN"
+        },
+        {
+            "phrase": "Fernhill",
+            "code": "FER"
+        },
+        {
+            "phrase": "Ffairfach",
+            "code": "FFA"
+        },
+        {
+            "phrase": "Freshford",
+            "code": "FFD"
+        },
+        {
+            "phrase": "Fishguard Harbour",
+            "code": "FGH"
+        },
+        {
+            "phrase": "Faygate",
+            "code": "FGT"
+        },
+        {
+            "phrase": "Fishguard & Goodwick",
+            "code": "FGW"
+        },
+        {
+            "phrase": "Filey",
+            "code": "FIL"
+        },
+        {
+            "phrase": "Finstock",
+            "code": "FIN"
+        },
+        {
+            "phrase": "Filton Abbey Wood",
+            "code": "FIT"
+        },
+        {
+            "phrase": "Folkestone Central",
+            "code": "FKC"
+        },
+        {
+            "phrase": "Falkirk Grahamston",
+            "code": "FKG"
+        },
+        {
+            "phrase": "Falkirk High",
+            "code": "FKK"
+        },
+        {
+            "phrase": "Folkestone West",
+            "code": "FKW"
+        },
+        {
+            "phrase": "Fauldhouse",
+            "code": "FLD"
+        },
+        {
+            "phrase": "Fleet",
+            "code": "FLE"
+        },
+        {
+            "phrase": "Flowery Field",
+            "code": "FLF"
+        },
+        {
+            "phrase": "Flixton",
+            "code": "FLI"
+        },
+        {
+            "phrase": "Flimby",
+            "code": "FLM"
+        },
+        {
+            "phrase": "Flint",
+            "code": "FLN"
+        },
+        {
+            "phrase": "Flitwick",
+            "code": "FLT"
+        },
+        {
+            "phrase": "Fulwell",
+            "code": "FLW"
+        },
+        {
+            "phrase": "Felixstowe",
+            "code": "FLX"
+        },
+        {
+            "phrase": "Frimley",
+            "code": "FML"
+        },
+        {
+            "phrase": "Falmer",
+            "code": "FMR"
+        },
+        {
+            "phrase": "Falmouth Town",
+            "code": "FMT"
+        },
+        {
+            "phrase": "Farnborough Main",
+            "code": "FNB"
+        },
+        {
+            "phrase": "Farncombe",
+            "code": "FNC"
+        },
+        {
+            "phrase": "Farnham",
+            "code": "FNH"
+        },
+        {
+            "phrase": "Farnborough North",
+            "code": "FNN"
+        },
+        {
+            "phrase": "Farningham Road",
+            "code": "FNR"
+        },
+        {
+            "phrase": "Feniton",
+            "code": "FNT"
+        },
+        {
+            "phrase": "Furness Vale",
+            "code": "FNV"
+        },
+        {
+            "phrase": "Farnworth",
+            "code": "FNW"
+        },
+        {
+            "phrase": "Finchley Road & Frognal",
+            "code": "FNY"
+        },
+        {
+            "phrase": "Falls of Cruachan",
+            "code": "FOC"
+        },
+        {
+            "phrase": "Ford",
+            "code": "FOD"
+        },
+        {
+            "phrase": "Forest Gate",
+            "code": "FOG"
+        },
+        {
+            "phrase": "Forest Hill",
+            "code": "FOH"
+        },
+        {
+            "phrase": "Four Oaks",
+            "code": "FOK"
+        },
+        {
+            "phrase": "Forres",
+            "code": "FOR"
+        },
+        {
+            "phrase": "Foxfield",
+            "code": "FOX"
+        },
+        {
+            "phrase": "Finsbury Park",
+            "code": "FPK"
+        },
+        {
+            "phrase": "Fairbourne",
+            "code": "FRB"
+        },
+        {
+            "phrase": "Frodsham",
+            "code": "FRD"
+        },
+        {
+            "phrase": "Freshfield",
+            "code": "FRE"
+        },
+        {
+            "phrase": "Fairfield",
+            "code": "FRF"
+        },
+        {
+            "phrase": "Frinton-On-Sea",
+            "code": "FRI"
+        },
+        {
+            "phrase": "Fairlie",
+            "code": "FRL"
+        },
+        {
+            "phrase": "Fareham",
+            "code": "FRM"
+        },
+        {
+            "phrase": "Fearn",
+            "code": "FRN"
+        },
+        {
+            "phrase": "Frome",
+            "code": "FRO"
+        },
+        {
+            "phrase": "Forsinard",
+            "code": "FRS"
+        },
+        {
+            "phrase": "Frant",
+            "code": "FRT"
+        },
+        {
+            "phrase": "Fairwater",
+            "code": "FRW"
+        },
+        {
+            "phrase": "Ferriby",
+            "code": "FRY"
+        },
+        {
+            "phrase": "Fishbourne",
+            "code": "FSB"
+        },
+        {
+            "phrase": "Fishersgate",
+            "code": "FSG"
+        },
+        {
+            "phrase": "Fiskerton",
+            "code": "FSK"
+        },
+        {
+            "phrase": "London Fenchurch Street",
+            "code": "FST"
+        },
+        {
+            "phrase": "Fort Matilda",
+            "code": "FTM"
+        },
+        {
+            "phrase": "Fratton",
+            "code": "FTN"
+        },
+        {
+            "phrase": "Fort William",
+            "code": "FTW"
+        },
+        {
+            "phrase": "Five Ways",
+            "code": "FWY"
+        },
+        {
+            "phrase": "Foxton",
+            "code": "FXN"
+        },
+        {
+            "phrase": "Ferryside",
+            "code": "FYS"
+        },
+        {
+            "phrase": "Frizinghall",
+            "code": "FZH"
+        },
+        {
+            "phrase": "Furze Platt",
+            "code": "FZP"
+        },
+        {
+            "phrase": "Fitzwilliam",
+            "code": "FZW"
+        }
+    ]
+}

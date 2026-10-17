@@ -1,0 +1,809 @@
+{
+    "path": "SN/H",
+    "phrases": [
+        {
+            "phrase": "Habrough",
+            "code": "HAB"
+        },
+        {
+            "phrase": "Hackney Downs",
+            "code": "HAC"
+        },
+        {
+            "phrase": "Haddiscoe",
+            "code": "HAD"
+        },
+        {
+            "phrase": "Heathrow Airport Terminal 4",
+            "code": "HAF"
+        },
+        {
+            "phrase": "Hagley",
+            "code": "HAG"
+        },
+        {
+            "phrase": "Halling",
+            "code": "HAI"
+        },
+        {
+            "phrase": "Hale",
+            "code": "HAL"
+        },
+        {
+            "phrase": "Hamworthy",
+            "code": "HAM"
+        },
+        {
+            "phrase": "Hanwell",
+            "code": "HAN"
+        },
+        {
+            "phrase": "Hatfield Peverel",
+            "code": "HAP"
+        },
+        {
+            "phrase": "Halesworth",
+            "code": "HAS"
+        },
+        {
+            "phrase": "Hatfield",
+            "code": "HAT"
+        },
+        {
+            "phrase": "Havant",
+            "code": "HAV"
+        },
+        {
+            "phrase": "Hayes & Harlington",
+            "code": "HAY"
+        },
+        {
+            "phrase": "Hazel Grove",
+            "code": "HAZ"
+        },
+        {
+            "phrase": "Hubberts Bridge",
+            "code": "HBB"
+        },
+        {
+            "phrase": "Hebden Bridge",
+            "code": "HBD"
+        },
+        {
+            "phrase": "Headbolt Lane",
+            "code": "HBL"
+        },
+        {
+            "phrase": "Hollingbourne",
+            "code": "HBN"
+        },
+        {
+            "phrase": "Hornbeam Park",
+            "code": "HBP"
+        },
+        {
+            "phrase": "Hartlebury",
+            "code": "HBY"
+        },
+        {
+            "phrase": "Hackbridge",
+            "code": "HCB"
+        },
+        {
+            "phrase": "Holmes Chapel",
+            "code": "HCH"
+        },
+        {
+            "phrase": "Headcorn",
+            "code": "HCN"
+        },
+        {
+            "phrase": "Huncoat",
+            "code": "HCT"
+        },
+        {
+            "phrase": "Haydon Bridge",
+            "code": "HDB"
+        },
+        {
+            "phrase": "Hedge End",
+            "code": "HDE"
+        },
+        {
+            "phrase": "Hadfield",
+            "code": "HDF"
+        },
+        {
+            "phrase": "Heald Green",
+            "code": "HDG"
+        },
+        {
+            "phrase": "Hampstead Heath",
+            "code": "HDH"
+        },
+        {
+            "phrase": "Headstone Lane",
+            "code": "HDL"
+        },
+        {
+            "phrase": "Haddenham & Thame Parkway",
+            "code": "HDM"
+        },
+        {
+            "phrase": "Harlesden",
+            "code": "HDN"
+        },
+        {
+            "phrase": "Hadley Wood",
+            "code": "HDW"
+        },
+        {
+            "phrase": "Headingley",
+            "code": "HDY"
+        },
+        {
+            "phrase": "Heckington",
+            "code": "HEC"
+        },
+        {
+            "phrase": "Halewood",
+            "code": "HED"
+        },
+        {
+            "phrase": "Heighington",
+            "code": "HEI"
+        },
+        {
+            "phrase": "Hensall",
+            "code": "HEL"
+        },
+        {
+            "phrase": "Hendon",
+            "code": "HEN"
+        },
+        {
+            "phrase": "Hersham",
+            "code": "HER"
+        },
+        {
+            "phrase": "Hessle",
+            "code": "HES"
+        },
+        {
+            "phrase": "Hever",
+            "code": "HEV"
+        },
+        {
+            "phrase": "Heworth",
+            "code": "HEW"
+        },
+        {
+            "phrase": "Hexham",
+            "code": "HEX"
+        },
+        {
+            "phrase": "Hereford",
+            "code": "HFD"
+        },
+        {
+            "phrase": "Hertford East",
+            "code": "HFE"
+        },
+        {
+            "phrase": "Hertford North",
+            "code": "HFN"
+        },
+        {
+            "phrase": "Hatfield & Stainforth",
+            "code": "HFS"
+        },
+        {
+            "phrase": "Halifax",
+            "code": "HFX"
+        },
+        {
+            "phrase": "Hungerford",
+            "code": "HGD"
+        },
+        {
+            "phrase": "Hag Fold",
+            "code": "HGF"
+        },
+        {
+            "phrase": "Haggerston",
+            "code": "HGG"
+        },
+        {
+            "phrase": "Higham",
+            "code": "HGM"
+        },
+        {
+            "phrase": "Hough Green",
+            "code": "HGN"
+        },
+        {
+            "phrase": "Hither Green",
+            "code": "HGR"
+        },
+        {
+            "phrase": "Hastings",
+            "code": "HGS"
+        },
+        {
+            "phrase": "Harrogate",
+            "code": "HGT"
+        },
+        {
+            "phrase": "Harringay",
+            "code": "HGY"
+        },
+        {
+            "phrase": "Heysham Port",
+            "code": "HHB"
+        },
+        {
+            "phrase": "Holyhead",
+            "code": "HHD"
+        },
+        {
+            "phrase": "Haywards Heath",
+            "code": "HHE"
+        },
+        {
+            "phrase": "Heath High Level",
+            "code": "HHL"
+        },
+        {
+            "phrase": "Highbury & Islington",
+            "code": "HHY"
+        },
+        {
+            "phrase": "Hampton-In-Arden",
+            "code": "HIA"
+        },
+        {
+            "phrase": "High Brooms",
+            "code": "HIB"
+        },
+        {
+            "phrase": "Hall i' th' Wood",
+            "code": "HID"
+        },
+        {
+            "phrase": "Highbridge & Burnham",
+            "code": "HIG"
+        },
+        {
+            "phrase": "Hillside",
+            "code": "HIL"
+        },
+        {
+            "phrase": "Hindley",
+            "code": "HIN"
+        },
+        {
+            "phrase": "Highams Park",
+            "code": "HIP"
+        },
+        {
+            "phrase": "Horton in Ribblesdale",
+            "code": "HIR"
+        },
+        {
+            "phrase": "Hitchin",
+            "code": "HIT"
+        },
+        {
+            "phrase": "Hackney Central",
+            "code": "HKC"
+        },
+        {
+            "phrase": "Hawkhead",
+            "code": "HKH"
+        },
+        {
+            "phrase": "Hykeham",
+            "code": "HKM"
+        },
+        {
+            "phrase": "Hucknall",
+            "code": "HKN"
+        },
+        {
+            "phrase": "Hackney Wick",
+            "code": "HKW"
+        },
+        {
+            "phrase": "Hildenborough",
+            "code": "HLB"
+        },
+        {
+            "phrase": "Helensburgh Central",
+            "code": "HLC"
+        },
+        {
+            "phrase": "Hellifield",
+            "code": "HLD"
+        },
+        {
+            "phrase": "Hillington East",
+            "code": "HLE"
+        },
+        {
+            "phrase": "Hillfoot",
+            "code": "HLF"
+        },
+        {
+            "phrase": "Hall Green",
+            "code": "HLG"
+        },
+        {
+            "phrase": "Healing",
+            "code": "HLI"
+        },
+        {
+            "phrase": "Heath Low Level",
+            "code": "HLL"
+        },
+        {
+            "phrase": "Holmwood",
+            "code": "HLM"
+        },
+        {
+            "phrase": "Harlington",
+            "code": "HLN"
+        },
+        {
+            "phrase": "Hall Road",
+            "code": "HLR"
+        },
+        {
+            "phrase": "Hilsea",
+            "code": "HLS"
+        },
+        {
+            "phrase": "Helensburgh Upper",
+            "code": "HLU"
+        },
+        {
+            "phrase": "Hillington West",
+            "code": "HLW"
+        },
+        {
+            "phrase": "Holytown",
+            "code": "HLY"
+        },
+        {
+            "phrase": "Hampton Court",
+            "code": "HMC"
+        },
+        {
+            "phrase": "Hampden Park",
+            "code": "HMD"
+        },
+        {
+            "phrase": "Hamble",
+            "code": "HME"
+        },
+        {
+            "phrase": "Hemel Hempstead",
+            "code": "HML"
+        },
+        {
+            "phrase": "Hammerton",
+            "code": "HMM"
+        },
+        {
+            "phrase": "Homerton",
+            "code": "HMN"
+        },
+        {
+            "phrase": "Hampton",
+            "code": "HMP"
+        },
+        {
+            "phrase": "Helmsdale",
+            "code": "HMS"
+        },
+        {
+            "phrase": "Ham Street",
+            "code": "HMT"
+        },
+        {
+            "phrase": "Hampton Wick",
+            "code": "HMW"
+        },
+        {
+            "phrase": "Hairmyres",
+            "code": "HMY"
+        },
+        {
+            "phrase": "Hinton Admiral",
+            "code": "HNA"
+        },
+        {
+            "phrase": "Herne Bay",
+            "code": "HNB"
+        },
+        {
+            "phrase": "Hamilton Central",
+            "code": "HNC"
+        },
+        {
+            "phrase": "Hanborough",
+            "code": "HND"
+        },
+        {
+            "phrase": "Hednesford",
+            "code": "HNF"
+        },
+        {
+            "phrase": "Hengoed",
+            "code": "HNG"
+        },
+        {
+            "phrase": "Herne Hill",
+            "code": "HNH"
+        },
+        {
+            "phrase": "Hinckley",
+            "code": "HNK"
+        },
+        {
+            "phrase": "Henley-In-Arden",
+            "code": "HNL"
+        },
+        {
+            "phrase": "Huntly",
+            "code": "HNT"
+        },
+        {
+            "phrase": "Hamilton West",
+            "code": "HNW"
+        },
+        {
+            "phrase": "Hunts Cross",
+            "code": "HNX"
+        },
+        {
+            "phrase": "Hockley",
+            "code": "HOC"
+        },
+        {
+            "phrase": "Harrow-on-the-Hill",
+            "code": "HOH"
+        },
+        {
+            "phrase": "Hook",
+            "code": "HOK"
+        },
+        {
+            "phrase": "Holton Heath",
+            "code": "HOL"
+        },
+        {
+            "phrase": "Honiton",
+            "code": "HON"
+        },
+        {
+            "phrase": "Hooton",
+            "code": "HOO"
+        },
+        {
+            "phrase": "Hope",
+            "code": "HOP"
+        },
+        {
+            "phrase": "Horley",
+            "code": "HOR"
+        },
+        {
+            "phrase": "Henley-On-Thames",
+            "code": "HOT"
+        },
+        {
+            "phrase": "Hounslow",
+            "code": "HOU"
+        },
+        {
+            "phrase": "Hove",
+            "code": "HOV"
+        },
+        {
+            "phrase": "Howden",
+            "code": "HOW"
+        },
+        {
+            "phrase": "Hoxton",
+            "code": "HOX"
+        },
+        {
+            "phrase": "Honley",
+            "code": "HOY"
+        },
+        {
+            "phrase": "Howwood",
+            "code": "HOZ"
+        },
+        {
+            "phrase": "Honor Oak Park",
+            "code": "HPA"
+        },
+        {
+            "phrase": "Harpenden",
+            "code": "HPD"
+        },
+        {
+            "phrase": "Hope",
+            "code": "HPE"
+        },
+        {
+            "phrase": "Hartlepool",
+            "code": "HPL"
+        },
+        {
+            "phrase": "Hapton",
+            "code": "HPN"
+        },
+        {
+            "phrase": "Harwich International",
+            "code": "HPQ"
+        },
+        {
+            "phrase": "Hopton Heath",
+            "code": "HPT"
+        },
+        {
+            "phrase": "Harling Road",
+            "code": "HRD"
+        },
+        {
+            "phrase": "Horden",
+            "code": "HRE"
+        },
+        {
+            "phrase": "Horsham",
+            "code": "HRH"
+        },
+        {
+            "phrase": "Harlech",
+            "code": "HRL"
+        },
+        {
+            "phrase": "Harrietsham",
+            "code": "HRM"
+        },
+        {
+            "phrase": "Hornsey",
+            "code": "HRN"
+        },
+        {
+            "phrase": "Harold Wood",
+            "code": "HRO"
+        },
+        {
+            "phrase": "Harrington",
+            "code": "HRR"
+        },
+        {
+            "phrase": "Horsforth",
+            "code": "HRS"
+        },
+        {
+            "phrase": "Harrow & Wealdstone",
+            "code": "HRW"
+        },
+        {
+            "phrase": "Harringay Green Lanes",
+            "code": "HRY"
+        },
+        {
+            "phrase": "Helsby",
+            "code": "HSB"
+        },
+        {
+            "phrase": "Hoscar",
+            "code": "HSC"
+        },
+        {
+            "phrase": "Hamstead",
+            "code": "HSD"
+        },
+        {
+            "phrase": "Hathersage",
+            "code": "HSG"
+        },
+        {
+            "phrase": "Hassocks",
+            "code": "HSK"
+        },
+        {
+            "phrase": "Haslemere",
+            "code": "HSL"
+        },
+        {
+            "phrase": "High Street",
+            "code": "HST"
+        },
+        {
+            "phrase": "Heswall",
+            "code": "HSW"
+        },
+        {
+            "phrase": "Horsley",
+            "code": "HSY"
+        },
+        {
+            "phrase": "Heaton Chapel",
+            "code": "HTC"
+        },
+        {
+            "phrase": "Hatch End",
+            "code": "HTE"
+        },
+        {
+            "phrase": "Hartford",
+            "code": "HTF"
+        },
+        {
+            "phrase": "Handforth",
+            "code": "HTH"
+        },
+        {
+            "phrase": "Hatton",
+            "code": "HTN"
+        },
+        {
+            "phrase": "Hightown",
+            "code": "HTO"
+        },
+        {
+            "phrase": "Hartwood",
+            "code": "HTW"
+        },
+        {
+            "phrase": "Hattersley",
+            "code": "HTY"
+        },
+        {
+            "phrase": "Hunmanby",
+            "code": "HUB"
+        },
+        {
+            "phrase": "Huddersfield",
+            "code": "HUD"
+        },
+        {
+            "phrase": "Hull",
+            "code": "HUL"
+        },
+        {
+            "phrase": "Huntingdon",
+            "code": "HUN"
+        },
+        {
+            "phrase": "Humphrey Park",
+            "code": "HUP"
+        },
+        {
+            "phrase": "Hurst Green",
+            "code": "HUR"
+        },
+        {
+            "phrase": "Hutton Cranswick",
+            "code": "HUT"
+        },
+        {
+            "phrase": "Huyton",
+            "code": "HUY"
+        },
+        {
+            "phrase": "Haverfordwest",
+            "code": "HVF"
+        },
+        {
+            "phrase": "Havenhouse",
+            "code": "HVN"
+        },
+        {
+            "phrase": "Hawarden Bridge",
+            "code": "HWB"
+        },
+        {
+            "phrase": "Harwich Town",
+            "code": "HWC"
+        },
+        {
+            "phrase": "Hawarden",
+            "code": "HWD"
+        },
+        {
+            "phrase": "Heathrow Airport Terminal 3",
+            "code": "HWE"
+        },
+        {
+            "phrase": "Haltwhistle",
+            "code": "HWH"
+        },
+        {
+            "phrase": "Horwich Parkway",
+            "code": "HWI"
+        },
+        {
+            "phrase": "Harlow Mill",
+            "code": "HWM"
+        },
+        {
+            "phrase": "Harlow Town",
+            "code": "HWN"
+        },
+        {
+            "phrase": "Heathrow Airport Terminal 5",
+            "code": "HWV"
+        },
+        {
+            "phrase": "How Wood",
+            "code": "HWW"
+        },
+        {
+            "phrase": "High Wycombe",
+            "code": "HWY"
+        },
+        {
+            "phrase": "Hoveton & Wroxham",
+            "code": "HXM"
+        },
+        {
+            "phrase": "Heathrow Airport Terminals 1, 2 and 3",
+            "code": "HXX"
+        },
+        {
+            "phrase": "Honeybourne",
+            "code": "HYB"
+        },
+        {
+            "phrase": "Hyde Central",
+            "code": "HYC"
+        },
+        {
+            "phrase": "Heyford",
+            "code": "HYD"
+        },
+        {
+            "phrase": "Hythe",
+            "code": "HYH"
+        },
+        {
+            "phrase": "Hoylake",
+            "code": "HYK"
+        },
+        {
+            "phrase": "Hayle",
+            "code": "HYL"
+        },
+        {
+            "phrase": "Haymarket",
+            "code": "HYM"
+        },
+        {
+            "phrase": "Hyndland",
+            "code": "HYN"
+        },
+        {
+            "phrase": "Haydons Road",
+            "code": "HYR"
+        },
+        {
+            "phrase": "Hayes",
+            "code": "HYS"
+        },
+        {
+            "phrase": "Hyde North",
+            "code": "HYT"
+        },
+        {
+            "phrase": "Hinchley Wood",
+            "code": "HYW"
+        }
+    ]
+}

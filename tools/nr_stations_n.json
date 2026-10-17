@@ -1,0 +1,373 @@
+{
+    "path": "SN/N",
+    "phrases": [
+        {
+            "phrase": "Nantwich",
+            "code": "NAN"
+        },
+        {
+            "phrase": "Narberth",
+            "code": "NAR"
+        },
+        {
+            "phrase": "Newton Aycliffe",
+            "code": "NAY"
+        },
+        {
+            "phrase": "New Barnet",
+            "code": "NBA"
+        },
+        {
+            "phrase": "New Beckenham",
+            "code": "NBC"
+        },
+        {
+            "phrase": "Newbridge",
+            "code": "NBE"
+        },
+        {
+            "phrase": "New Brighton",
+            "code": "NBN"
+        },
+        {
+            "phrase": "Narborough",
+            "code": "NBR"
+        },
+        {
+            "phrase": "Norbiton",
+            "code": "NBT"
+        },
+        {
+            "phrase": "North Berwick",
+            "code": "NBW"
+        },
+        {
+            "phrase": "Newbury",
+            "code": "NBY"
+        },
+        {
+            "phrase": "New Clee",
+            "code": "NCE"
+        },
+        {
+            "phrase": "New Cumnock",
+            "code": "NCK"
+        },
+        {
+            "phrase": "Newcastle",
+            "code": "NCL"
+        },
+        {
+            "phrase": "North Camp",
+            "code": "NCM"
+        },
+        {
+            "phrase": "Newcourt",
+            "code": "NCO"
+        },
+        {
+            "phrase": "Newark Castle",
+            "code": "NCT"
+        },
+        {
+            "phrase": "North Dulwich",
+            "code": "NDL"
+        },
+        {
+            "phrase": "Newtongrange",
+            "code": "NEG"
+        },
+        {
+            "phrase": "New Eltham",
+            "code": "NEH"
+        },
+        {
+            "phrase": "Neilston",
+            "code": "NEI"
+        },
+        {
+            "phrase": "Nelson",
+            "code": "NEL"
+        },
+        {
+            "phrase": "New Malden",
+            "code": "NEM"
+        },
+        {
+            "phrase": "Neston",
+            "code": "NES"
+        },
+        {
+            "phrase": "Netherfield",
+            "code": "NET"
+        },
+        {
+            "phrase": "Newcraighall",
+            "code": "NEW"
+        },
+        {
+            "phrase": "North Fambridge",
+            "code": "NFA"
+        },
+        {
+            "phrase": "Northfield",
+            "code": "NFD"
+        },
+        {
+            "phrase": "Northfleet - Cooper Arms",
+            "code": "NFL"
+        },
+        {
+            "phrase": "Nafferton",
+            "code": "NFN"
+        },
+        {
+            "phrase": "Newington",
+            "code": "NGT"
+        },
+        {
+            "phrase": "Nunhead",
+            "code": "NHD"
+        },
+        {
+            "phrase": "New Hythe",
+            "code": "NHE"
+        },
+        {
+            "phrase": "New Holland",
+            "code": "NHL"
+        },
+        {
+            "phrase": "Nitshill",
+            "code": "NIT"
+        },
+        {
+            "phrase": "New Lane",
+            "code": "NLN"
+        },
+        {
+            "phrase": "North Llanrwst",
+            "code": "NLR"
+        },
+        {
+            "phrase": "Nailsea & Backwell",
+            "code": "NLS"
+        },
+        {
+            "phrase": "Northolt Park",
+            "code": "NLT"
+        },
+        {
+            "phrase": "Newton-Le-Willows",
+            "code": "NLW"
+        },
+        {
+            "phrase": "New Mills Central",
+            "code": "NMC"
+        },
+        {
+            "phrase": "Newmarket",
+            "code": "NMK"
+        },
+        {
+            "phrase": "New Mills Newtown",
+            "code": "NMN"
+        },
+        {
+            "phrase": "Northampton",
+            "code": "NMP"
+        },
+        {
+            "phrase": "Needham Market",
+            "code": "NMT"
+        },
+        {
+            "phrase": "Newark Northgate",
+            "code": "NNG"
+        },
+        {
+            "phrase": "Ninian Park",
+            "code": "NNP"
+        },
+        {
+            "phrase": "Nunthorpe",
+            "code": "NNT"
+        },
+        {
+            "phrase": "Newton-On-Ayr",
+            "code": "NOA"
+        },
+        {
+            "phrase": "Northumberland Park",
+            "code": "NOP"
+        },
+        {
+            "phrase": "Normanton",
+            "code": "NOR"
+        },
+        {
+            "phrase": "Nottingham",
+            "code": "NOT"
+        },
+        {
+            "phrase": "New Pudsey",
+            "code": "NPD"
+        },
+        {
+            "phrase": "North Queensferry",
+            "code": "NQU"
+        },
+        {
+            "phrase": "Newquay",
+            "code": "NQY"
+        },
+        {
+            "phrase": "Norbury",
+            "code": "NRB"
+        },
+        {
+            "phrase": "Newbury Racecourse",
+            "code": "NRC"
+        },
+        {
+            "phrase": "North Road",
+            "code": "NRD"
+        },
+        {
+            "phrase": "Nairn",
+            "code": "NRN"
+        },
+        {
+            "phrase": "Nethertown",
+            "code": "NRT"
+        },
+        {
+            "phrase": "Norwich",
+            "code": "NRW"
+        },
+        {
+            "phrase": "Normans Bay",
+            "code": "NSB"
+        },
+        {
+            "phrase": "Newstead",
+            "code": "NSD"
+        },
+        {
+            "phrase": "New Southgate",
+            "code": "NSG"
+        },
+        {
+            "phrase": "North Sheen",
+            "code": "NSH"
+        },
+        {
+            "phrase": "Newton Abbot",
+            "code": "NTA"
+        },
+        {
+            "phrase": "Norton Bridge",
+            "code": "NTB"
+        },
+        {
+            "phrase": "Newton St Cyres",
+            "code": "NTC"
+        },
+        {
+            "phrase": "Neath",
+            "code": "NTH"
+        },
+        {
+            "phrase": "Netley",
+            "code": "NTL"
+        },
+        {
+            "phrase": "Newton",
+            "code": "NTN"
+        },
+        {
+            "phrase": "Northallerton",
+            "code": "NTR"
+        },
+        {
+            "phrase": "Nutfield",
+            "code": "NUF"
+        },
+        {
+            "phrase": "Northumberland Park",
+            "code": "NUM"
+        },
+        {
+            "phrase": "Nuneaton",
+            "code": "NUN"
+        },
+        {
+            "phrase": "Nutbourne",
+            "code": "NUT"
+        },
+        {
+            "phrase": "Newhaven Harbour",
+            "code": "NVH"
+        },
+        {
+            "phrase": "Newhaven Town",
+            "code": "NVN"
+        },
+        {
+            "phrase": "Navigation Road",
+            "code": "NVR"
+        },
+        {
+            "phrase": "North Walsham",
+            "code": "NWA"
+        },
+        {
+            "phrase": "North Wembley",
+            "code": "NWB"
+        },
+        {
+            "phrase": "Norwood Junction",
+            "code": "NWD"
+        },
+        {
+            "phrase": "Newport",
+            "code": "NWE"
+        },
+        {
+            "phrase": "Newsham",
+            "code": "NWH"
+        },
+        {
+            "phrase": "Northwich",
+            "code": "NWI"
+        },
+        {
+            "phrase": "New Milton",
+            "code": "NWM"
+        },
+        {
+            "phrase": "Newton for Hyde",
+            "code": "NWN"
+        },
+        {
+            "phrase": "Newport",
+            "code": "NWP"
+        },
+        {
+            "phrase": "Newtonmore",
+            "code": "NWR"
+        },
+        {
+            "phrase": "Newtown",
+            "code": "NWT"
+        },
+        {
+            "phrase": "New Cross",
+            "code": "NWX"
+        },
+        {
+            "phrase": "New Cross Gate",
+            "code": "NXG"
+        }
+    ]
+}

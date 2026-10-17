@@ -1,0 +1,101 @@
+{
+    "path": "SN/I",
+    "phrases": [
+        {
+            "phrase": "Ilford",
+            "code": "IFD"
+        },
+        {
+            "phrase": "Ifield",
+            "code": "IFI"
+        },
+        {
+            "phrase": "Invergordon",
+            "code": "IGD"
+        },
+        {
+            "phrase": "Ilkley",
+            "code": "ILK"
+        },
+        {
+            "phrase": "Ilkeston",
+            "code": "ILN"
+        },
+        {
+            "phrase": "Imperial Wharf",
+            "code": "IMW"
+        },
+        {
+            "phrase": "Ince",
+            "code": "INC"
+        },
+        {
+            "phrase": "Ince & Elton",
+            "code": "INE"
+        },
+        {
+            "phrase": "Invergowrie",
+            "code": "ING"
+        },
+        {
+            "phrase": "Invershin",
+            "code": "INH"
+        },
+        {
+            "phrase": "Inverkeithing",
+            "code": "INK"
+        },
+        {
+            "phrase": "Inverkip",
+            "code": "INP"
+        },
+        {
+            "phrase": "Inverurie",
+            "code": "INR"
+        },
+        {
+            "phrase": "Insch",
+            "code": "INS"
+        },
+        {
+            "phrase": "Ingatestone",
+            "code": "INT"
+        },
+        {
+            "phrase": "Inverness",
+            "code": "INV"
+        },
+        {
+            "phrase": "Ipswich",
+            "code": "IPS"
+        },
+        {
+            "phrase": "Irlam",
+            "code": "IRL"
+        },
+        {
+            "phrase": "Irvine",
+            "code": "IRV"
+        },
+        {
+            "phrase": "Isleworth",
+            "code": "ISL"
+        },
+        {
+            "phrase": "Islip",
+            "code": "ISP"
+        },
+        {
+            "phrase": "Inverness Airport",
+            "code": "IVA"
+        },
+        {
+            "phrase": "Iver",
+            "code": "IVR"
+        },
+        {
+            "phrase": "Ivybridge",
+            "code": "IVY"
+        }
+    ]
+}

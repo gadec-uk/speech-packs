@@ -1,0 +1,121 @@
+{
+    "path": "AN",
+    "phrases": [
+    {
+        "phrase": "And.",
+        "code": "&"
+    },
+    {
+        "phrase": "calling at",
+        "code": "@"
+    },
+    {
+        "phrase": "First class seating only.",
+        "code": "1"
+    },
+    {
+        "phrase": "Standard class seating only.",
+        "code": "2"
+    },
+    {
+        "phrase": "First and standard class seating is available",
+        "code": "3"
+    },
+    {
+        "phrase": "will arrive in",
+        "code": "A"
+    },
+    {
+        "phrase": "Audio off.",
+        "code": "AF"
+    },
+    {
+        "phrase": "Audio on.",
+        "code": "AO"
+    },
+    {
+        "phrase": "This is a bus service.",
+        "code": "B"
+    },
+    {
+        "phrase": "regret to announce the cancellation of the",
+        "code": "C"
+    },
+    {
+        "phrase": "The next train departing from platform",
+        "code": "D"
+    },
+    {
+        "phrase": "The next train departing will be the",
+        "code": "E"
+    },
+    {
+        "phrase": "This train's destination is",
+        "code": "F"
+    },
+    {
+        "phrase": "is now approaching. please stand back from the platform edge.",
+        "code": "G"
+    },
+    {
+        "phrase": "The train now standing at platform",
+        "code": "H"
+    },
+    {
+        "phrase": "is the",
+        "code": "I"
+    },
+    {
+        "phrase": "minute",
+        "code": "M"
+    },
+    {
+        "phrase": "minutes",
+        "code": "MS"
+    },
+    {
+        "phrase": "The next train to",
+        "code": "N"
+    },
+    {
+        "phrase": "Only.",
+        "code": "O"
+    },
+    {
+        "phrase": "Platform",
+        "code": "P"
+    },
+    {
+        "phrase": "coaches.",
+        "code": "R"
+    },
+    {
+        "phrase": "service to",
+        "code": "S"
+    },
+    {
+        "phrase": "This train is formed of",
+        "code": "T"
+    },
+    {
+        "phrase": "via",
+        "code": "V"
+    },
+    {
+        "phrase": "Volume level",
+        "code": "VL"
+    },
+    {
+        "phrase": "will be the",
+        "code": "W"
+    },
+    {
+        "phrase": "The next service departing will be the",
+        "code": "X"
+    },
+    {
+        "phrase": "apologises for the late running of this service",
+        "code": "Y"
+    }
+    ]
+}

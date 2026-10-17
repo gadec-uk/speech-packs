@@ -1,0 +1,829 @@
+{
+    "path": "SN/W",
+    "phrases": [
+        {
+            "phrase": "Warrington Central",
+            "code": "WAC"
+        },
+        {
+            "phrase": "Wadhurst",
+            "code": "WAD"
+        },
+        {
+            "phrase": "London Waterloo East",
+            "code": "WAE"
+        },
+        {
+            "phrase": "Wallyford",
+            "code": "WAF"
+        },
+        {
+            "phrase": "Walton-On-Thames",
+            "code": "WAL"
+        },
+        {
+            "phrase": "Walmer",
+            "code": "WAM"
+        },
+        {
+            "phrase": "Wanborough",
+            "code": "WAN"
+        },
+        {
+            "phrase": "Walton",
+            "code": "WAO"
+        },
+        {
+            "phrase": "Ware",
+            "code": "WAR"
+        },
+        {
+            "phrase": "Watton-At-Stone",
+            "code": "WAS"
+        },
+        {
+            "phrase": "London Waterloo",
+            "code": "WAT"
+        },
+        {
+            "phrase": "Wavertree Technology Park",
+            "code": "WAV"
+        },
+        {
+            "phrase": "Warrington West",
+            "code": "WAW"
+        },
+        {
+            "phrase": "Waterbeach",
+            "code": "WBC"
+        },
+        {
+            "phrase": "Whitley Bridge",
+            "code": "WBD"
+        },
+        {
+            "phrase": "Warblington",
+            "code": "WBL"
+        },
+        {
+            "phrase": "Wimbledon Chase",
+            "code": "WBO"
+        },
+        {
+            "phrase": "West Brompton",
+            "code": "WBP"
+        },
+        {
+            "phrase": "Warrington Bank Quay",
+            "code": "WBQ"
+        },
+        {
+            "phrase": "Whaley Bridge",
+            "code": "WBR"
+        },
+        {
+            "phrase": "West Byfleet",
+            "code": "WBY"
+        },
+        {
+            "phrase": "Westcombe Park",
+            "code": "WCB"
+        },
+        {
+            "phrase": "Westcliff",
+            "code": "WCF"
+        },
+        {
+            "phrase": "Whitchurch",
+            "code": "WCH"
+        },
+        {
+            "phrase": "Wick",
+            "code": "WCK"
+        },
+        {
+            "phrase": "West Calder",
+            "code": "WCL"
+        },
+        {
+            "phrase": "Wickham Market",
+            "code": "WCM"
+        },
+        {
+            "phrase": "Worcester Park",
+            "code": "WCP"
+        },
+        {
+            "phrase": "Whitecraigs",
+            "code": "WCR"
+        },
+        {
+            "phrase": "Wembley Stadium",
+            "code": "WCX"
+        },
+        {
+            "phrase": "West Croydon",
+            "code": "WCY"
+        },
+        {
+            "phrase": "Woodbridge",
+            "code": "WDB"
+        },
+        {
+            "phrase": "Widdrington",
+            "code": "WDD"
+        },
+        {
+            "phrase": "Wood End",
+            "code": "WDE"
+        },
+        {
+            "phrase": "Woodhouse",
+            "code": "WDH"
+        },
+        {
+            "phrase": "Woodhall",
+            "code": "WDL"
+        },
+        {
+            "phrase": "Windermere",
+            "code": "WDM"
+        },
+        {
+            "phrase": "Walsden",
+            "code": "WDN"
+        },
+        {
+            "phrase": "Waddon",
+            "code": "WDO"
+        },
+        {
+            "phrase": "Woodlesford",
+            "code": "WDS"
+        },
+        {
+            "phrase": "West Drayton",
+            "code": "WDT"
+        },
+        {
+            "phrase": "West Dulwich",
+            "code": "WDU"
+        },
+        {
+            "phrase": "West Ealing",
+            "code": "WEA"
+        },
+        {
+            "phrase": "Wedgwood",
+            "code": "WED"
+        },
+        {
+            "phrase": "Weeley",
+            "code": "WEE"
+        },
+        {
+            "phrase": "West Ham",
+            "code": "WEH"
+        },
+        {
+            "phrase": "Wellingborough",
+            "code": "WEL"
+        },
+        {
+            "phrase": "Wem",
+            "code": "WEM"
+        },
+        {
+            "phrase": "Westerton",
+            "code": "WES"
+        },
+        {
+            "phrase": "Weeton",
+            "code": "WET"
+        },
+        {
+            "phrase": "Weymouth",
+            "code": "WEY"
+        },
+        {
+            "phrase": "Whifflet",
+            "code": "WFF"
+        },
+        {
+            "phrase": "Watford High Street",
+            "code": "WFH"
+        },
+        {
+            "phrase": "Westerfield",
+            "code": "WFI"
+        },
+        {
+            "phrase": "Watford Junction",
+            "code": "WFJ"
+        },
+        {
+            "phrase": "Wainfleet",
+            "code": "WFL"
+        },
+        {
+            "phrase": "Watford North",
+            "code": "WFN"
+        },
+        {
+            "phrase": "Westgate-On-Sea",
+            "code": "WGA"
+        },
+        {
+            "phrase": "Welwyn Garden City",
+            "code": "WGC"
+        },
+        {
+            "phrase": "Wigan North Western",
+            "code": "WGN"
+        },
+        {
+            "phrase": "Woodgrange Park",
+            "code": "WGR"
+        },
+        {
+            "phrase": "Wigton",
+            "code": "WGT"
+        },
+        {
+            "phrase": "Wargrave",
+            "code": "WGV"
+        },
+        {
+            "phrase": "Wigan Wallgate",
+            "code": "WGW"
+        },
+        {
+            "phrase": "Westenhanger",
+            "code": "WHA"
+        },
+        {
+            "phrase": "Walthamstow Central",
+            "code": "WHC"
+        },
+        {
+            "phrase": "West Hampstead",
+            "code": "WHD"
+        },
+        {
+            "phrase": "Whalley",
+            "code": "WHE"
+        },
+        {
+            "phrase": "Westhoughton",
+            "code": "WHG"
+        },
+        {
+            "phrase": "Whitstable",
+            "code": "WHI"
+        },
+        {
+            "phrase": "White Hart Lane",
+            "code": "WHL"
+        },
+        {
+            "phrase": "Whimple",
+            "code": "WHM"
+        },
+        {
+            "phrase": "Whiston",
+            "code": "WHN"
+        },
+        {
+            "phrase": "West Hampstead Thameslink",
+            "code": "WHP"
+        },
+        {
+            "phrase": "West Horndon",
+            "code": "WHR"
+        },
+        {
+            "phrase": "Whyteleafe South",
+            "code": "WHS"
+        },
+        {
+            "phrase": "Whitchurch",
+            "code": "WHT"
+        },
+        {
+            "phrase": "Whyteleafe",
+            "code": "WHY"
+        },
+        {
+            "phrase": "Willenhall",
+            "code": "WIA"
+        },
+        {
+            "phrase": "Wickford",
+            "code": "WIC"
+        },
+        {
+            "phrase": "Widnes",
+            "code": "WID"
+        },
+        {
+            "phrase": "Winchmore Hill",
+            "code": "WIH"
+        },
+        {
+            "phrase": "Willesden Junction",
+            "code": "WIJ"
+        },
+        {
+            "phrase": "Willington",
+            "code": "WIL"
+        },
+        {
+            "phrase": "Wimbledon",
+            "code": "WIM"
+        },
+        {
+            "phrase": "Winchester",
+            "code": "WIN"
+        },
+        {
+            "phrase": "Wivenhoe",
+            "code": "WIV"
+        },
+        {
+            "phrase": "West Kilbride",
+            "code": "WKB"
+        },
+        {
+            "phrase": "Walkden",
+            "code": "WKD"
+        },
+        {
+            "phrase": "Wakefield Westgate",
+            "code": "WKF"
+        },
+        {
+            "phrase": "Workington",
+            "code": "WKG"
+        },
+        {
+            "phrase": "West Kirby",
+            "code": "WKI"
+        },
+        {
+            "phrase": "Wakefield Kirkgate",
+            "code": "WKK"
+        },
+        {
+            "phrase": "Wokingham",
+            "code": "WKM"
+        },
+        {
+            "phrase": "Waltham Cross",
+            "code": "WLC"
+        },
+        {
+            "phrase": "West St Leonards",
+            "code": "WLD"
+        },
+        {
+            "phrase": "Whittlesea",
+            "code": "WLE"
+        },
+        {
+            "phrase": "Whittlesford Parkway",
+            "code": "WLF"
+        },
+        {
+            "phrase": "Wallasey Grove Road",
+            "code": "WLG"
+        },
+        {
+            "phrase": "Welling",
+            "code": "WLI"
+        },
+        {
+            "phrase": "Williamwood",
+            "code": "WLM"
+        },
+        {
+            "phrase": "Wellington",
+            "code": "WLN"
+        },
+        {
+            "phrase": "Waterloo",
+            "code": "WLO"
+        },
+        {
+            "phrase": "Welshpool",
+            "code": "WLP"
+        },
+        {
+            "phrase": "Woolston",
+            "code": "WLS"
+        },
+        {
+            "phrase": "Wallington",
+            "code": "WLT"
+        },
+        {
+            "phrase": "Wallasey Village",
+            "code": "WLV"
+        },
+        {
+            "phrase": "Welwyn North",
+            "code": "WLW"
+        },
+        {
+            "phrase": "Woodley",
+            "code": "WLY"
+        },
+        {
+            "phrase": "West Malling",
+            "code": "WMA"
+        },
+        {
+            "phrase": "Wembley Central",
+            "code": "WMB"
+        },
+        {
+            "phrase": "Wilmcote",
+            "code": "WMC"
+        },
+        {
+            "phrase": "Wymondham",
+            "code": "WMD"
+        },
+        {
+            "phrase": "Woodmansterne",
+            "code": "WME"
+        },
+        {
+            "phrase": "Welham Green",
+            "code": "WMG"
+        },
+        {
+            "phrase": "Wildmill",
+            "code": "WMI"
+        },
+        {
+            "phrase": "Wilmslow",
+            "code": "WML"
+        },
+        {
+            "phrase": "Warminster",
+            "code": "WMN"
+        },
+        {
+            "phrase": "Widney Manor",
+            "code": "WMR"
+        },
+        {
+            "phrase": "Wemyss Bay",
+            "code": "WMS"
+        },
+        {
+            "phrase": "Walthamstow Queens Road",
+            "code": "WMW"
+        },
+        {
+            "phrase": "Windsor & Eton Central",
+            "code": "WNC"
+        },
+        {
+            "phrase": "Wendover",
+            "code": "WND"
+        },
+        {
+            "phrase": "Wilnecote",
+            "code": "WNE"
+        },
+        {
+            "phrase": "Winchfield",
+            "code": "WNF"
+        },
+        {
+            "phrase": "Waun-Gron Park",
+            "code": "WNG"
+        },
+        {
+            "phrase": "Warnham",
+            "code": "WNH"
+        },
+        {
+            "phrase": "Whinhill",
+            "code": "WNL"
+        },
+        {
+            "phrase": "Weston Milton",
+            "code": "WNM"
+        },
+        {
+            "phrase": "Wennington",
+            "code": "WNN"
+        },
+        {
+            "phrase": "Winslow",
+            "code": "WNO"
+        },
+        {
+            "phrase": "Wanstead Park",
+            "code": "WNP"
+        },
+        {
+            "phrase": "Windsor & Eton Riverside",
+            "code": "WNR"
+        },
+        {
+            "phrase": "Winnersh",
+            "code": "WNS"
+        },
+        {
+            "phrase": "Wandsworth Town",
+            "code": "WNT"
+        },
+        {
+            "phrase": "West Norwood",
+            "code": "WNW"
+        },
+        {
+            "phrase": "White Notley",
+            "code": "WNY"
+        },
+        {
+            "phrase": "Woburn Sands",
+            "code": "WOB"
+        },
+        {
+            "phrase": "Worcester Foregate Street",
+            "code": "WOF"
+        },
+        {
+            "phrase": "Woldingham",
+            "code": "WOH"
+        },
+        {
+            "phrase": "Woking",
+            "code": "WOK"
+        },
+        {
+            "phrase": "Wolverton",
+            "code": "WOL"
+        },
+        {
+            "phrase": "Wombwell",
+            "code": "WOM"
+        },
+        {
+            "phrase": "Walton-On-The-Naze",
+            "code": "WON"
+        },
+        {
+            "phrase": "Wool",
+            "code": "WOO"
+        },
+        {
+            "phrase": "Worcestershire Parkway",
+            "code": "WOP"
+        },
+        {
+            "phrase": "Worle",
+            "code": "WOR"
+        },
+        {
+            "phrase": "Worcester Shrub Hill",
+            "code": "WOS"
+        },
+        {
+            "phrase": "Wapping",
+            "code": "WPE"
+        },
+        {
+            "phrase": "Worplesdon",
+            "code": "WPL"
+        },
+        {
+            "phrase": "Wrabness",
+            "code": "WRB"
+        },
+        {
+            "phrase": "Wrenbury",
+            "code": "WRE"
+        },
+        {
+            "phrase": "Worthing",
+            "code": "WRH"
+        },
+        {
+            "phrase": "Worksop",
+            "code": "WRK"
+        },
+        {
+            "phrase": "Wetheral",
+            "code": "WRL"
+        },
+        {
+            "phrase": "Wareham",
+            "code": "WRM"
+        },
+        {
+            "phrase": "West Runton",
+            "code": "WRN"
+        },
+        {
+            "phrase": "Warwick Parkway",
+            "code": "WRP"
+        },
+        {
+            "phrase": "Wressle",
+            "code": "WRS"
+        },
+        {
+            "phrase": "Worstead",
+            "code": "WRT"
+        },
+        {
+            "phrase": "West Ruislip",
+            "code": "WRU"
+        },
+        {
+            "phrase": "Warwick",
+            "code": "WRW"
+        },
+        {
+            "phrase": "Wrexham General",
+            "code": "WRX"
+        },
+        {
+            "phrase": "Wraysbury",
+            "code": "WRY"
+        },
+        {
+            "phrase": "West Allerton",
+            "code": "WSA"
+        },
+        {
+            "phrase": "Westbury",
+            "code": "WSB"
+        },
+        {
+            "phrase": "Winchelsea",
+            "code": "WSE"
+        },
+        {
+            "phrase": "Winsford",
+            "code": "WSF"
+        },
+        {
+            "phrase": "Wishaw",
+            "code": "WSH"
+        },
+        {
+            "phrase": "Walsall",
+            "code": "WSL"
+        },
+        {
+            "phrase": "Weston-Super-Mare",
+            "code": "WSM"
+        },
+        {
+            "phrase": "Woodsmoor",
+            "code": "WSR"
+        },
+        {
+            "phrase": "Wood Street",
+            "code": "WST"
+        },
+        {
+            "phrase": "West Sutton",
+            "code": "WSU"
+        },
+        {
+            "phrase": "Wandsworth Common",
+            "code": "WSW"
+        },
+        {
+            "phrase": "Wester Hailes",
+            "code": "WTA"
+        },
+        {
+            "phrase": "Whitby",
+            "code": "WTB"
+        },
+        {
+            "phrase": "Whitchurch",
+            "code": "WTC"
+        },
+        {
+            "phrase": "Whitlocks End",
+            "code": "WTE"
+        },
+        {
+            "phrase": "Watlington",
+            "code": "WTG"
+        },
+        {
+            "phrase": "Whitehaven",
+            "code": "WTH"
+        },
+        {
+            "phrase": "Winnersh Triangle",
+            "code": "WTI"
+        },
+        {
+            "phrase": "Whitland",
+            "code": "WTL"
+        },
+        {
+            "phrase": "Witham",
+            "code": "WTM"
+        },
+        {
+            "phrase": "Whitton",
+            "code": "WTN"
+        },
+        {
+            "phrase": "Water Orton",
+            "code": "WTO"
+        },
+        {
+            "phrase": "Wateringbury",
+            "code": "WTR"
+        },
+        {
+            "phrase": "Whatstandwell",
+            "code": "WTS"
+        },
+        {
+            "phrase": "Witton",
+            "code": "WTT"
+        },
+        {
+            "phrase": "Witley",
+            "code": "WTY"
+        },
+        {
+            "phrase": "Wivelsfield",
+            "code": "WVF"
+        },
+        {
+            "phrase": "Wolverhampton",
+            "code": "WVH"
+        },
+        {
+            "phrase": "Woolwich Arsenal",
+            "code": "WWA"
+        },
+        {
+            "phrase": "Woolwich",
+            "code": "WWC"
+        },
+        {
+            "phrase": "Woolwich Dockyard",
+            "code": "WWD"
+        },
+        {
+            "phrase": "West Wickham",
+            "code": "WWI"
+        },
+        {
+            "phrase": "Whitwell",
+            "code": "WWL"
+        },
+        {
+            "phrase": "West Worthing",
+            "code": "WWO"
+        },
+        {
+            "phrase": "Wandsworth Road",
+            "code": "WWR"
+        },
+        {
+            "phrase": "Wootton Wawen",
+            "code": "WWW"
+        },
+        {
+            "phrase": "Wrexham Central",
+            "code": "WXC"
+        },
+        {
+            "phrase": "Weybridge",
+            "code": "WYB"
+        },
+        {
+            "phrase": "Wye",
+            "code": "WYE"
+        },
+        {
+            "phrase": "Wylde Green",
+            "code": "WYL"
+        },
+        {
+            "phrase": "Wylam",
+            "code": "WYM"
+        },
+        {
+            "phrase": "Wythall",
+            "code": "WYT"
+        }
+    ]
+}

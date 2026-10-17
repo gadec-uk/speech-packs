@@ -1,0 +1,1133 @@
+{
+    "path": "SN/S",
+    "phrases": [
+        {
+            "phrase": "St Albans Abbey",
+            "code": "SAA"
+        },
+        {
+            "phrase": "Smallbrook Junction",
+            "code": "SAB"
+        },
+        {
+            "phrase": "St Albans",
+            "code": "SAC"
+        },
+        {
+            "phrase": "Sandwell & Dudley",
+            "code": "SAD"
+        },
+        {
+            "phrase": "Saltaire",
+            "code": "SAE"
+        },
+        {
+            "phrase": "Salfords",
+            "code": "SAF"
+        },
+        {
+            "phrase": "Salhouse",
+            "code": "SAH"
+        },
+        {
+            "phrase": "St Johns",
+            "code": "SAJ"
+        },
+        {
+            "phrase": "Salisbury",
+            "code": "SAL"
+        },
+        {
+            "phrase": "Saltmarshe",
+            "code": "SAM"
+        },
+        {
+            "phrase": "Sandown",
+            "code": "SAN"
+        },
+        {
+            "phrase": "St Andrews Road",
+            "code": "SAR"
+        },
+        {
+            "phrase": "St Annes-On-The-Sea",
+            "code": "SAS"
+        },
+        {
+            "phrase": "South Acton",
+            "code": "SAT"
+        },
+        {
+            "phrase": "St Austell",
+            "code": "SAU"
+        },
+        {
+            "phrase": "Stratford-upon-Avon",
+            "code": "SAV"
+        },
+        {
+            "phrase": "Sawbridgeworth",
+            "code": "SAW"
+        },
+        {
+            "phrase": "Saxmundham",
+            "code": "SAX"
+        },
+        {
+            "phrase": "Swanley",
+            "code": "SAY"
+        },
+        {
+            "phrase": "Starbeck",
+            "code": "SBE"
+        },
+        {
+            "phrase": "St Budeaux Ferry Road",
+            "code": "SBF"
+        },
+        {
+            "phrase": "Stourbridge Junction",
+            "code": "SBJ"
+        },
+        {
+            "phrase": "South Bank",
+            "code": "SBK"
+        },
+        {
+            "phrase": "South Bermondsey",
+            "code": "SBM"
+        },
+        {
+            "phrase": "Stonebridge Park",
+            "code": "SBP"
+        },
+        {
+            "phrase": "Spean Bridge",
+            "code": "SBR"
+        },
+        {
+            "phrase": "St Bees",
+            "code": "SBS"
+        },
+        {
+            "phrase": "Stourbridge Town",
+            "code": "SBT"
+        },
+        {
+            "phrase": "Southbury",
+            "code": "SBU"
+        },
+        {
+            "phrase": "St Budeaux Victoria Road",
+            "code": "SBV"
+        },
+        {
+            "phrase": "Selby",
+            "code": "SBY"
+        },
+        {
+            "phrase": "Scarborough",
+            "code": "SCA"
+        },
+        {
+            "phrase": "Stechford",
+            "code": "SCF"
+        },
+        {
+            "phrase": "Stone Crossing",
+            "code": "SCG"
+        },
+        {
+            "phrase": "Scotstounhill",
+            "code": "SCH"
+        },
+        {
+            "phrase": "St Columb Road",
+            "code": "SCR"
+        },
+        {
+            "phrase": "Starcross",
+            "code": "SCS"
+        },
+        {
+            "phrase": "Scotscalder",
+            "code": "SCT"
+        },
+        {
+            "phrase": "Scunthorpe",
+            "code": "SCU"
+        },
+        {
+            "phrase": "South Croydon",
+            "code": "SCY"
+        },
+        {
+            "phrase": "Snodland",
+            "code": "SDA"
+        },
+        {
+            "phrase": "Sandbach",
+            "code": "SDB"
+        },
+        {
+            "phrase": "Shoreditch High Street",
+            "code": "SDC"
+        },
+        {
+            "phrase": "Shadwell",
+            "code": "SDE"
+        },
+        {
+            "phrase": "Saundersfoot",
+            "code": "SDF"
+        },
+        {
+            "phrase": "Sandling",
+            "code": "SDG"
+        },
+        {
+            "phrase": "Sudbury Hill Harrow",
+            "code": "SDH"
+        },
+        {
+            "phrase": "Sandhills",
+            "code": "SDL"
+        },
+        {
+            "phrase": "Shieldmuir",
+            "code": "SDM"
+        },
+        {
+            "phrase": "St Denys",
+            "code": "SDN"
+        },
+        {
+            "phrase": "Sandplace",
+            "code": "SDP"
+        },
+        {
+            "phrase": "Saunderton",
+            "code": "SDR"
+        },
+        {
+            "phrase": "Sandwich",
+            "code": "SDW"
+        },
+        {
+            "phrase": "Sandy",
+            "code": "SDY"
+        },
+        {
+            "phrase": "Seaham",
+            "code": "SEA"
+        },
+        {
+            "phrase": "Seaburn",
+            "code": "SEB"
+        },
+        {
+            "phrase": "Seaton Carew",
+            "code": "SEC"
+        },
+        {
+            "phrase": "Shelford",
+            "code": "SED"
+        },
+        {
+            "phrase": "Southease",
+            "code": "SEE"
+        },
+        {
+            "phrase": "Seaford",
+            "code": "SEF"
+        },
+        {
+            "phrase": "Selling",
+            "code": "SEG"
+        },
+        {
+            "phrase": "Shoreham",
+            "code": "SEH"
+        },
+        {
+            "phrase": "Seaton Delaval",
+            "code": "SEJ"
+        },
+        {
+            "phrase": "Sellafield",
+            "code": "SEL"
+        },
+        {
+            "phrase": "Seamer",
+            "code": "SEM"
+        },
+        {
+            "phrase": "Shenstone",
+            "code": "SEN"
+        },
+        {
+            "phrase": "St Erth",
+            "code": "SER"
+        },
+        {
+            "phrase": "South Elmsall",
+            "code": "SES"
+        },
+        {
+            "phrase": "Settle",
+            "code": "SET"
+        },
+        {
+            "phrase": "Sevenoaks",
+            "code": "SEV"
+        },
+        {
+            "phrase": "Stratford International",
+            "code": "SFA"
+        },
+        {
+            "phrase": "Salford Central",
+            "code": "SFD"
+        },
+        {
+            "phrase": "Shawfair",
+            "code": "SFI"
+        },
+        {
+            "phrase": "Seaforth & Litherland",
+            "code": "SFL"
+        },
+        {
+            "phrase": "Shifnal",
+            "code": "SFN"
+        },
+        {
+            "phrase": "Stanford-Le-Hope",
+            "code": "SFO"
+        },
+        {
+            "phrase": "Shalford",
+            "code": "SFR"
+        },
+        {
+            "phrase": "Smethwick Galton Bridge",
+            "code": "SGB"
+        },
+        {
+            "phrase": "South Gyle",
+            "code": "SGL"
+        },
+        {
+            "phrase": "St Germans",
+            "code": "SGM"
+        },
+        {
+            "phrase": "South Greenford",
+            "code": "SGN"
+        },
+        {
+            "phrase": "Slade Green",
+            "code": "SGR"
+        },
+        {
+            "phrase": "Shirebrook",
+            "code": "SHB"
+        },
+        {
+            "phrase": "Streethouse",
+            "code": "SHC"
+        },
+        {
+            "phrase": "Shildon",
+            "code": "SHD"
+        },
+        {
+            "phrase": "Sherborne",
+            "code": "SHE"
+        },
+        {
+            "phrase": "Sheffield",
+            "code": "SHF"
+        },
+        {
+            "phrase": "Shirehampton",
+            "code": "SHH"
+        },
+        {
+            "phrase": "Shiplake",
+            "code": "SHI"
+        },
+        {
+            "phrase": "St Helens Junction",
+            "code": "SHJ"
+        },
+        {
+            "phrase": "Shawlands",
+            "code": "SHL"
+        },
+        {
+            "phrase": "Sheringham",
+            "code": "SHM"
+        },
+        {
+            "phrase": "Shanklin",
+            "code": "SHN"
+        },
+        {
+            "phrase": "Sholing",
+            "code": "SHO"
+        },
+        {
+            "phrase": "Shepperton",
+            "code": "SHP"
+        },
+        {
+            "phrase": "Shrewsbury",
+            "code": "SHR"
+        },
+        {
+            "phrase": "Shotts",
+            "code": "SHS"
+        },
+        {
+            "phrase": "Shotton",
+            "code": "SHT"
+        },
+        {
+            "phrase": "Stonehouse",
+            "code": "SHU"
+        },
+        {
+            "phrase": "Shawford",
+            "code": "SHW"
+        },
+        {
+            "phrase": "Shipley",
+            "code": "SHY"
+        },
+        {
+            "phrase": "Southend Airport",
+            "code": "SIA"
+        },
+        {
+            "phrase": "Silecroft",
+            "code": "SIC"
+        },
+        {
+            "phrase": "Sidcup",
+            "code": "SID"
+        },
+        {
+            "phrase": "Sherburn-In-Elmet",
+            "code": "SIE"
+        },
+        {
+            "phrase": "St Helier",
+            "code": "SIH"
+        },
+        {
+            "phrase": "Sileby",
+            "code": "SIL"
+        },
+        {
+            "phrase": "Singer",
+            "code": "SIN"
+        },
+        {
+            "phrase": "Shipton",
+            "code": "SIP"
+        },
+        {
+            "phrase": "Sittingbourne",
+            "code": "SIT"
+        },
+        {
+            "phrase": "St Ives",
+            "code": "SIV"
+        },
+        {
+            "phrase": "St James' Park",
+            "code": "SJP"
+        },
+        {
+            "phrase": "St James Street",
+            "code": "SJS"
+        },
+        {
+            "phrase": "Skewen",
+            "code": "SKE"
+        },
+        {
+            "phrase": "Skegness",
+            "code": "SKG"
+        },
+        {
+            "phrase": "Skipton",
+            "code": "SKI"
+        },
+        {
+            "phrase": "Stoke Mandeville",
+            "code": "SKM"
+        },
+        {
+            "phrase": "St Keyne",
+            "code": "SKN"
+        },
+        {
+            "phrase": "Stocksfield",
+            "code": "SKS"
+        },
+        {
+            "phrase": "Stoke Newington",
+            "code": "SKW"
+        },
+        {
+            "phrase": "Slateford",
+            "code": "SLA"
+        },
+        {
+            "phrase": "Saltburn",
+            "code": "SLB"
+        },
+        {
+            "phrase": "Salford Crescent",
+            "code": "SLD"
+        },
+        {
+            "phrase": "Sleights",
+            "code": "SLH"
+        },
+        {
+            "phrase": "Silkstone Common",
+            "code": "SLK"
+        },
+        {
+            "phrase": "Stallingborough",
+            "code": "SLL"
+        },
+        {
+            "phrase": "Slough",
+            "code": "SLO"
+        },
+        {
+            "phrase": "St Leonards Warrior Square",
+            "code": "SLQ"
+        },
+        {
+            "phrase": "Sleaford",
+            "code": "SLR"
+        },
+        {
+            "phrase": "Shettleston",
+            "code": "SLS"
+        },
+        {
+            "phrase": "Saltcoats",
+            "code": "SLT"
+        },
+        {
+            "phrase": "Silver Street",
+            "code": "SLV"
+        },
+        {
+            "phrase": "Salwick",
+            "code": "SLW"
+        },
+        {
+            "phrase": "Selly Oak",
+            "code": "SLY"
+        },
+        {
+            "phrase": "Small Heath",
+            "code": "SMA"
+        },
+        {
+            "phrase": "Smithy Bridge",
+            "code": "SMB"
+        },
+        {
+            "phrase": "Stamford",
+            "code": "SMD"
+        },
+        {
+            "phrase": "St Margarets",
+            "code": "SMG"
+        },
+        {
+            "phrase": "Stamford Hill",
+            "code": "SMH"
+        },
+        {
+            "phrase": "Stowmarket",
+            "code": "SMK"
+        },
+        {
+            "phrase": "Sea Mills",
+            "code": "SML"
+        },
+        {
+            "phrase": "Southminster",
+            "code": "SMN"
+        },
+        {
+            "phrase": "South Merton",
+            "code": "SMO"
+        },
+        {
+            "phrase": "Smethwick Rolfe Street",
+            "code": "SMR"
+        },
+        {
+            "phrase": "St Margarets",
+            "code": "SMT"
+        },
+        {
+            "phrase": "St Mary Cray",
+            "code": "SMY"
+        },
+        {
+            "phrase": "Sandal & Agbrigg",
+            "code": "SNA"
+        },
+        {
+            "phrase": "Sandhurst",
+            "code": "SND"
+        },
+        {
+            "phrase": "Stone",
+            "code": "SNE"
+        },
+        {
+            "phrase": "Shenfield",
+            "code": "SNF"
+        },
+        {
+            "phrase": "Sunningdale",
+            "code": "SNG"
+        },
+        {
+            "phrase": "St Helens Central",
+            "code": "SNH"
+        },
+        {
+            "phrase": "Snaith",
+            "code": "SNI"
+        },
+        {
+            "phrase": "Sankey for Penketh",
+            "code": "SNK"
+        },
+        {
+            "phrase": "Stoneleigh",
+            "code": "SNL"
+        },
+        {
+            "phrase": "Swinton",
+            "code": "SNN"
+        },
+        {
+            "phrase": "St Neots",
+            "code": "SNO"
+        },
+        {
+            "phrase": "Sanderstead",
+            "code": "SNR"
+        },
+        {
+            "phrase": "Staines",
+            "code": "SNS"
+        },
+        {
+            "phrase": "Stanlow & Thornton",
+            "code": "SNT"
+        },
+        {
+            "phrase": "Swanwick",
+            "code": "SNW"
+        },
+        {
+            "phrase": "Sunnymeads",
+            "code": "SNY"
+        },
+        {
+            "phrase": "Southampton Airport Parkway",
+            "code": "SOA"
+        },
+        {
+            "phrase": "Southbourne",
+            "code": "SOB"
+        },
+        {
+            "phrase": "Southend Central",
+            "code": "SOC"
+        },
+        {
+            "phrase": "Southend East",
+            "code": "SOE"
+        },
+        {
+            "phrase": "South Woodham Ferrers",
+            "code": "SOF"
+        },
+        {
+            "phrase": "Stonegate",
+            "code": "SOG"
+        },
+        {
+            "phrase": "South Hampstead",
+            "code": "SOH"
+        },
+        {
+            "phrase": "Stow",
+            "code": "SOI"
+        },
+        {
+            "phrase": "Soham",
+            "code": "SOJ"
+        },
+        {
+            "phrase": "South Kenton",
+            "code": "SOK"
+        },
+        {
+            "phrase": "Solihull",
+            "code": "SOL"
+        },
+        {
+            "phrase": "South Milford",
+            "code": "SOM"
+        },
+        {
+            "phrase": "Steeton & Silsden",
+            "code": "SON"
+        },
+        {
+            "phrase": "Strood",
+            "code": "SOO"
+        },
+        {
+            "phrase": "Southport",
+            "code": "SOP"
+        },
+        {
+            "phrase": "Sole Street",
+            "code": "SOR"
+        },
+        {
+            "phrase": "Stoke-On-Trent",
+            "code": "SOT"
+        },
+        {
+            "phrase": "Southampton Central",
+            "code": "SOU"
+        },
+        {
+            "phrase": "Southend Victoria",
+            "code": "SOV"
+        },
+        {
+            "phrase": "Sowerby Bridge",
+            "code": "SOW"
+        },
+        {
+            "phrase": "Spalding",
+            "code": "SPA"
+        },
+        {
+            "phrase": "Shepherds Bush",
+            "code": "SPB"
+        },
+        {
+            "phrase": "Springfield",
+            "code": "SPF"
+        },
+        {
+            "phrase": "Shepherds Well",
+            "code": "SPH"
+        },
+        {
+            "phrase": "Spital",
+            "code": "SPI"
+        },
+        {
+            "phrase": "Sutton Parkway",
+            "code": "SPK"
+        },
+        {
+            "phrase": "Spooner Row",
+            "code": "SPN"
+        },
+        {
+            "phrase": "Spondon",
+            "code": "SPO"
+        },
+        {
+            "phrase": "Shippea Hill",
+            "code": "SPP"
+        },
+        {
+            "phrase": "Springburn",
+            "code": "SPR"
+        },
+        {
+            "phrase": "Stepps",
+            "code": "SPS"
+        },
+        {
+            "phrase": "Stockport",
+            "code": "SPT"
+        },
+        {
+            "phrase": "Staplehurst",
+            "code": "SPU"
+        },
+        {
+            "phrase": "Shepley",
+            "code": "SPY"
+        },
+        {
+            "phrase": "Surrey Quays",
+            "code": "SQE"
+        },
+        {
+            "phrase": "Sanquhar",
+            "code": "SQH"
+        },
+        {
+            "phrase": "Squires Gate",
+            "code": "SQU"
+        },
+        {
+            "phrase": "Stratford",
+            "code": "SRA"
+        },
+        {
+            "phrase": "Streatham Common",
+            "code": "SRC"
+        },
+        {
+            "phrase": "Stapleton Road",
+            "code": "SRD"
+        },
+        {
+            "phrase": "Seer Green & Jordans",
+            "code": "SRG"
+        },
+        {
+            "phrase": "Streatham Hill",
+            "code": "SRH"
+        },
+        {
+            "phrase": "Spring Road",
+            "code": "SRI"
+        },
+        {
+            "phrase": "Shirley",
+            "code": "SRL"
+        },
+        {
+            "phrase": "Strines",
+            "code": "SRN"
+        },
+        {
+            "phrase": "Shireoaks",
+            "code": "SRO"
+        },
+        {
+            "phrase": "Sarn",
+            "code": "SRR"
+        },
+        {
+            "phrase": "Selhurst",
+            "code": "SRS"
+        },
+        {
+            "phrase": "Shortlands",
+            "code": "SRT"
+        },
+        {
+            "phrase": "South Ruislip",
+            "code": "SRU"
+        },
+        {
+            "phrase": "Shoeburyness",
+            "code": "SRY"
+        },
+        {
+            "phrase": "Seascale",
+            "code": "SSC"
+        },
+        {
+            "phrase": "Stansted Airport",
+            "code": "SSD"
+        },
+        {
+            "phrase": "Shoreham-By-Sea",
+            "code": "SSE"
+        },
+        {
+            "phrase": "Stocksmoor",
+            "code": "SSM"
+        },
+        {
+            "phrase": "Sheerness on Sea",
+            "code": "SSS"
+        },
+        {
+            "phrase": "Stansted Mountfitchet",
+            "code": "SST"
+        },
+        {
+            "phrase": "Stafford",
+            "code": "STA"
+        },
+        {
+            "phrase": "Strathcarron",
+            "code": "STC"
+        },
+        {
+            "phrase": "Stroud",
+            "code": "STD"
+        },
+        {
+            "phrase": "Streatham",
+            "code": "STE"
+        },
+        {
+            "phrase": "Stromeferry",
+            "code": "STF"
+        },
+        {
+            "phrase": "Stirling",
+            "code": "STG"
+        },
+        {
+            "phrase": "Shepreth",
+            "code": "STH"
+        },
+        {
+            "phrase": "Stadium of Light",
+            "code": "STI"
+        },
+        {
+            "phrase": "Severn Tunnel Junction",
+            "code": "STJ"
+        },
+        {
+            "phrase": "Stockton",
+            "code": "STK"
+        },
+        {
+            "phrase": "Southall",
+            "code": "STL"
+        },
+        {
+            "phrase": "St Michaels",
+            "code": "STM"
+        },
+        {
+            "phrase": "Stonehaven",
+            "code": "STN"
+        },
+        {
+            "phrase": "South Tottenham",
+            "code": "STO"
+        },
+        {
+            "phrase": "London St Pancras International",
+            "code": "STP"
+        },
+        {
+            "phrase": "Southampton Town Quay",
+            "code": "STQ"
+        },
+        {
+            "phrase": "Stranraer",
+            "code": "STR"
+        },
+        {
+            "phrase": "Saltash",
+            "code": "STS"
+        },
+        {
+            "phrase": "Stewarton",
+            "code": "STT"
+        },
+        {
+            "phrase": "Sturry",
+            "code": "STU"
+        },
+        {
+            "phrase": "Stevenston",
+            "code": "STV"
+        },
+        {
+            "phrase": "Strawberry Hill",
+            "code": "STW"
+        },
+        {
+            "phrase": "Stratford-upon-Avon Parkway",
+            "code": "STY"
+        },
+        {
+            "phrase": "St Peters",
+            "code": "STZ"
+        },
+        {
+            "phrase": "Sutton Common",
+            "code": "SUC"
+        },
+        {
+            "phrase": "Sudbury & Harrow Road",
+            "code": "SUD"
+        },
+        {
+            "phrase": "Sugar Loaf",
+            "code": "SUG"
+        },
+        {
+            "phrase": "Summerston",
+            "code": "SUM"
+        },
+        {
+            "phrase": "Sunderland",
+            "code": "SUN"
+        },
+        {
+            "phrase": "Sutton",
+            "code": "SUO"
+        },
+        {
+            "phrase": "Sundridge Park",
+            "code": "SUP"
+        },
+        {
+            "phrase": "Surbiton",
+            "code": "SUR"
+        },
+        {
+            "phrase": "Sutton Coldfield",
+            "code": "SUT"
+        },
+        {
+            "phrase": "Sunbury",
+            "code": "SUU"
+        },
+        {
+            "phrase": "Sudbury Suffolk",
+            "code": "SUY"
+        },
+        {
+            "phrase": "Severn Beach",
+            "code": "SVB"
+        },
+        {
+            "phrase": "Stevenage",
+            "code": "SVG"
+        },
+        {
+            "phrase": "Seven Kings",
+            "code": "SVK"
+        },
+        {
+            "phrase": "Staveley",
+            "code": "SVL"
+        },
+        {
+            "phrase": "Silverdale",
+            "code": "SVR"
+        },
+        {
+            "phrase": "Seven Sisters",
+            "code": "SVS"
+        },
+        {
+            "phrase": "Swansea",
+            "code": "SWA"
+        },
+        {
+            "phrase": "Swinderby",
+            "code": "SWD"
+        },
+        {
+            "phrase": "Swineshead",
+            "code": "SWE"
+        },
+        {
+            "phrase": "Swaythling",
+            "code": "SWG"
+        },
+        {
+            "phrase": "Swindon",
+            "code": "SWI"
+        },
+        {
+            "phrase": "Southwick",
+            "code": "SWK"
+        },
+        {
+            "phrase": "Swale",
+            "code": "SWL"
+        },
+        {
+            "phrase": "Swanscombe George & Dragon",
+            "code": "SWM"
+        },
+        {
+            "phrase": "Swinton",
+            "code": "SWN"
+        },
+        {
+            "phrase": "Snowdown",
+            "code": "SWO"
+        },
+        {
+            "phrase": "Stewartby",
+            "code": "SWR"
+        },
+        {
+            "phrase": "South Wigston",
+            "code": "SWS"
+        },
+        {
+            "phrase": "Slaithwaite",
+            "code": "SWT"
+        },
+        {
+            "phrase": "Sway",
+            "code": "SWY"
+        },
+        {
+            "phrase": "Saxilby",
+            "code": "SXY"
+        },
+        {
+            "phrase": "Styal",
+            "code": "SYA"
+        },
+        {
+            "phrase": "Stalybridge",
+            "code": "SYB"
+        },
+        {
+            "phrase": "Sydenham",
+            "code": "SYD"
+        },
+        {
+            "phrase": "Sydenham Hill",
+            "code": "SYH"
+        },
+        {
+            "phrase": "Syon Lane",
+            "code": "SYL"
+        },
+        {
+            "phrase": "Syston",
+            "code": "SYS"
+        },
+        {
+            "phrase": "Somerleyton",
+            "code": "SYT"
+        }
+    ]
+}

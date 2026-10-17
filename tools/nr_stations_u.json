@@ -1,0 +1,77 @@
+{
+    "path": "SN/U",
+    "phrases": [
+        {
+            "phrase": "Uckfield",
+            "code": "UCK"
+        },
+        {
+            "phrase": "Uddingston",
+            "code": "UDD"
+        },
+        {
+            "phrase": "Uphall",
+            "code": "UHA"
+        },
+        {
+            "phrase": "Upper Holloway",
+            "code": "UHL"
+        },
+        {
+            "phrase": "Ulceby",
+            "code": "ULC"
+        },
+        {
+            "phrase": "Ulleskelf",
+            "code": "ULL"
+        },
+        {
+            "phrase": "Ulverston",
+            "code": "ULV"
+        },
+        {
+            "phrase": "Umberleigh",
+            "code": "UMB"
+        },
+        {
+            "phrase": "University",
+            "code": "UNI"
+        },
+        {
+            "phrase": "Upper Halliford",
+            "code": "UPH"
+        },
+        {
+            "phrase": "Upholland",
+            "code": "UPL"
+        },
+        {
+            "phrase": "Upminster",
+            "code": "UPM"
+        },
+        {
+            "phrase": "Upton",
+            "code": "UPT"
+        },
+        {
+            "phrase": "Upwey",
+            "code": "UPW"
+        },
+        {
+            "phrase": "Urmston",
+            "code": "URM"
+        },
+        {
+            "phrase": "Uttoxeter",
+            "code": "UTT"
+        },
+        {
+            "phrase": "Upper Tyndrum",
+            "code": "UTY"
+        },
+        {
+            "phrase": "Upper Warlingham",
+            "code": "UWL"
+        }
+    ]
+}

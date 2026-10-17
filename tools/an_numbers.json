@@ -1,0 +1,745 @@
+{
+    "path": "NU",
+    "phrases": [
+        {
+            "code": "0",
+            "phrase": " oh"
+        },
+        {
+            "code": "00",
+            "phrase": " hundred"
+        },
+        {
+            "code": "01",
+            "phrase": "o one"
+        },
+        {
+            "code": "02",
+            "phrase": "o two"
+        },
+        {
+            "code": "03",
+            "phrase": "o three"
+        },
+        {
+            "code": "04",
+            "phrase": "o four"
+        },
+        {
+            "code": "05",
+            "phrase": "o five"
+        },
+        {
+            "code": "06",
+            "phrase": "o six"
+        },
+        {
+            "code": "07",
+            "phrase": "o seven"
+        },
+        {
+            "code": "08",
+            "phrase": "o eight"
+        },
+        {
+            "code": "09",
+            "phrase": "o nine"
+        },
+        {
+            "code": "0A",
+            "phrase": "zero A"
+        },
+        {
+            "code": "0B",
+            "phrase": "zero B"
+        },
+        {
+            "code": "0C",
+            "phrase": "zero C"
+        },
+        {
+            "code": "0D",
+            "phrase": "zero D"
+        },
+        {
+            "code": "1",
+            "phrase": " one"
+        },
+        {
+            "code": "10",
+            "phrase": " ten"
+        },
+        {
+            "code": "10A",
+            "phrase": " ten A"
+        },
+        {
+            "code": "10B",
+            "phrase": " ten B"
+        },
+        {
+            "code": "10F",
+            "phrase": " ten F"
+        },
+        {
+            "code": "10R",
+            "phrase": " ten R"
+        },
+        {
+            "code": "11",
+            "phrase": " eleven"
+        },
+        {
+            "code": "11A",
+            "phrase": " eleven A"
+        },
+        {
+            "code": "11B",
+            "phrase": " eleven B"
+        },
+        {
+            "code": "11C",
+            "phrase": " eleven C"
+        },
+        {
+            "code": "11D",
+            "phrase": "eleven D"
+        },
+        {
+            "code": "11F",
+            "phrase": " eleven F"
+        },
+        {
+            "code": "11R",
+            "phrase": " eleven R"
+        },
+        {
+            "code": "12",
+            "phrase": " twelve"
+        },
+        {
+            "code": "12A",
+            "phrase": " twelve A"
+        },
+        {
+            "code": "12B",
+            "phrase": " twelve B"
+        },
+        {
+            "code": "12C",
+            "phrase": " twelve C"
+        },
+        {
+            "code": "12D",
+            "phrase": "twelve D"
+        },
+        {
+            "code": "12F",
+            "phrase": " twelve F"
+        },
+        {
+            "code": "12R",
+            "phrase": " twelve R"
+        },
+        {
+            "code": "13",
+            "phrase": " thirteen"
+        },
+        {
+            "code": "13A",
+            "phrase": "thirteen A"
+        },
+        {
+            "code": "13B",
+            "phrase": "thirteen B"
+        },
+        {
+            "code": "13F",
+            "phrase": " thirteen F"
+        },
+        {
+            "code": "13R",
+            "phrase": " thirteen R"
+        },
+        {
+            "code": "14",
+            "phrase": " fourteen"
+        },
+        {
+            "code": "14A",
+            "phrase": "fourteen A"
+        },
+        {
+            "code": "14B",
+            "phrase": "fourteen B"
+        },
+        {
+            "code": "14F",
+            "phrase": " fourteen F"
+        },
+        {
+            "code": "14R",
+            "phrase": " fourteen R"
+        },
+        {
+            "code": "15",
+            "phrase": " fifteen"
+        },
+        {
+            "code": "15A",
+            "phrase": "fifteen A"
+        },
+        {
+            "code": "15B",
+            "phrase": "fifteen B"
+        },
+        {
+            "code": "15F",
+            "phrase": " fifteen F"
+        },
+        {
+            "code": "15R",
+            "phrase": " fifteen R"
+        },
+        {
+            "code": "16",
+            "phrase": " sixteen"
+        },
+        {
+            "code": "16A",
+            "phrase": "sixteen A"
+        },
+        {
+            "code": "16B",
+            "phrase": "sixteen B"
+        },
+        {
+            "code": "16F",
+            "phrase": " sixteen F"
+        },
+        {
+            "code": "17",
+            "phrase": " seventeen"
+        },
+        {
+            "code": "17A",
+            "phrase": " seventeen A"
+        },
+        {
+            "code": "17B",
+            "phrase": " seventeen B"
+        },
+        {
+            "code": "17F",
+            "phrase": " seventeen F"
+        },
+        {
+            "code": "18",
+            "phrase": " eighteen"
+        },
+        {
+            "code": "18F",
+            "phrase": " eighteen F"
+        },
+        {
+            "code": "19",
+            "phrase": " nineteen"
+        },
+        {
+            "code": "19F",
+            "phrase": " nineteen F"
+        },
+        {
+            "code": "1A",
+            "phrase": " one A"
+        },
+        {
+            "code": "1B",
+            "phrase": " one B"
+        },
+        {
+            "code": "1C",
+            "phrase": " one C"
+        },
+        {
+            "code": "1D",
+            "phrase": "one D"
+        },
+        {
+            "code": "1F",
+            "phrase": " one F"
+        },
+        {
+            "code": "1R",
+            "phrase": " one R"
+        },
+        {
+            "code": "2",
+            "phrase": " two"
+        },
+        {
+            "code": "20",
+            "phrase": " twenty"
+        },
+        {
+            "code": "21",
+            "phrase": " twenty one"
+        },
+        {
+            "code": "22",
+            "phrase": " twenty two"
+        },
+        {
+            "code": "23",
+            "phrase": " twenty three"
+        },
+        {
+            "code": "24",
+            "phrase": " twenty four"
+        },
+        {
+            "code": "25",
+            "phrase": " twenty five"
+        },
+        {
+            "code": "26",
+            "phrase": " twenty six"
+        },
+        {
+            "code": "27",
+            "phrase": " twenty seven"
+        },
+        {
+            "code": "28",
+            "phrase": " twenty eight"
+        },
+        {
+            "code": "29",
+            "phrase": " twenty nine"
+        },
+        {
+            "code": "2A",
+            "phrase": " two A"
+        },
+        {
+            "code": "2B",
+            "phrase": " two B"
+        },
+        {
+            "code": "2C",
+            "phrase": " two C"
+        },
+        {
+            "code": "2D",
+            "phrase": "two D"
+        },
+        {
+            "code": "2F",
+            "phrase": " two F"
+        },
+        {
+            "code": "2R",
+            "phrase": " two R"
+        },
+        {
+            "code": "3",
+            "phrase": " three"
+        },
+        {
+            "code": "30",
+            "phrase": " thirty"
+        },
+        {
+            "code": "31",
+            "phrase": " thirty one"
+        },
+        {
+            "code": "32",
+            "phrase": " thirty two"
+        },
+        {
+            "code": "33",
+            "phrase": " thirty three"
+        },
+        {
+            "code": "34",
+            "phrase": " thirty four"
+        },
+        {
+            "code": "35",
+            "phrase": " thirty five"
+        },
+        {
+            "code": "36",
+            "phrase": " thirty six"
+        },
+        {
+            "code": "37",
+            "phrase": " thirty seven"
+        },
+        {
+            "code": "38",
+            "phrase": " thirty eight"
+        },
+        {
+            "code": "39",
+            "phrase": " thirty nine"
+        },
+        {
+            "code": "3A",
+            "phrase": " three A"
+        },
+        {
+            "code": "3B",
+            "phrase": " three B"
+        },
+        {
+            "code": "3C",
+            "phrase": " three C"
+        },
+        {
+            "code": "3D",
+            "phrase": "three D"
+        },
+        {
+            "code": "3F",
+            "phrase": " three F"
+        },
+        {
+            "code": "3R",
+            "phrase": " three R"
+        },
+        {
+            "code": "3T",
+            "phrase": " three T"
+        },
+        {
+            "code": "4",
+            "phrase": " four"
+        },
+        {
+            "code": "40",
+            "phrase": " forty"
+        },
+        {
+            "code": "41",
+            "phrase": " forty one"
+        },
+        {
+            "code": "42",
+            "phrase": " forty two"
+        },
+        {
+            "code": "43",
+            "phrase": " forty three"
+        },
+        {
+            "code": "44",
+            "phrase": " forty four"
+        },
+        {
+            "code": "45",
+            "phrase": " forty five"
+        },
+        {
+            "code": "46",
+            "phrase": " forty six"
+        },
+        {
+            "code": "47",
+            "phrase": " forty seven"
+        },
+        {
+            "code": "48",
+            "phrase": " forty eight"
+        },
+        {
+            "code": "49",
+            "phrase": " forty nine"
+        },
+        {
+            "code": "4A",
+            "phrase": " four A"
+        },
+        {
+            "code": "4B",
+            "phrase": " four B"
+        },
+        {
+            "code": "4C",
+            "phrase": " four C"
+        },
+        {
+            "code": "4D",
+            "phrase": "four D"
+        },
+        {
+            "code": "4E",
+            "phrase": " four E"
+        },
+        {
+            "code": "4F",
+            "phrase": " four F"
+        },
+        {
+            "code": "4R",
+            "phrase": " four R"
+        },
+        {
+            "code": "4T",
+            "phrase": " four T"
+        },
+        {
+            "code": "4W",
+            "phrase": " four W"
+        },
+        {
+            "code": "5",
+            "phrase": " five"
+        },
+        {
+            "code": "50",
+            "phrase": " fifty"
+        },
+        {
+            "code": "51",
+            "phrase": " fifty one"
+        },
+        {
+            "code": "52",
+            "phrase": " fifty two"
+        },
+        {
+            "code": "53",
+            "phrase": " fifty three"
+        },
+        {
+            "code": "54",
+            "phrase": " fifty four"
+        },
+        {
+            "code": "55",
+            "phrase": " fifty five"
+        },
+        {
+            "code": "56",
+            "phrase": " fifty six"
+        },
+        {
+            "code": "57",
+            "phrase": " fifty seven"
+        },
+        {
+            "code": "58",
+            "phrase": " fifty eight"
+        },
+        {
+            "code": "59",
+            "phrase": " fifty nine"
+        },
+        {
+            "code": "5A",
+            "phrase": "5A"
+        },
+        {
+            "code": "5B",
+            "phrase": " five B"
+        },
+        {
+            "code": "5C",
+            "phrase": " five C"
+        },
+        {
+            "code": "5D",
+            "phrase": "five D"
+        },
+        {
+            "code": "5F",
+            "phrase": " five F"
+        },
+        {
+            "code": "5R",
+            "phrase": " five R"
+        },
+        {
+            "code": "6",
+            "phrase": " six"
+        },
+        {
+            "code": "60",
+            "phrase": " sixty"
+        },
+        {
+            "code": "6A",
+            "phrase": " six A"
+        },
+        {
+            "code": "6B",
+            "phrase": " six B"
+        },
+        {
+            "code": "6C",
+            "phrase": " six C"
+        },
+        {
+            "code": "6D",
+            "phrase": "six D"
+        },
+        {
+            "code": "6F",
+            "phrase": " six F"
+        },
+        {
+            "code": "6N",
+            "phrase": " six N"
+        },
+        {
+            "code": "6R",
+            "phrase": " six R"
+        },
+        {
+            "code": "6S",
+            "phrase": " six S"
+        },
+        {
+            "code": "7",
+            "phrase": " seven"
+        },
+        {
+            "code": "70",
+            "phrase": " seventy"
+        },
+        {
+            "code": "7A",
+            "phrase": " seven A"
+        },
+        {
+            "code": "7B",
+            "phrase": " seven B"
+        },
+        {
+            "code": "7C",
+            "phrase": " seven C"
+        },
+        {
+            "code": "7D",
+            "phrase": "seven D"
+        },
+        {
+            "code": "7F",
+            "phrase": " seven F"
+        },
+        {
+            "code": "7N",
+            "phrase": " seven N"
+        },
+        {
+            "code": "7R",
+            "phrase": " seven R"
+        },
+        {
+            "code": "7S",
+            "phrase": " seven S"
+        },
+        {
+            "code": "8",
+            "phrase": " eight"
+        },
+        {
+            "code": "80",
+            "phrase": " eighty"
+        },
+        {
+            "code": "8A",
+            "phrase": " eight A"
+        },
+        {
+            "code": "8B",
+            "phrase": " eight B"
+        },
+        {
+            "code": "8C",
+            "phrase": " eight C"
+        },
+        {
+            "code": "8D",
+            "phrase": "eight D"
+        },
+        {
+            "code": "8E",
+            "phrase": " eight E"
+        },
+        {
+            "code": "8F",
+            "phrase": " eight F"
+        },
+        {
+            "code": "8R",
+            "phrase": " eight R"
+        },
+        {
+            "code": "8W",
+            "phrase": " eight W"
+        },
+        {
+            "code": "9",
+            "phrase": " nine"
+        },
+        {
+            "code": "90",
+            "phrase": " ninety"
+        },
+        {
+            "code": "9A",
+            "phrase": " nine A"
+        },
+        {
+            "code": "9B",
+            "phrase": " nine B"
+        },
+        {
+            "code": "9C",
+            "phrase": " nine C"
+        },
+        {
+            "code": "9D",
+            "phrase": "nine D"
+        },
+        {
+            "code": "9E",
+            "phrase": " nine E"
+        },
+        {
+            "code": "9F",
+            "phrase": " nine F"
+        },
+        {
+            "code": "9R",
+            "phrase": " nine R"
+        },
+        {
+            "code": "9W",
+            "phrase": " nine W"
+        },
+        {
+            "code": "A",
+            "phrase": "A"
+        },
+        {
+            "code": "B",
+            "phrase": "B"
+        },
+        {
+            "code": "C",
+            "phrase": "C"
+        },
+        {
+            "code": "D",
+            "phrase": "D"
+        },
+        {
+            "code": "ZO",
+            "phrase": " zero"
+        }
+    ]
+}

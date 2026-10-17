@@ -1,0 +1,389 @@
+{
+    "path": "SN/T",
+    "phrases": [
+        {
+            "phrase": "Tame Bridge Parkway",
+            "code": "TAB"
+        },
+        {
+            "phrase": "Tackley",
+            "code": "TAC"
+        },
+        {
+            "phrase": "Tadworth",
+            "code": "TAD"
+        },
+        {
+            "phrase": "Taffs Well",
+            "code": "TAF"
+        },
+        {
+            "phrase": "Tain",
+            "code": "TAI"
+        },
+        {
+            "phrase": "Talsarnau",
+            "code": "TAL"
+        },
+        {
+            "phrase": "Tamworth",
+            "code": "TAM"
+        },
+        {
+            "phrase": "Taplow",
+            "code": "TAP"
+        },
+        {
+            "phrase": "Tattenham Corner",
+            "code": "TAT"
+        },
+        {
+            "phrase": "Taunton",
+            "code": "TAU"
+        },
+        {
+            "phrase": "Taynuilt",
+            "code": "TAY"
+        },
+        {
+            "phrase": "Three Bridges",
+            "code": "TBD"
+        },
+        {
+            "phrase": "Tunbridge Wells",
+            "code": "TBW"
+        },
+        {
+            "phrase": "Thornaby",
+            "code": "TBY"
+        },
+        {
+            "phrase": "Tottenham Court Road",
+            "code": "TCR"
+        },
+        {
+            "phrase": "Tondu",
+            "code": "TDU"
+        },
+        {
+            "phrase": "Teesside Airport",
+            "code": "TEA"
+        },
+        {
+            "phrase": "Teddington",
+            "code": "TED"
+        },
+        {
+            "phrase": "Tenby",
+            "code": "TEN"
+        },
+        {
+            "phrase": "Theobalds Grove",
+            "code": "TEO"
+        },
+        {
+            "phrase": "Teynham",
+            "code": "TEY"
+        },
+        {
+            "phrase": "Telford Central",
+            "code": "TFC"
+        },
+        {
+            "phrase": "Teignmouth",
+            "code": "TGM"
+        },
+        {
+            "phrase": "Ty Glas",
+            "code": "TGS"
+        },
+        {
+            "phrase": "Thatcham",
+            "code": "THA"
+        },
+        {
+            "phrase": "Thornliebank",
+            "code": "THB"
+        },
+        {
+            "phrase": "Thurnscoe",
+            "code": "THC"
+        },
+        {
+            "phrase": "Thames Ditton",
+            "code": "THD"
+        },
+        {
+            "phrase": "Theale",
+            "code": "THE"
+        },
+        {
+            "phrase": "Thatto Heath",
+            "code": "THH"
+        },
+        {
+            "phrase": "Thirsk",
+            "code": "THI"
+        },
+        {
+            "phrase": "Tile Hill",
+            "code": "THL"
+        },
+        {
+            "phrase": "Thornford",
+            "code": "THO"
+        },
+        {
+            "phrase": "Thanet Parkway",
+            "code": "THP"
+        },
+        {
+            "phrase": "Thurso",
+            "code": "THS"
+        },
+        {
+            "phrase": "Thorntonhall",
+            "code": "THT"
+        },
+        {
+            "phrase": "Thurgarton",
+            "code": "THU"
+        },
+        {
+            "phrase": "The Hawthorns",
+            "code": "THW"
+        },
+        {
+            "phrase": "Tilbury Town",
+            "code": "TIL"
+        },
+        {
+            "phrase": "Tipton",
+            "code": "TIP"
+        },
+        {
+            "phrase": "Tir-Phil",
+            "code": "TIR"
+        },
+        {
+            "phrase": "Tisbury",
+            "code": "TIS"
+        },
+        {
+            "phrase": "Talybont",
+            "code": "TLB"
+        },
+        {
+            "phrase": "Tal-Y-Cafn",
+            "code": "TLC"
+        },
+        {
+            "phrase": "Tilehurst",
+            "code": "TLH"
+        },
+        {
+            "phrase": "The Lakes",
+            "code": "TLK"
+        },
+        {
+            "phrase": "Thorpe-Le-Soken",
+            "code": "TLS"
+        },
+        {
+            "phrase": "Templecombe",
+            "code": "TMC"
+        },
+        {
+            "phrase": "Thornton Abbey",
+            "code": "TNA"
+        },
+        {
+            "phrase": "Tonfanau",
+            "code": "TNF"
+        },
+        {
+            "phrase": "Thorne North",
+            "code": "TNN"
+        },
+        {
+            "phrase": "Tonypandy",
+            "code": "TNP"
+        },
+        {
+            "phrase": "Thorne South",
+            "code": "TNS"
+        },
+        {
+            "phrase": "Todmorden",
+            "code": "TOD"
+        },
+        {
+            "phrase": "Three Oaks",
+            "code": "TOK"
+        },
+        {
+            "phrase": "Tolworth",
+            "code": "TOL"
+        },
+        {
+            "phrase": "Tottenham Hale",
+            "code": "TOM"
+        },
+        {
+            "phrase": "Tonbridge",
+            "code": "TON"
+        },
+        {
+            "phrase": "Tooting",
+            "code": "TOO"
+        },
+        {
+            "phrase": "Topsham",
+            "code": "TOP"
+        },
+        {
+            "phrase": "Totnes",
+            "code": "TOT"
+        },
+        {
+            "phrase": "Thorpe Bay",
+            "code": "TPB"
+        },
+        {
+            "phrase": "Thorpe Culvert",
+            "code": "TPC"
+        },
+        {
+            "phrase": "Ton Pentre",
+            "code": "TPN"
+        },
+        {
+            "phrase": "Torquay",
+            "code": "TQY"
+        },
+        {
+            "phrase": "Trafford Park",
+            "code": "TRA"
+        },
+        {
+            "phrase": "Treherbert",
+            "code": "TRB"
+        },
+        {
+            "phrase": "Troed-Y-Rhiw",
+            "code": "TRD"
+        },
+        {
+            "phrase": "Trefforest Estate",
+            "code": "TRE"
+        },
+        {
+            "phrase": "Trefforest",
+            "code": "TRF"
+        },
+        {
+            "phrase": "Trehafod",
+            "code": "TRH"
+        },
+        {
+            "phrase": "Tring",
+            "code": "TRI"
+        },
+        {
+            "phrase": "Trimley",
+            "code": "TRM"
+        },
+        {
+            "phrase": "Troon",
+            "code": "TRN"
+        },
+        {
+            "phrase": "Trowbridge",
+            "code": "TRO"
+        },
+        {
+            "phrase": "Torre",
+            "code": "TRR"
+        },
+        {
+            "phrase": "Thurston",
+            "code": "TRS"
+        },
+        {
+            "phrase": "Truro",
+            "code": "TRU"
+        },
+        {
+            "phrase": "Treorchy",
+            "code": "TRY"
+        },
+        {
+            "phrase": "Thetford",
+            "code": "TTF"
+        },
+        {
+            "phrase": "Thornton Heath",
+            "code": "TTH"
+        },
+        {
+            "phrase": "Totton",
+            "code": "TTN"
+        },
+        {
+            "phrase": "Tulse Hill",
+            "code": "TUH"
+        },
+        {
+            "phrase": "Tulloch",
+            "code": "TUL"
+        },
+        {
+            "phrase": "Turkey Street",
+            "code": "TUR"
+        },
+        {
+            "phrase": "Tutbury & Hatton",
+            "code": "TUT"
+        },
+        {
+            "phrase": "Tiverton Parkway",
+            "code": "TVP"
+        },
+        {
+            "phrase": "Tweedbank",
+            "code": "TWB"
+        },
+        {
+            "phrase": "Twickenham",
+            "code": "TWI"
+        },
+        {
+            "phrase": "Town Green",
+            "code": "TWN"
+        },
+        {
+            "phrase": "Twyford",
+            "code": "TWY"
+        },
+        {
+            "phrase": "Ty Croes",
+            "code": "TYC"
+        },
+        {
+            "phrase": "Tygwyn",
+            "code": "TYG"
+        },
+        {
+            "phrase": "Tyndrum Lower",
+            "code": "TYL"
+        },
+        {
+            "phrase": "Tyseley",
+            "code": "TYS"
+        },
+        {
+            "phrase": "Tywyn",
+            "code": "TYW"
+        }
+    ]
+}

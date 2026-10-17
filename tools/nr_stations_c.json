@@ -1,0 +1,941 @@
+{
+    "path": "SN/C",
+    "phrases": [
+        {
+            "phrase": "Coventry Arena",
+            "code": "CAA"
+        },
+        {
+            "phrase": "Caldercruix",
+            "code": "CAC"
+        },
+        {
+            "phrase": "Cadoxton",
+            "code": "CAD"
+        },
+        {
+            "phrase": "Carrbridge",
+            "code": "CAG"
+        },
+        {
+            "phrase": "Cark",
+            "code": "CAK"
+        },
+        {
+            "phrase": "Camberley",
+            "code": "CAM"
+        },
+        {
+            "phrase": "Carnoustie",
+            "code": "CAN"
+        },
+        {
+            "phrase": "Cannock",
+            "code": "CAO"
+        },
+        {
+            "phrase": "Carlisle",
+            "code": "CAR"
+        },
+        {
+            "phrase": "Castleton",
+            "code": "CAS"
+        },
+        {
+            "phrase": "Caterham",
+            "code": "CAT"
+        },
+        {
+            "phrase": "Causeland",
+            "code": "CAU"
+        },
+        {
+            "phrase": "Carntyne",
+            "code": "CAY"
+        },
+        {
+            "phrase": "Carbis Bay",
+            "code": "CBB"
+        },
+        {
+            "phrase": "Coatbridge Central",
+            "code": "CBC"
+        },
+        {
+            "phrase": "Conon Bridge",
+            "code": "CBD"
+        },
+        {
+            "phrase": "Canterbury East",
+            "code": "CBE"
+        },
+        {
+            "phrase": "Cambridge",
+            "code": "CBG"
+        },
+        {
+            "phrase": "Cambridge Heath",
+            "code": "CBH"
+        },
+        {
+            "phrase": "Cranbrook",
+            "code": "CBK"
+        },
+        {
+            "phrase": "Cambuslang",
+            "code": "CBL"
+        },
+        {
+            "phrase": "Camborne",
+            "code": "CBN"
+        },
+        {
+            "phrase": "Castle Bar Park",
+            "code": "CBP"
+        },
+        {
+            "phrase": "Cooksbridge",
+            "code": "CBR"
+        },
+        {
+            "phrase": "Coatbridge Sunnyside",
+            "code": "CBS"
+        },
+        {
+            "phrase": "Canterbury West",
+            "code": "CBW"
+        },
+        {
+            "phrase": "Cameron Bridge",
+            "code": "CBX"
+        },
+        {
+            "phrase": "Charlbury",
+            "code": "CBY"
+        },
+        {
+            "phrase": "Criccieth",
+            "code": "CCC"
+        },
+        {
+            "phrase": "Chichester",
+            "code": "CCH"
+        },
+        {
+            "phrase": "Cathcart",
+            "code": "CCT"
+        },
+        {
+            "phrase": "Cardiff Bay",
+            "code": "CDB"
+        },
+        {
+            "phrase": "Cardenden",
+            "code": "CDD"
+        },
+        {
+            "phrase": "Cardiff Central",
+            "code": "CDF"
+        },
+        {
+            "phrase": "Crediton",
+            "code": "CDI"
+        },
+        {
+            "phrase": "Coulsdon Town",
+            "code": "CDN"
+        },
+        {
+            "phrase": "Cardonald",
+            "code": "CDO"
+        },
+        {
+            "phrase": "Cardiff Queen Street",
+            "code": "CDQ"
+        },
+        {
+            "phrase": "Cardross",
+            "code": "CDR"
+        },
+        {
+            "phrase": "Coulsdon South",
+            "code": "CDS"
+        },
+        {
+            "phrase": "Caldicot",
+            "code": "CDT"
+        },
+        {
+            "phrase": "Cam & Dursley",
+            "code": "CDU"
+        },
+        {
+            "phrase": "Cartsdyke",
+            "code": "CDY"
+        },
+        {
+            "phrase": "Cleland",
+            "code": "CEA"
+        },
+        {
+            "phrase": "Cheddington",
+            "code": "CED"
+        },
+        {
+            "phrase": "Chapel-En-Le-Frith",
+            "code": "CEF"
+        },
+        {
+            "phrase": "Coleshill Parkway",
+            "code": "CEH"
+        },
+        {
+            "phrase": "Chelford",
+            "code": "CEL"
+        },
+        {
+            "phrase": "Cressing",
+            "code": "CES"
+        },
+        {
+            "phrase": "Colchester Town",
+            "code": "CET"
+        },
+        {
+            "phrase": "Cononley",
+            "code": "CEY"
+        },
+        {
+            "phrase": "Catford Bridge",
+            "code": "CFB"
+        },
+        {
+            "phrase": "Corfe Castle",
+            "code": "CFC"
+        },
+        {
+            "phrase": "Castleford",
+            "code": "CFD"
+        },
+        {
+            "phrase": "Croftfoot",
+            "code": "CFF"
+        },
+        {
+            "phrase": "Chafford Hundred",
+            "code": "CFH"
+        },
+        {
+            "phrase": "Crossflatts",
+            "code": "CFL"
+        },
+        {
+            "phrase": "Clifton Down",
+            "code": "CFN"
+        },
+        {
+            "phrase": "Chalfont & Latimer",
+            "code": "CFO"
+        },
+        {
+            "phrase": "Chandlers Ford",
+            "code": "CFR"
+        },
+        {
+            "phrase": "Crofton Park",
+            "code": "CFT"
+        },
+        {
+            "phrase": "Craigendoran",
+            "code": "CGD"
+        },
+        {
+            "phrase": "Cottingham",
+            "code": "CGM"
+        },
+        {
+            "phrase": "Cogan",
+            "code": "CGN"
+        },
+        {
+            "phrase": "Caergwrle",
+            "code": "CGW"
+        },
+        {
+            "phrase": "Charing Cross",
+            "code": "CHC"
+        },
+        {
+            "phrase": "Chesterfield",
+            "code": "CHD"
+        },
+        {
+            "phrase": "Cheam",
+            "code": "CHE"
+        },
+        {
+            "phrase": "Church Fenton",
+            "code": "CHF"
+        },
+        {
+            "phrase": "Charing",
+            "code": "CHG"
+        },
+        {
+            "phrase": "Christs Hospital",
+            "code": "CHH"
+        },
+        {
+            "phrase": "Chingford",
+            "code": "CHI"
+        },
+        {
+            "phrase": "Chiswick",
+            "code": "CHK"
+        },
+        {
+            "phrase": "Chilworth",
+            "code": "CHL"
+        },
+        {
+            "phrase": "Chelmsford",
+            "code": "CHM"
+        },
+        {
+            "phrase": "Cheshunt",
+            "code": "CHN"
+        },
+        {
+            "phrase": "Cholsey",
+            "code": "CHO"
+        },
+        {
+            "phrase": "Chipstead",
+            "code": "CHP"
+        },
+        {
+            "phrase": "Christchurch",
+            "code": "CHR"
+        },
+        {
+            "phrase": "Chathill",
+            "code": "CHT"
+        },
+        {
+            "phrase": "Cheadle Hulme",
+            "code": "CHU"
+        },
+        {
+            "phrase": "Chalkwell",
+            "code": "CHW"
+        },
+        {
+            "phrase": "London Charing Cross",
+            "code": "CHX"
+        },
+        {
+            "phrase": "Chertsey",
+            "code": "CHY"
+        },
+        {
+            "phrase": "Chilham",
+            "code": "CIL"
+        },
+        {
+            "phrase": "Cilmeri",
+            "code": "CIM"
+        },
+        {
+            "phrase": "Caledonian Road & Barnsbury",
+            "code": "CIR"
+        },
+        {
+            "phrase": "Chislehurst",
+            "code": "CIT"
+        },
+        {
+            "phrase": "Corkerhill",
+            "code": "CKH"
+        },
+        {
+            "phrase": "Corkickle",
+            "code": "CKL"
+        },
+        {
+            "phrase": "Crewkerne",
+            "code": "CKN"
+        },
+        {
+            "phrase": "Clarkston",
+            "code": "CKS"
+        },
+        {
+            "phrase": "Crookston",
+            "code": "CKT"
+        },
+        {
+            "phrase": "Crosskeys",
+            "code": "CKY"
+        },
+        {
+            "phrase": "Clandon",
+            "code": "CLA"
+        },
+        {
+            "phrase": "Castle Cary",
+            "code": "CLC"
+        },
+        {
+            "phrase": "Chelsfield",
+            "code": "CLD"
+        },
+        {
+            "phrase": "Cleethorpes",
+            "code": "CLE"
+        },
+        {
+            "phrase": "Claygate",
+            "code": "CLG"
+        },
+        {
+            "phrase": "Clitheroe",
+            "code": "CLH"
+        },
+        {
+            "phrase": "Clifton",
+            "code": "CLI"
+        },
+        {
+            "phrase": "Clapham Junction",
+            "code": "CLJ"
+        },
+        {
+            "phrase": "Clock House",
+            "code": "CLK"
+        },
+        {
+            "phrase": "Collington",
+            "code": "CLL"
+        },
+        {
+            "phrase": "Collingham",
+            "code": "CLM"
+        },
+        {
+            "phrase": "Chapeltown",
+            "code": "CLN"
+        },
+        {
+            "phrase": "Clapham High Street",
+            "code": "CLP"
+        },
+        {
+            "phrase": "Clarbeston Road",
+            "code": "CLR"
+        },
+        {
+            "phrase": "Chester-Le-Street",
+            "code": "CLS"
+        },
+        {
+            "phrase": "Clacton-On-Sea",
+            "code": "CLT"
+        },
+        {
+            "phrase": "Carluke",
+            "code": "CLU"
+        },
+        {
+            "phrase": "Claverdon",
+            "code": "CLV"
+        },
+        {
+            "phrase": "Chorleywood",
+            "code": "CLW"
+        },
+        {
+            "phrase": "Chinley",
+            "code": "CLY"
+        },
+        {
+            "phrase": "Cambridge North",
+            "code": "CMB"
+        },
+        {
+            "phrase": "Camden Road",
+            "code": "CMD"
+        },
+        {
+            "phrase": "Combe",
+            "code": "CME"
+        },
+        {
+            "phrase": "Cromford",
+            "code": "CMF"
+        },
+        {
+            "phrase": "Cwmbach",
+            "code": "CMH"
+        },
+        {
+            "phrase": "Carmyle",
+            "code": "CML"
+        },
+        {
+            "phrase": "Carmarthen",
+            "code": "CMN"
+        },
+        {
+            "phrase": "Camelon",
+            "code": "CMO"
+        },
+        {
+            "phrase": "Cromer",
+            "code": "CMR"
+        },
+        {
+            "phrase": "Cambridge South",
+            "code": "CMS"
+        },
+        {
+            "phrase": "Crossmyloof",
+            "code": "CMY"
+        },
+        {
+            "phrase": "Colne",
+            "code": "CNE"
+        },
+        {
+            "phrase": "Carnforth",
+            "code": "CNF"
+        },
+        {
+            "phrase": "Congleton",
+            "code": "CNG"
+        },
+        {
+            "phrase": "Canley",
+            "code": "CNL"
+        },
+        {
+            "phrase": "Cheltenham Spa",
+            "code": "CNM"
+        },
+        {
+            "phrase": "Canonbury",
+            "code": "CNN"
+        },
+        {
+            "phrase": "Chetnole",
+            "code": "CNO"
+        },
+        {
+            "phrase": "Conway Park",
+            "code": "CNP"
+        },
+        {
+            "phrase": "Crianlarich",
+            "code": "CNR"
+        },
+        {
+            "phrase": "Conisbrough",
+            "code": "CNS"
+        },
+        {
+            "phrase": "Conwy",
+            "code": "CNW"
+        },
+        {
+            "phrase": "Cantley",
+            "code": "CNY"
+        },
+        {
+            "phrase": "Coatdyke",
+            "code": "COA"
+        },
+        {
+            "phrase": "Cooden Beach",
+            "code": "COB"
+        },
+        {
+            "phrase": "Carstairs",
+            "code": "code"
+        },
+        {
+            "phrase": "Coombe",
+            "code": "COE"
+        },
+        {
+            "phrase": "Crowborough",
+            "code": "COH"
+        },
+        {
+            "phrase": "Crosshill",
+            "code": "COI"
+        },
+        {
+            "phrase": "Colchester",
+            "code": "COL"
+        },
+        {
+            "phrase": "Commondale",
+            "code": "COM"
+        },
+        {
+            "phrase": "Connel Ferry",
+            "code": "CON"
+        },
+        {
+            "phrase": "Cookham",
+            "code": "COO"
+        },
+        {
+            "phrase": "Copplestone",
+            "code": "COP"
+        },
+        {
+            "phrase": "Corby",
+            "code": "COR"
+        },
+        {
+            "phrase": "Cosford",
+            "code": "COS"
+        },
+        {
+            "phrase": "Cottingley",
+            "code": "COT"
+        },
+        {
+            "phrase": "Coventry",
+            "code": "COV"
+        },
+        {
+            "phrase": "Cowdenbeath",
+            "code": "COW"
+        },
+        {
+            "phrase": "Coryton",
+            "code": "COY"
+        },
+        {
+            "phrase": "Corpach",
+            "code": "CPA"
+        },
+        {
+            "phrase": "Caerphilly",
+            "code": "CPH"
+        },
+        {
+            "phrase": "Carpenders Park",
+            "code": "CPK"
+        },
+        {
+            "phrase": "Chippenham",
+            "code": "CPM"
+        },
+        {
+            "phrase": "Chapleton",
+            "code": "CPN"
+        },
+        {
+            "phrase": "Clapton",
+            "code": "CPT"
+        },
+        {
+            "phrase": "Capenhurst",
+            "code": "CPU"
+        },
+        {
+            "phrase": "Chepstow",
+            "code": "CPW"
+        },
+        {
+            "phrase": "Clapham",
+            "code": "CPY"
+        },
+        {
+            "phrase": "Cradley Heath",
+            "code": "CRA"
+        },
+        {
+            "phrase": "Corbridge",
+            "code": "CRB"
+        },
+        {
+            "phrase": "Chester Road",
+            "code": "CRD"
+        },
+        {
+            "phrase": "Crewe",
+            "code": "CRE"
+        },
+        {
+            "phrase": "Carfin",
+            "code": "CRF"
+        },
+        {
+            "phrase": "Cross Gates",
+            "code": "CRG"
+        },
+        {
+            "phrase": "Crouch Hill",
+            "code": "CRH"
+        },
+        {
+            "phrase": "Cricklewood",
+            "code": "CRI"
+        },
+        {
+            "phrase": "Chirk",
+            "code": "CRK"
+        },
+        {
+            "phrase": "Chorley",
+            "code": "CRL"
+        },
+        {
+            "phrase": "Cramlington",
+            "code": "CRM"
+        },
+        {
+            "phrase": "Crowthorne",
+            "code": "CRN"
+        },
+        {
+            "phrase": "Croy",
+            "code": "CRO"
+        },
+        {
+            "phrase": "Corrour",
+            "code": "CRR"
+        },
+        {
+            "phrase": "Chartham",
+            "code": "CRT"
+        },
+        {
+            "phrase": "Craven Arms",
+            "code": "CRV"
+        },
+        {
+            "phrase": "Crawley",
+            "code": "CRW"
+        },
+        {
+            "phrase": "Crayford",
+            "code": "CRY"
+        },
+        {
+            "phrase": "Cosham",
+            "code": "CSA"
+        },
+        {
+            "phrase": "Carshalton Beeches",
+            "code": "CSB"
+        },
+        {
+            "phrase": "Cobham & Stoke Dabernon",
+            "code": "CSD"
+        },
+        {
+            "phrase": "Cressington",
+            "code": "CSG"
+        },
+        {
+            "phrase": "Carshalton",
+            "code": "CSH"
+        },
+        {
+            "phrase": "Calstock",
+            "code": "CSK"
+        },
+        {
+            "phrase": "Codsall",
+            "code": "CSL"
+        },
+        {
+            "phrase": "Castleton Moor",
+            "code": "CSM"
+        },
+        {
+            "phrase": "Chessington North",
+            "code": "CSN"
+        },
+        {
+            "phrase": "Croston",
+            "code": "CSO"
+        },
+        {
+            "phrase": "Chassen Road",
+            "code": "CSR"
+        },
+        {
+            "phrase": "Chessington South",
+            "code": "CSS"
+        },
+        {
+            "phrase": "London Cannon Street",
+            "code": "CST"
+        },
+        {
+            "phrase": "Chestfield & Swalecliffe",
+            "code": "CSW"
+        },
+        {
+            "phrase": "Coseley",
+            "code": "CSY"
+        },
+        {
+            "phrase": "Chatelherault",
+            "code": "CTE"
+        },
+        {
+            "phrase": "Catford",
+            "code": "CTF"
+        },
+        {
+            "phrase": "Chadwell Heath",
+            "code": "CTH"
+        },
+        {
+            "phrase": "City Thameslink",
+            "code": "CTK"
+        },
+        {
+            "phrase": "Cattal",
+            "code": "CTL"
+        },
+        {
+            "phrase": "Chatham",
+            "code": "CTM"
+        },
+        {
+            "phrase": "Charlton",
+            "code": "CTN"
+        },
+        {
+            "phrase": "Carlton",
+            "code": "CTO"
+        },
+        {
+            "phrase": "Chester",
+            "code": "CTR"
+        },
+        {
+            "phrase": "Church Stretton",
+            "code": "CTT"
+        },
+        {
+            "phrase": "Church & Oswaldtwistle",
+            "code": "CTW"
+        },
+        {
+            "phrase": "Culrain",
+            "code": "CUA"
+        },
+        {
+            "phrase": "Cumbernauld",
+            "code": "CUB"
+        },
+        {
+            "phrase": "Cuddington",
+            "code": "CUD"
+        },
+        {
+            "phrase": "Cuffley",
+            "code": "CUF"
+        },
+        {
+            "phrase": "Curriehill",
+            "code": "CUH"
+        },
+        {
+            "phrase": "Culham",
+            "code": "CUM"
+        },
+        {
+            "phrase": "Cupar",
+            "code": "CUP"
+        },
+        {
+            "phrase": "Custom House",
+            "code": "CUS"
+        },
+        {
+            "phrase": "Clunderwen",
+            "code": "CUW"
+        },
+        {
+            "phrase": "Cuxton",
+            "code": "CUX"
+        },
+        {
+            "phrase": "Colwyn Bay",
+            "code": "CWB"
+        },
+        {
+            "phrase": "Chappel & Wakes Colne",
+            "code": "CWC"
+        },
+        {
+            "phrase": "Creswell",
+            "code": "CWD"
+        },
+        {
+            "phrase": "Crowle",
+            "code": "CWE"
+        },
+        {
+            "phrase": "Crews Hill",
+            "code": "CWH"
+        },
+        {
+            "phrase": "Colwall",
+            "code": "CWL"
+        },
+        {
+            "phrase": "Cwmbran",
+            "code": "CWM"
+        },
+        {
+            "phrase": "Cowden",
+            "code": "CWN"
+        },
+        {
+            "phrase": "Caersws",
+            "code": "CWS"
+        },
+        {
+            "phrase": "Crowhurst",
+            "code": "CWU"
+        },
+        {
+            "phrase": "Canary Wharf",
+            "code": "CWX"
+        },
+        {
+            "phrase": "Cefn-Y-Bedd",
+            "code": "CYB"
+        },
+        {
+            "phrase": "Clydebank",
+            "code": "CYK"
+        },
+        {
+            "phrase": "Cynghordy",
+            "code": "CYN"
+        },
+        {
+            "phrase": "Crystal Palace",
+            "code": "CYP"
+        },
+        {
+            "phrase": "Cathays",
+            "code": "CYS"
+        },
+        {
+            "phrase": "Cherry Tree",
+            "code": "CYT"
+        }
+    ]
+}

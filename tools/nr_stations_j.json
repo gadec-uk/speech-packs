@@ -1,0 +1,25 @@
+{
+    "path": "SN/J",
+    "phrases": [
+        {
+            "phrase": "James Cook University Hospital",
+            "code": "JCH"
+        },
+        {
+            "phrase": "Jewellery Quarter",
+            "code": "JEQ"
+        },
+        {
+            "phrase": "Johnstone",
+            "code": "JHN"
+        },
+        {
+            "phrase": "Johnston",
+            "code": "JOH"
+        },
+        {
+            "phrase": "Jordanhill",
+            "code": "JOR"
+        }
+    ]
+}
