@@ -152,6 +152,26 @@
         {
             "phrase": "This is due to a fire at a station earlier today.",
             "code": "C37"
+        },
+        {
+            "phrase": "This is due to a failure of the electricity supply.",
+            "code": "C38"
+        },
+        {
+            "phrase": "This is due to the train being late from the depot.",
+            "code": "C39"
+        },
+        {
+            "phrase": "This is due to a shortage of train conductors.",
+            "code": "C40"
+        },
+        {
+            "phrase": "This is due to a fire on property near the railway.",
+            "code": "C41"
+        },
+        {
+            "phrase": "This is due to a broken rail.",
+            "code": "C42"
         }
     ]
 }
